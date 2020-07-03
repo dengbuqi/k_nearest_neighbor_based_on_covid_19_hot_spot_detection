@@ -1,0 +1,1391 @@
+1000000002,5,male,1987,33,Korea,Seoul,Jungnang-gu,0,overseas inflow,1,0,31,0,2020-01-30,2020-03-02,0,released,23,31,1,0.7,16.65,6.9,689
+1000000003,6,male,1964,56,Korea,Seoul,Jongno-gu,0,contact with patient,2,2002000001,17,0,2020-01-30,2020-02-19,0,released,13,17,3,1.71,18.27,6.8,668
+1000000004,7,male,1991,29,Korea,Seoul,Mapo-gu,0,overseas inflow,1,0,9,2020-01-26,2020-01-30,2020-02-15,0,released,22,24,2,1.83,14.05,4.9,929
+1000000007,11,male,1995,25,Korea,Seoul,Jongno-gu,0,contact with patient,3,1000000003,0,0,2020-01-31,2020-02-10,0,released,13,17,3,1.71,18.27,6.8,668
+1000000009,19,male,1983,37,Korea,Seoul,Songpa-gu,0,overseas inflow,2,0,68,0,2020-02-05,2020-02-21,0,released,40,51,1,1.65,13.1,4.1,1527
+1000000013,29,male,1938,82,Korea,Seoul,Jongno-gu,0,contact with patient,4,1000000017,117,0,2020-02-16,0,0,deceased,13,17,3,1.71,18.27,6.8,668
+1000000015,40,male,1943,77,Korea,Seoul,Seongdong-gu,0,Seongdong-gu APT,0,0,8,2020-02-11,2020-02-19,0,0,released,21,30,2,0.97,14.76,5.3,593
+1000000016,56,male,1945,75,Korea,Seoul,Jongno-gu,0,contact with patient,4,1000000017,0,0,2020-02-19,2020-03-11,0,released,13,17,3,1.71,18.27,6.8,668
+1000000017,83,male,1944,76,Korea,Seoul,Jongno-gu,0,contact with patient,3,1000000003,0,0,2020-02-20,2020-03-01,0,released,13,17,3,1.71,18.27,6.8,668
+1000000021,136,male,1936,84,Korea,Seoul,Jongno-gu,0,contact with patient,5,1000000016,0,0,2020-02-20,2020-03-08,0,released,13,17,3,1.71,18.27,6.8,668
+1000000022,161,male,1985,35,Korea,Seoul,Seodaemun-gu,0,Eunpyeong St. Mary's Hospital,0,0,0,0,2020-02-21,0,0,released,19,25,6,1.12,16.77,6.2,587
+1000000023,188,male,1961,59,Korea,Seoul,Seocho-gu,0,Shincheonji Church,0,0,0,0,2020-02-21,0,0,released,24,27,1,2.6,13.39,3.8,1465
+1000000024,348,male,1980,40,Korea,Seoul,Guro-gu,0,contact with patient,0,0,0,0,2020-02-22,2020-03-14,0,released,26,34,3,1,16.21,5.7,741
+1000000025,365,male,1958,62,Korea,Seoul,Gangdong-gu,0,Eunpyeong St. Mary's Hospital,0,1000000022,0,0,2020-02-22,0,0,released,27,32,0,1.54,14.55,5.4,1023
+1000000026,420,male,1986,34,Korea,Seoul,Seocho-gu,0,etc,0,0,0,2020-02-21,2020-02-22,2020-03-11,0,released,24,27,1,2.6,13.39,3.8,1465
+1000000027,593,male,1968,52,Korea,Seoul,Gangseo-gu,0,overseas inflow,0,0,0,0,2020-02-23,2020-03-04,0,released,36,56,1,1.17,14.39,5.7,1080
+1000000030,755,male,1954,66,China,Seoul,Gangdong-gu,0,Eunpyeong St. Mary's Hospital,0,0,0,0,2020-02-23,0,0,released,27,32,0,1.54,14.55,5.4,1023
+1000000031,780,male,1965,55,Korea,Seoul,Songpa-gu,0,etc,0,0,0,0,2020-02-22,2020-03-19,0,released,40,51,1,1.65,13.1,4.1,1527
+1000000032,787,male,1962,58,Korea,Seoul,Seocho-gu,0,contact with patient,0,0,0,0,2020-02-23,0,0,released,24,27,1,2.6,13.39,3.8,1465
+1000000034,797,male,2000,20,Korea,Seoul,Songpa-gu,0,contact with patient,0,1000000031,0,0,2020-02-24,2020-03-17,0,released,40,51,1,1.65,13.1,4.1,1527
+1000000041,938,male,1968,52,Korea,Seoul,Gangdong-gu,0,etc,0,0,0,0,2020-02-25,2020-03-04,0,released,27,32,0,1.54,14.55,5.4,1023
+1000000042,996,male,1977,43,Korea,Seoul,Nowon-gu,0,etc,0,0,0,0,2020-02-26,0,0,released,42,66,6,1.39,15.4,7.4,952
+1000000044,1027,male,1958,62,Korea,Seoul,Dongjak-gu,0,contact with patient,0,0,0,0,2020-02-26,0,0,released,21,34,3,1.17,15.85,5.2,762
+1000000045,1118,male,1979,41,Korea,Seoul,Songpa-gu,0,contact with patient,0,1000000033,0,0,2020-02-26,2020-03-04,0,released,40,51,1,1.65,13.1,4.1,1527
+1000000047,1247,male,1993,27,Korea,Seoul,Gangnam-gu,0,Shincheonji Church,0,0,0,0,2020-02-26,2020-03-11,0,released,0,38,0,4.18,13.17,4.3,3088
+1000000049,1254,male,1956,64,Korea,Seoul,Eunpyeong-gu,0,Eunpyeong St. Mary's Hospital,0,0,0,0,2020-02-26,0,0,released,31,44,1,1.09,17,6.5,874
+1000000050,1295,male,1994,26,Korea,Seoul,Gwanak-gu,0,etc,0,0,0,2020-02-24,2020-02-27,0,0,released,22,33,1,0.89,15.12,4.9,909
+1000000052,1378,male,1984,36,Korea,Seoul,Songpa-gu,0,overseas inflow,0,0,0,0,2020-02-27,2020-03-03,0,released,40,51,1,1.65,13.1,4.1,1527
+1000000060,1768,male,1935,85,Korea,Seoul,Eunpyeong-gu,0,Eunpyeong St. Mary's Hospital,0,1000000054,0,2020-02-23,2020-02-28,0,0,released,31,44,1,1.09,17,6.5,874
+1000000061,1788,male,1955,65,Korea,Seoul,Seodaemun-gu,0,Eunpyeong St. Mary's Hospital,0,1000000022,0,2020-02-26,2020-02-28,2020-03-14,0,released,19,25,6,1.12,16.77,6.2,587
+1000000062,1907,male,1973,47,Korea,Seoul,Seodaemun-gu,0,etc,0,2017000005,0,2020-02-26,2020-02-28,0,0,released,19,25,6,1.12,16.77,6.2,587
+1000000063,2466,male,1985,35,Korea,Seoul,Gwanak-gu,0,etc,0,0,0,0,2020-02-29,2020-03-03,0,released,22,33,1,0.89,15.12,4.9,909
+1000000065,2469,male,1987,33,Korea,Seoul,Gangnam-gu,0,contact with patient,0,1000000068,0,0,2020-02-29,2020-03-14,0,released,0,38,0,4.18,13.17,4.3,3088
+1000000066,2470,male,1986,34,Korea,Seoul,Gangnam-gu,0,etc,0,0,0,0,2020-02-29,2020-03-04,0,released,0,38,0,4.18,13.17,4.3,3088
+1000000069,2666,male,1974,46,Korea,Seoul,Nowon-gu,0,etc,0,0,0,0,2020-02-27,0,0,released,42,66,6,1.39,15.4,7.4,952
+1000000074,2858,male,1967,53,Korea,Seoul,Seocho-gu,0,etc,0,0,0,0,2020-02-27,2020-03-04,0,released,24,27,1,2.6,13.39,3.8,1465
+1000000075,3007,male,1982,38,Korea,Seoul,Gwangjin-gu,0,overseas inflow,0,0,0,0,2020-02-27,0,0,released,22,33,3,1.16,13.75,4.8,723
+1000000076,3054,male,1977,43,Korea,Seoul,Dongdaemun-gu,0,contact with patient,0,0,0,2020-02-26,2020-02-27,2020-03-14,0,released,21,31,4,1.06,17.26,6.7,832
+1000000078,3261,male,1974,46,Korea,Seoul,Nowon-gu,0,Seongdong-gu APT,0,1000000020,0,0,2020-02-25,0,0,released,42,66,6,1.39,15.4,7.4,952
+1000000082,3517,male,1951,69,Korea,Seoul,Yeongdeungpo-gu,0,overseas inflow,0,0,0,2020-02-18,2020-02-29,0,0,released,23,39,0,1.21,15.6,5.8,1001
+1000000087,3703,male,2005,15,Korea,Seoul,Nowon-gu,0,Seongdong-gu APT,0,0,0,2020-02-24,2020-02-28,0,0,released,42,66,6,1.39,15.4,7.4,952
+1000000088,3790,male,1975,45,Korea,Seoul,Gwangjin-gu,0,Seongdong-gu APT,0,0,0,0,2020-03-01,0,0,released,22,33,3,1.16,13.75,4.8,723
+1000000089,3793,male,1970,50,Korea,Seoul,Seongbuk-gu,0,Seongdong-gu APT,0,0,0,0,2020-03-01,0,0,released,29,49,6,1.02,16.15,6,729
+1000000090,3815,male,1969,51,Korea,Seoul,Yeongdeungpo-gu,0,Seongdong-gu APT,0,0,0,0,2020-03-01,0,0,released,23,39,0,1.21,15.6,5.8,1001
+1000000091,4174,male,1972,48,Korea,Seoul,Yeongdeungpo-gu,0,etc,0,0,0,2020-02-21,2020-02-29,0,0,released,23,39,0,1.21,15.6,5.8,1001
+1000000092,4224,male,2000,20,Korea,Seoul,Yeongdeungpo-gu,0,Seongdong-gu APT,0,0,0,2020-02-26,2020-03-02,0,0,released,23,39,0,1.21,15.6,5.8,1001
+1000000096,4645,male,1982,38,Korea,Seoul,Dobong-gu,0,etc,0,0,0,2020-03-01,2020-03-02,0,0,released,23,26,1,0.95,17.89,7.2,485
+1000000097,4709,male,1985,35,Korea,Seoul,Yangcheon-gu,0,contact with patient,0,0,0,0,2020-03-01,0,0,released,30,43,0,2.26,13.55,5.5,816
+1000000098,4743,male,1966,54,Korea,Seoul,Seocho-gu,0,etc,0,0,0,0,2020-03-02,0,0,released,24,27,1,2.6,13.39,3.8,1465
+1000000100,5592,male,1985,35,Korea,Seoul,Dongdaemun-gu,0,Dongan Church,0,0,0,0,2020-03-04,0,0,released,21,31,4,1.06,17.26,6.7,832
+1000000103,5695,male,1997,23,Korea,Seoul,Dongdaemun-gu,0,overseas inflow,0,0,0,0,2020-03-04,2020-03-20,0,released,21,31,4,1.06,17.26,6.7,832
+1000000105,6131,male,1986,34,Korea,Seoul,Gangnam-gu,0,etc,0,0,0,0,2020-03-05,0,0,released,0,38,0,4.18,13.17,4.3,3088
+1000000106,6384,male,1986,34,Korea,Seoul,Gangseo-gu,0,contact with patient,0,0,0,0,2020-03-06,0,0,released,36,56,1,1.17,14.39,5.7,1080
+1000000110,6781,male,1964,56,Korea,Seoul,Gangnam-gu,0,contact with patient,0,0,0,0,2020-03-07,2020-03-19,0,released,0,38,0,4.18,13.17,4.3,3088
+1000000111,6832,male,1984,36,Korea,Seoul,Gangbuk-gu,0,contact with patient,0,0,0,0,2020-03-04,0,0,released,14,21,0,0.67,19.49,8.5,628
+1000000116,6959,male,1987,33,Korea,Seoul,Eunpyeong-gu,0,overseas inflow,0,0,0,0,2020-03-07,0,0,released,31,44,1,1.09,17,6.5,874
+1000000117,6999,male,1955,65,Korea,Seoul,Seocho-gu,0,contact with patient,0,1000000040,0,2020-03-06,2020-03-07,0,0,released,24,27,1,2.6,13.39,3.8,1465
+1000000118,7011,male,1966,54,Korea,Seoul,Yangcheon-gu,0,contact with patient,0,1000000114,0,0,2020-03-07,0,0,released,30,43,0,2.26,13.55,5.5,816
+1000000119,7027,male,1955,65,Korea,Seoul,Gangbuk-gu,0,contact with patient,0,1000000111,0,2020-02-27,2020-03-06,0,0,released,14,21,0,0.67,19.49,8.5,628
+1000000120,7103,male,1981,39,Korea,Seoul,Seongbuk-gu,0,Dongan Church,0,0,0,0,2020-03-06,0,0,released,29,49,6,1.02,16.15,6,729
+1000000124,7247,male,1993,27,Korea,Seoul,Dongdaemun-gu,0,Dongan Church,0,0,0,0,2020-03-08,0,0,released,21,31,4,1.06,17.26,6.7,832
+1000000127,7280,male,1969,51,Korea,Seoul,Gangnam-gu,0,contact with patient,0,1000000108,0,0,2020-03-08,0,0,released,0,38,0,4.18,13.17,4.3,3088
+1000000128,7281,male,1951,69,Korea,Seoul,Dongdaemun-gu,0,contact with patient,0,1000000120,0,2020-03-05,2020-03-08,0,0,released,21,31,4,1.06,17.26,6.7,832
+1000000130,7300,male,1993,27,Korea,Seoul,Dongdaemun-gu,0,contact with patient,0,1000000100,0,0,2020-03-08,0,0,released,21,31,4,1.06,17.26,6.7,832
+1000000132,7479,male,1963,57,Korea,Seoul,Eunpyeong-gu,0,Guro-gu Call Center,0,0,0,0,2020-03-09,0,0,released,31,44,1,1.09,17,6.5,874
+1000000135,7513,male,1989,31,Korea,Seoul,Eunpyeong-gu,0,etc,0,0,0,0,2020-03-09,0,0,released,31,44,1,1.09,17,6.5,874
+1000000139,8050,male,1990,30,Korea,Seoul,Yangcheon-gu,0,Guro-gu Call Center,0,0,0,0,2020-03-09,0,0,released,30,43,0,2.26,13.55,5.5,816
+1000000143,8003,male,1977,43,Korea,Seoul,Yangcheon-gu,0,Guro-gu Call Center,0,0,0,2020-03-06,2020-03-09,0,0,released,30,43,0,2.26,13.55,5.5,816
+1000000145,7710,male,1975,45,Korea,Seoul,Guro-gu,0,Guro-gu Call Center,0,0,0,0,2020-03-09,0,0,released,26,34,3,1,16.21,5.7,741
+1000000147,7544,male,1998,22,Korea,Seoul,Guro-gu,0,Guro-gu Call Center,0,0,0,0,2020-03-09,0,0,released,26,34,3,1,16.21,5.7,741
+1000000148,7480,male,1965,55,Korea,Seoul,Guro-gu,0,Guro-gu Call Center,0,0,0,0,2020-03-09,0,0,released,26,34,3,1,16.21,5.7,741
+1000000174,7571,male,1993,27,Korea,Seoul,Dongdaemun-gu,0,contact with patient,0,1000000124,0,0,2020-03-10,0,0,released,21,31,4,1.06,17.26,6.7,832
+1000000177,7523,male,1979,41,Korea,Seoul,Guro-gu,0,Guro-gu Call Center,0,0,0,0,2020-03-10,0,0,released,26,34,3,1,16.21,5.7,741
+1000000179,7584,male,1970,50,Korea,Seoul,Guro-gu,0,Guro-gu Call Center,0,0,0,0,2020-03-10,0,0,released,26,34,3,1,16.21,5.7,741
+1000000184,7823,male,1982,38,Korea,Seoul,Mapo-gu,0,Guro-gu Call Center,0,0,0,2020-03-09,2020-03-10,0,0,released,22,24,2,1.83,14.05,4.9,929
+1000000189,7536,male,1992,28,Korea,Seoul,Dongdaemun-gu,0,contact with patient,0,1000000124,0,2020-03-02,2020-03-10,0,0,released,21,31,4,1.06,17.26,6.7,832
+1000000193,7826,male,1991,29,Korea,Seoul,Gwanak-gu,0,Guro-gu Call Center,0,0,0,0,2020-03-10,0,0,released,22,33,1,0.89,15.12,4.9,909
+1000000194,7787,male,1974,46,Korea,Seoul,Gwanak-gu,0,Guro-gu Call Center,0,0,0,0,2020-03-10,0,0,released,22,33,1,0.89,15.12,4.9,909
+1000000197,7524,male,1953,67,Korea,Seoul,Yangcheon-gu,0,Guro-gu Call Center,0,0,0,0,2020-03-10,0,0,released,30,43,0,2.26,13.55,5.5,816
+1000000201,7711,male,1989,31,Korea,Seoul,Nowon-gu,0,Guro-gu Call Center,0,0,0,2020-03-10,2020-03-10,0,0,released,42,66,6,1.39,15.4,7.4,952
+1000000202,7567,male,1959,61,Korea,Seoul,Nowon-gu,0,Guro-gu Call Center,0,0,0,2020-03-08,2020-03-10,0,0,released,42,66,6,1.39,15.4,7.4,952
+1000000203,7842,male,1999,21,Korea,Seoul,Gangseo-gu,0,Guro-gu Call Center,0,0,0,0,2020-03-11,0,0,released,36,56,1,1.17,14.39,5.7,1080
+1000000204,7851,male,1967,53,Korea,Seoul,Gangseo-gu,0,Guro-gu Call Center,0,0,0,0,2020-03-11,0,0,released,36,56,1,1.17,14.39,5.7,1080
+1000000208,7857,male,1973,47,Korea,Seoul,Jungnang-gu,0,Guro-gu Call Center,0,0,0,0,2020-03-11,0,0,released,23,31,1,0.7,16.65,6.9,689
+1000000209,7765,male,1941,79,Korea,Seoul,Guro-gu,0,Guro-gu Call Center,0,0,0,2020-03-10,2020-03-11,0,0,released,26,34,3,1,16.21,5.7,741
+1000000210,7836,male,1966,54,Korea,Seoul,Eunpyeong-gu,0,etc,0,0,0,0,2020-03-11,0,0,released,31,44,1,1.09,17,6.5,874
+1000000211,7759,male,2000,20,Korea,Seoul,Dongdaemun-gu,0,Dongan Church,0,0,0,0,2020-03-11,0,0,released,21,31,4,1.06,17.26,6.7,832
+1000000216,8063,male,1987,33,Korea,Seoul,Seongbuk-gu,0,overseas inflow,0,0,0,0,2020-03-11,0,0,released,29,49,6,1.02,16.15,6,729
+1000000217,7967,male,1992,28,Korea,Seoul,Seongbuk-gu,0,Dongan Church,0,0,0,0,2020-03-11,0,0,released,29,49,6,1.02,16.15,6,729
+1000000218,8300,male,1974,46,Korea,Seoul,Guro-gu,0,Guro-gu Call Center,0,0,0,2020-03-10,2020-03-11,0,0,released,26,34,3,1,16.21,5.7,741
+1000000220,7810,male,1969,51,Korea,Seoul,Dongdaemun-gu,0,Dongan Church,0,0,0,0,2020-03-11,0,0,released,21,31,4,1.06,17.26,6.7,832
+1000000221,7893,male,2007,13,Korea,Seoul,Nowon-gu,0,contact with patient,0,1000000164,0,0,2020-03-12,0,0,released,42,66,6,1.39,15.4,7.4,952
+1000000222,7965,male,1964,56,Korea,Seoul,Gangbuk-gu,0,overseas inflow,0,0,0,0,2020-03-12,0,0,released,14,21,0,0.67,19.49,8.5,628
+1000000224,7874,male,2004,16,Korea,Seoul,Dongdaemun-gu,0,contact with patient,0,1000000211,0,0,2020-03-12,0,0,released,21,31,4,1.06,17.26,6.7,832
+1000000225,7939,male,1998,22,Korea,Seoul,Seongbuk-gu,0,contact with patient,0,1000000212,0,0,2020-03-12,0,0,released,29,49,6,1.02,16.15,6,729
+1000000226,7925,male,1991,29,Korea,Seoul,Geumcheon-gu,0,Guro-gu Call Center,0,0,0,0,2020-03-12,0,0,released,18,19,0,0.96,16.15,6.7,475
+1000000227,7914,male,1982,38,Korea,Seoul,Geumcheon-gu,0,etc,0,0,0,2020-03-10,2020-03-12,0,0,released,18,19,0,0.96,16.15,6.7,475
+1000000229,8057,male,1984,36,Korea,Seoul,Yongsan-gu,0,overseas inflow,0,0,0,0,2020-03-12,0,0,released,15,13,1,0.68,16.87,6.5,435
+1000000230,7923,male,1992,28,Korea,Seoul,Gwanak-gu,0,overseas inflow,0,0,0,0,2020-03-12,0,0,released,22,33,1,0.89,15.12,4.9,909
+1000000232,8074,male,1998,22,Korea,Seoul,Gwanak-gu,0,contact with patient,0,1000000230,0,0,2020-03-13,0,0,released,22,33,1,0.89,15.12,4.9,909
+1000000235,7980,male,1968,52,Korea,Seoul,Dongjak-gu,0,contact with patient,0,0,0,0,2020-03-13,0,0,released,21,34,3,1.17,15.85,5.2,762
+1000000236,8053,male,1991,29,Korea,Seoul,Nowon-gu,0,overseas inflow,0,0,0,0,2020-03-13,0,0,released,42,66,6,1.39,15.4,7.4,952
+1000000239,8059,male,1994,26,Korea,Seoul,Dongdaemun-gu,0,Dongan Church,0,0,0,0,2020-03-13,0,0,released,21,31,4,1.06,17.26,6.7,832
+1000000240,7986,male,1966,54,Korea,Seoul,Dongdaemun-gu,0,Dongan Church,0,0,0,2020-03-05,2020-03-13,0,0,released,21,31,4,1.06,17.26,6.7,832
+1000000242,8125,male,1995,25,Korea,Seoul,Mapo-gu,0,contact with patient,0,1000000237,0,2020-03-11,2020-03-14,0,0,released,22,24,2,1.83,14.05,4.9,929
+1000000245,8140,male,1981,39,Korea,Seoul,Yeongdeungpo-gu,0,Guro-gu Call Center,0,0,0,0,2020-03-14,0,0,released,23,39,0,1.21,15.6,5.8,1001
+1000000246,8138,male,1967,53,Korea,Seoul,Yeongdeungpo-gu,0,etc,0,0,0,2020-03-11,2020-03-14,0,0,released,23,39,0,1.21,15.6,5.8,1001
+1000000247,8096,male,1969,51,Korea,Seoul,Guro-gu,0,overseas inflow,0,0,0,0,2020-03-14,0,0,released,26,34,3,1,16.21,5.7,741
+1000000251,8183,male,2012,8,Korea,Seoul,Guro-gu,0,Guro-gu Call Center,0,0,0,0,2020-03-15,0,0,released,26,34,3,1,16.21,5.7,741
+1000000252,8717,male,1982,38,Korea,Seoul,Gangseo-gu,0,etc,0,0,0,2020-03-12,2020-03-15,0,0,released,36,56,1,1.17,14.39,5.7,1080
+1000000253,8178,male,1967,53,Korea,Seoul,Guro-gu,0,Guro-gu Call Center,0,0,0,0,2020-03-15,0,0,isolated,26,34,3,1,16.21,5.7,741
+1000000257,8306,male,1986,34,Korea,Seoul,Guro-gu,0,Guro-gu Call Center,0,0,0,0,2020-03-16,0,0,released,26,34,3,1,16.21,5.7,741
+1000000258,8317,male,1993,27,Korea,Seoul,Dongdaemun-gu,0,Dongan Church,0,0,0,0,2020-03-16,0,0,released,21,31,4,1.06,17.26,6.7,832
+1000000259,8270,male,1995,25,Korea,Seoul,Dongdaemun-gu,0,Dongan Church,0,0,0,0,2020-03-16,0,0,released,21,31,4,1.06,17.26,6.7,832
+1000000260,8311,male,1999,21,Korea,Seoul,Seodaemun-gu,0,etc,0,0,0,0,2020-03-16,0,0,released,19,25,6,1.12,16.77,6.2,587
+1000000261,8297,male,1978,42,Korea,Seoul,Gwanak-gu,0,etc,0,0,0,0,2020-03-16,0,0,released,22,33,1,0.89,15.12,4.9,909
+1000000263,8268,male,2001,19,Korea,Seoul,Guro-gu,0,contact with patient,0,1000000250,0,2020-03-13,2020-03-16,0,0,released,26,34,3,1,16.21,5.7,741
+1000000264,8245,male,1978,42,Korea,Seoul,Gangseo-gu,0,contact with patient,0,0,0,0,2020-03-16,0,0,released,36,56,1,1.17,14.39,5.7,1080
+1000000265,8408,male,1986,34,Korea,Seoul,Gwanak-gu,0,etc,0,0,0,0,2020-03-16,0,0,released,22,33,1,0.89,15.12,4.9,909
+1000000266,8271,male,1994,26,Korea,Seoul,Yeongdeungpo-gu,0,overseas inflow,0,0,0,2020-03-12,2020-03-16,0,0,released,23,39,0,1.21,15.6,5.8,1001
+1000000268,8390,male,2006,14,Korea,Seoul,Dongdaemun-gu,0,Dongan Church,0,0,0,0,2020-03-17,0,0,released,21,31,4,1.06,17.26,6.7,832
+1000000271,8455,male,1994,26,Korea,Seoul,Mapo-gu,0,overseas inflow,0,0,0,2020-03-16,2020-03-17,0,0,released,22,24,2,1.83,14.05,4.9,929
+1000000272,8517,male,1975,45,Korea,Seoul,Gangnam-gu,0,overseas inflow,0,0,0,0,2020-03-18,0,0,released,0,38,0,4.18,13.17,4.3,3088
+1000000276,8461,male,2012,8,Korea,Seoul,Yangcheon-gu,0,Guro-gu Call Center,0,0,0,2020-03-16,2020-03-18,0,0,released,30,43,0,2.26,13.55,5.5,816
+1000000277,8446,male,1984,36,Korea,Seoul,Dongjak-gu,0,overseas inflow,0,0,0,0,2020-03-18,0,0,released,21,34,3,1.17,15.85,5.2,762
+1000000279,8486,male,1929,91,Korea,Seoul,Yongsan-gu,0,etc,0,0,0,2020-03-11,2020-03-18,0,0,released,15,13,1,0.68,16.87,6.5,435
+1000000280,8547,male,1977,43,Korea,Seoul,Gangnam-gu,0,etc,0,0,0,0,2020-03-18,0,0,released,0,38,0,4.18,13.17,4.3,3088
+1000000282,8557,male,1985,35,Korea,Seoul,Gwangjin-gu,0,overseas inflow,0,0,0,0,2020-03-18,0,0,released,22,33,3,1.16,13.75,4.8,723
+1000000285,8602,male,1976,44,Korea,Seoul,Mapo-gu,0,Guro-gu Call Center,0,0,0,0,2020-03-19,0,0,deceased,22,24,2,1.83,14.05,4.9,929
+1000000287,8636,male,2005,15,Korea,Seoul,Mapo-gu,0,Guro-gu Call Center,0,0,0,0,2020-03-19,0,0,released,22,24,2,1.83,14.05,4.9,929
+1000000289,8619,male,1997,23,Korea,Seoul,Dongjak-gu,0,overseas inflow,0,0,0,0,2020-03-19,0,0,released,21,34,3,1.17,15.85,5.2,762
+1000000299,8612,male,1972,48,Korea,Seoul,Nowon-gu,0,overseas inflow,0,0,0,0,2020-03-19,0,0,released,42,66,6,1.39,15.4,7.4,952
+1000000301,8762,male,1982,38,Korea,Seoul,Dongjak-gu,0,etc,0,0,0,0,2020-03-20,0,0,released,21,34,3,1.17,15.85,5.2,762
+1000000302,8669,male,2009,11,Korea,Seoul,Dongjak-gu,0,overseas inflow,0,0,8,2020-03-19,2020-03-20,0,0,released,21,34,3,1.17,15.85,5.2,762
+1000000303,8787,male,1950,70,Korea,Seoul,Yeongdeungpo-gu,0,overseas inflow,0,0,0,2020-03-07,2020-03-20,0,0,released,23,39,0,1.21,15.6,5.8,1001
+1000000305,8791,male,1997,23,Korea,Seoul,Jungnang-gu,0,overseas inflow,0,0,0,0,2020-03-20,0,0,released,23,31,1,0.7,16.65,6.9,689
+1000000306,8709,male,1994,26,Korea,Seoul,Eunpyeong-gu,0,overseas inflow,0,0,0,0,2020-03-20,0,0,released,31,44,1,1.09,17,6.5,874
+1000000307,8713,male,1960,60,Korea,Seoul,Nowon-gu,0,contact with patient,0,1000000279,0,0,2020-03-20,0,0,released,42,66,6,1.39,15.4,7.4,952
+1000000309,8664,male,1980,40,Korea,Seoul,Gangdong-gu,0,overseas inflow,0,0,0,0,2020-03-20,0,0,released,27,32,0,1.54,14.55,5.4,1023
+1000000312,8682,male,1967,53,Korea,Seoul,Gangdong-gu,0,etc,0,0,0,0,2020-03-20,0,0,released,27,32,0,1.54,14.55,5.4,1023
+1000000314,8661,male,1999,21,Korea,Seoul,Gwangjin-gu,0,overseas inflow,0,0,0,0,2020-03-20,0,0,released,22,33,3,1.16,13.75,4.8,723
+1000000316,8884,male,1994,26,Korea,Seoul,Nowon-gu,0,etc,0,0,0,2020-03-18,2020-03-20,0,0,released,42,66,6,1.39,15.4,7.4,952
+1000000318,8871,male,1998,22,Korea,Seoul,Jungnang-gu,0,contact with patient,0,1000000305,0,0,2020-03-21,0,0,released,23,31,1,0.7,16.65,6.9,689
+1000000319,8833,male,1997,23,Korea,Seoul,Jungnang-gu,0,contact with patient,0,1000000305,0,0,2020-03-21,0,0,isolated,23,31,1,0.7,16.65,6.9,689
+1000000320,8848,male,1959,61,Korea,Seoul,Seongdong-gu,0,contact with patient,0,1000000304,0,2020-03-21,2020-03-21,0,0,isolated,21,30,2,0.97,14.76,5.3,593
+1000000321,8836,male,1991,29,Korea,Seoul,Yeongdeungpo-gu,0,overseas inflow,0,0,0,2020-03-12,2020-03-21,0,0,released,23,39,0,1.21,15.6,5.8,1001
+1000000323,8826,male,1982,38,Korea,Seoul,Seodaemun-gu,0,contact with patient,0,1000000322,0,0,2020-03-21,0,0,released,19,25,6,1.12,16.77,6.2,587
+1000000325,8961,male,1961,59,Korea,Seoul,Seongbuk-gu,0,overseas inflow,0,0,0,0,2020-03-22,0,0,released,29,49,6,1.02,16.15,6,729
+1000000326,8938,male,1997,23,Korea,Seoul,Dobong-gu,0,overseas inflow,0,0,0,0,2020-03-22,0,0,released,23,26,1,0.95,17.89,7.2,485
+1000000331,8991,male,1943,77,Korea,Seoul,Yeongdeungpo-gu,0,etc,0,0,0,2020-03-18,2020-03-23,0,0,released,23,39,0,1.21,15.6,5.8,1001
+1000000332,9016,male,1971,49,Korea,Seoul,Yongsan-gu,0,overseas inflow,0,0,0,0,2020-03-23,0,0,released,15,13,1,0.68,16.87,6.5,435
+1000000334,9028,male,1996,24,Korea,Seoul,Gangnam-gu,0,overseas inflow,0,0,0,0,2020-03-23,0,0,released,0,38,0,4.18,13.17,4.3,3088
+1000000335,9085,male,1982,38,United States,Seoul,Gangseo-gu,0,overseas inflow,0,0,0,0,2020-03-24,0,0,released,36,56,1,1.17,14.39,5.7,1080
+1000000339,9089,male,1991,29,Korea,Seoul,Jungnang-gu,0,overseas inflow,0,0,0,0,2020-03-24,0,0,released,23,31,1,0.7,16.65,6.9,689
+1000000343,9079,male,1990,30,Korea,Seoul,Yongsan-gu,0,overseas inflow,0,0,0,2020-03-18,2020-03-24,0,0,released,15,13,1,0.68,16.87,6.5,435
+1000000344,9115,male,1959,61,Korea,Seoul,Gangnam-gu,0,contact with patient,0,1000000294,0,2020-03-19,2020-03-24,0,0,released,0,38,0,4.18,13.17,4.3,3088
+1000000345,9099,male,1960,60,Korea,Seoul,Seocho-gu,0,overseas inflow,0,0,0,2020-03-22,2020-03-24,0,0,released,24,27,1,2.6,13.39,3.8,1465
+1000000350,9223,male,1983,37,Korea,Seoul,Dongjak-gu,0,overseas inflow,0,0,0,0,2020-03-25,0,0,released,21,34,3,1.17,15.85,5.2,762
+1000000351,9231,male,1984,36,Korea,Seoul,Dongjak-gu,0,overseas inflow,0,0,0,0,2020-03-25,0,0,released,21,34,3,1.17,15.85,5.2,762
+1000000353,9187,male,1980,40,Korea,Seoul,Geumcheon-gu,0,etc,0,0,0,0,2020-03-25,0,0,released,18,19,0,0.96,16.15,6.7,475
+1000000359,9171,male,1999,21,Korea,Seoul,Gangnam-gu,0,overseas inflow,0,0,3,0,2020-03-25,0,0,released,0,38,0,4.18,13.17,4.3,3088
+1000000361,9366,male,2000,20,Korea,Seoul,Jungnang-gu,0,overseas inflow,0,0,6,0,2020-03-26,0,0,released,23,31,1,0.7,16.65,6.9,689
+1000000364,9277,male,1978,42,Korea,Seoul,Yongsan-gu,0,contact with patient,0,1000000229,0,0,2020-03-26,0,0,released,15,13,1,0.68,16.87,6.5,435
+1000000366,9320,male,1961,59,Korea,Seoul,Guro-gu,0,overseas inflow,0,0,0,0,2020-03-26,0,0,released,26,34,3,1,16.21,5.7,741
+1000000368,9287,male,1958,62,Korea,Seoul,Gangnam-gu,0,overseas inflow,0,0,0,0,2020-03-26,0,0,released,0,38,0,4.18,13.17,4.3,3088
+1000000370,9260,male,1975,45,Korea,Seoul,Seocho-gu,0,overseas inflow,0,0,0,2020-03-23,2020-03-26,0,0,released,24,27,1,2.6,13.39,3.8,1465
+1000000371,9255,male,1986,34,Korea,Seoul,Songpa-gu,0,overseas inflow,0,0,0,0,2020-03-26,0,0,released,40,51,1,1.65,13.1,4.1,1527
+1000000374,9428,male,1994,26,Korea,Seoul,Gangnam-gu,0,overseas inflow,0,0,2,0,2020-03-26,0,0,released,0,38,0,4.18,13.17,4.3,3088
+1000000379,9368,male,1981,39,Thailand,Seoul,Seodaemun-gu,0,overseas inflow,0,0,0,0,2020-03-27,0,0,released,19,25,6,1.12,16.77,6.2,587
+1000000380,9413,male,1976,44,Korea,Seoul,Jungnang-gu,0,overseas inflow,0,0,0,0,2020-03-27,0,0,released,23,31,1,0.7,16.65,6.9,689
+1000000384,9425,male,1996,24,Korea,Seoul,Songpa-gu,0,overseas inflow,0,0,0,0,2020-03-27,0,0,released,40,51,1,1.65,13.1,4.1,1527
+1000000385,9468,male,1976,44,Korea,Seoul,Yeongdeungpo-gu,0,contact with patient,0,1000000353,0,2020-03-25,2020-03-27,0,0,released,23,39,0,1.21,15.6,5.8,1001
+1000000388,9475,male,1995,25,Korea,Seoul,Guro-gu,0,overseas inflow,0,0,0,2020-03-26,2020-03-27,0,0,released,26,34,3,1,16.21,5.7,741
+1000000389,9393,male,1963,57,Korea,Seoul,Gangnam-gu,0,overseas inflow,0,0,0,0,2020-03-27,0,0,released,0,38,0,4.18,13.17,4.3,3088
+1000000391,9547,male,1965,55,Korea,Seoul,Geumcheon-gu,0,contact with patient,0,1000000353,0,2020-03-20,2020-03-28,0,0,released,18,19,0,0.96,16.15,6.7,475
+1000000392,9546,male,1976,44,Korea,Seoul,Guro-gu,0,etc,0,0,0,0,2020-03-28,0,0,released,26,34,3,1,16.21,5.7,741
+1000000396,9525,male,1993,27,Korea,Seoul,Gwanak-gu,0,overseas inflow,0,0,0,0,2020-03-28,0,0,released,22,33,1,0.89,15.12,4.9,909
+1000000398,9516,male,1998,22,Korea,Seoul,Jung-gu,0,overseas inflow,0,0,0,0,2020-03-28,0,0,released,12,14,2,0.94,18.42,7.4,728
+1000000400,9510,male,1994,26,Korea,Seoul,Songpa-gu,0,overseas inflow,0,0,0,0,2020-03-28,0,0,released,40,51,1,1.65,13.1,4.1,1527
+1000000402,9507,male,1996,24,Korea,Seoul,Seocho-gu,0,overseas inflow,0,0,0,2020-03-20,2020-03-28,0,0,released,24,27,1,2.6,13.39,3.8,1465
+1000000404,9560,male,2003,17,Korea,Seoul,Gangnam-gu,0,overseas inflow,0,0,0,0,2020-03-28,0,0,released,0,38,0,4.18,13.17,4.3,3088
+1000000405,9524,male,1994,26,Korea,Seoul,Gangnam-gu,0,contact with patient,0,1000000227,0,0,2020-03-28,0,0,released,0,38,0,4.18,13.17,4.3,3088
+1000000406,9574,male,2000,20,Korea,Seoul,Gangnam-gu,0,overseas inflow,0,0,0,0,2020-03-28,0,0,released,0,38,0,4.18,13.17,4.3,3088
+1000000415,9610,male,1965,55,Korea,Seoul,Gwanak-gu,0,contact with patient,0,1000000396,0,0,2020-03-29,0,0,released,22,33,1,0.89,15.12,4.9,909
+1000000419,9633,male,1994,26,Korea,Seoul,Seocho-gu,0,overseas inflow,0,0,0,0,2020-03-29,0,0,released,24,27,1,2.6,13.39,3.8,1465
+1000000422,9642,male,1975,45,Korea,Seoul,Gangnam-gu,0,contact with patient,0,1000000401,0,0,2020-03-29,0,0,released,0,38,0,4.18,13.17,4.3,3088
+1000000425,9627,male,1989,31,Korea,Seoul,Seodaemun-gu,0,overseas inflow,0,0,0,0,2020-03-29,0,0,released,19,25,6,1.12,16.77,6.2,587
+1000000427,9696,male,1965,55,Korea,Seoul,Geumcheon-gu,0,etc,0,0,0,0,2020-03-27,0,0,released,18,19,0,0.96,16.15,6.7,475
+1000000428,9757,male,1936,84,Korea,Seoul,Guro-gu,0,etc,0,0,0,0,2020-03-29,0,0,released,26,34,3,1,16.21,5.7,741
+1000000436,9709,male,2002,18,Korea,Seoul,Yongsan-gu,0,contact with patient,0,1000000413,0,2020-03-29,2020-03-30,0,0,released,15,13,1,0.68,16.87,6.5,435
+1000000440,9723,male,1966,54,Korea,Seoul,Dongjak-gu,0,etc,0,0,0,0,2020-03-30,0,0,released,21,34,3,1.17,15.85,5.2,762
+1000000442,9706,male,1963,57,Korea,Seoul,Seocho-gu,0,contact with patient,0,1000000443,0,0,2020-03-30,0,0,released,24,27,1,2.6,13.39,3.8,1465
+1000000444,9760,male,1967,53,Korea,Seoul,Guro-gu,0,etc,0,0,0,0,2020-03-30,0,0,released,26,34,3,1,16.21,5.7,741
+1000000446,9687,male,1990,30,Korea,Seoul,Dongjak-gu,0,overseas inflow,0,0,0,0,2020-03-30,0,0,released,21,34,3,1.17,15.85,5.2,762
+1000000447,9725,male,1964,56,Korea,Seoul,Jung-gu,0,contact with patient,0,1000000443,0,0,2020-03-30,0,0,released,12,14,2,0.94,18.42,7.4,728
+1000000455,9886,male,1984,36,Korea,Seoul,Yeongdeungpo-gu,0,overseas inflow,0,0,0,0,2020-03-31,0,0,released,23,39,0,1.21,15.6,5.8,1001
+1000000460,9821,male,1993,27,Korea,Seoul,Gangnam-gu,0,overseas inflow,0,0,0,0,2020-03-31,0,0,released,0,38,0,4.18,13.17,4.3,3088
+1000000461,9879,male,1968,52,Korea,Seoul,Gwanak-gu,0,contact with patient,0,1000000438,0,0,2020-03-31,0,0,released,22,33,1,0.89,15.12,4.9,909
+1000000463,9876,male,1946,74,Korea,Seoul,Gwanak-gu,0,contact with patient,0,1000000439,0,0,2020-03-31,0,0,released,22,33,1,0.89,15.12,4.9,909
+1000000467,9829,male,1998,22,Korea,Seoul,Songpa-gu,0,overseas inflow,0,0,0,0,2020-03-31,0,0,released,40,51,1,1.65,13.1,4.1,1527
+1000000469,9810,male,1991,29,Korea,Seoul,Gwanak-gu,0,overseas inflow,0,0,0,0,2020-03-31,0,0,released,22,33,1,0.89,15.12,4.9,909
+1000000470,9883,male,1997,23,Korea,Seoul,Seocho-gu,0,overseas inflow,0,0,0,0,2020-03-31,0,0,released,24,27,1,2.6,13.39,3.8,1465
+1000000471,9867,male,1981,39,Korea,Seoul,Yangcheon-gu,0,contact with patient,0,0,0,0,2020-03-31,0,0,released,30,43,0,2.26,13.55,5.5,816
+1000000478,9932,male,1972,48,Korea,Seoul,Mapo-gu,0,overseas inflow,0,0,0,0,2020-04-01,0,0,released,22,24,2,1.83,14.05,4.9,929
+1000000483,9946,male,1982,38,Korea,Seoul,Seocho-gu,0,contact with patient,0,1000000302,0,2020-03-27,2020-04-01,0,0,released,24,27,1,2.6,13.39,3.8,1465
+1000000491,10021,male,1965,55,Korea,Seoul,Yangcheon-gu,0,contact with patient,0,1000000266,0,0,2020-04-01,0,0,released,30,43,0,2.26,13.55,5.5,816
+1000000494,10009,male,1952,68,Korea,Seoul,Yangcheon-gu,0,contact with patient,0,0,0,0,2020-04-02,0,0,released,30,43,0,2.26,13.55,5.5,816
+1000000499,10028,male,1991,29,United States,Seoul,Jongno-gu,0,overseas inflow,0,0,0,0,2020-04-02,0,0,released,13,17,3,1.71,18.27,6.8,668
+1000000501,10020,male,1949,71,Korea,Seoul,Eunpyeong-gu,0,overseas inflow,0,0,0,0,2020-04-02,0,0,isolated,31,44,1,1.09,17,6.5,874
+1000000506,10013,male,1994,26,Korea,Seoul,Gwanak-gu,0,overseas inflow,0,0,0,0,2020-04-02,0,0,released,22,33,1,0.89,15.12,4.9,909
+1000000508,10081,male,1995,25,Korea,Seoul,Gwanak-gu,0,overseas inflow,0,0,0,0,2020-03-31,0,0,released,22,33,1,0.89,15.12,4.9,909
+1000000515,10140,male,1982,38,Korea,Seoul,Dongjak-gu,0,overseas inflow,0,0,0,0,2020-04-03,0,0,released,21,34,3,1.17,15.85,5.2,762
+1000000517,10095,male,1938,82,Korea,Seoul,Seodaemun-gu,0,contact with patient,0,1000000509,0,0,2020-04-03,0,0,released,19,25,6,1.12,16.77,6.2,587
+1000000519,10147,male,1988,32,Korea,Seoul,Songpa-gu,0,overseas inflow,0,0,0,0,2020-04-03,0,0,released,40,51,1,1.65,13.1,4.1,1527
+1000000521,10078,male,1998,22,Korea,Seoul,Gangnam-gu,0,overseas inflow,0,0,0,0,2020-04-03,0,0,released,0,38,0,4.18,13.17,4.3,3088
+1000000524,10122,male,2019,1,Korea,Seoul,Dongdaemun-gu,0,overseas inflow,0,0,0,0,2020-04-03,0,0,released,21,31,4,1.06,17.26,6.7,832
+1000000526,10106,male,1992,28,Korea,Seoul,Songpa-gu,0,overseas inflow,0,0,0,0,2020-04-03,0,0,released,40,51,1,1.65,13.1,4.1,1527
+1000000529,10228,male,1971,49,Korea,Seoul,Guro-gu,0,etc,0,0,0,0,2020-04-02,0,0,released,26,34,3,1,16.21,5.7,741
+1000000530,10195,male,1979,41,Korea,Seoul,Gangdong-gu,0,overseas inflow,0,0,0,0,2020-04-02,0,0,released,27,32,0,1.54,14.55,5.4,1023
+1000000531,10199,male,1998,22,Korea,Seoul,Songpa-gu,0,overseas inflow,0,0,0,0,2020-04-03,0,0,released,40,51,1,1.65,13.1,4.1,1527
+1000000535,10236,male,1984,36,Korea,Seoul,Mapo-gu,0,overseas inflow,0,0,0,0,2020-04-04,0,0,released,22,24,2,1.83,14.05,4.9,929
+1000000536,10183,male,2000,20,Korea,Seoul,Seodaemun-gu,0,overseas inflow,0,0,0,0,2020-04-04,0,0,released,19,25,6,1.12,16.77,6.2,587
+1000000537,10202,male,1989,31,Korea,Seoul,Seongbuk-gu,0,contact with patient,0,1000000216,0,0,2020-04-04,0,0,released,29,49,6,1.02,16.15,6,729
+1000000538,10204,male,1967,53,Korea,Seoul,Dongdaemun-gu,0,contact with patient,0,0,0,0,2020-04-04,0,0,released,21,31,4,1.06,17.26,6.7,832
+1000000542,10198,male,1994,26,Korea,Seoul,Gangseo-gu,0,overseas inflow,0,0,0,0,2020-04-04,0,0,released,36,56,1,1.17,14.39,5.7,1080
+1000000546,10197,male,1996,24,Korea,Seoul,Songpa-gu,0,overseas inflow,0,0,0,0,2020-04-04,0,0,released,40,51,1,1.65,13.1,4.1,1527
+1000000547,10210,male,1989,31,Korea,Seoul,Songpa-gu,0,overseas inflow,0,0,0,0,2020-04-04,0,0,released,40,51,1,1.65,13.1,4.1,1527
+1000000548,10200,male,2003,17,Korea,Seoul,Gangnam-gu,0,overseas inflow,0,0,0,0,2020-04-04,0,0,released,0,38,0,4.18,13.17,4.3,3088
+1000000549,10191,male,1984,36,Korea,Seoul,Gangnam-gu,0,overseas inflow,0,0,1,0,2020-04-04,0,0,released,0,38,0,4.18,13.17,4.3,3088
+1000000551,10237,male,1950,70,Korea,Seoul,Eunpyeong-gu,0,contact with patient,0,1000000528,0,0,2020-04-04,0,0,released,31,44,1,1.09,17,6.5,874
+1000000552,10188,male,1989,31,Korea,Seoul,Yeongdeungpo-gu,0,etc,0,0,0,0,2020-04-05,0,0,released,23,39,0,1.21,15.6,5.8,1001
+1000000557,10262,male,1995,25,Korea,Seoul,Gangseo-gu,0,overseas inflow,0,0,0,0,2020-04-05,0,0,isolated,36,56,1,1.17,14.39,5.7,1080
+1000000558,10277,male,1966,54,Korea,Seoul,Gwanak-gu,0,contact with patient,0,1000000540,0,0,2020-04-05,0,0,released,22,33,1,0.89,15.12,4.9,909
+1100000001,0,male,2001,19,Korea,Busan,Dongnae-gu,0,Onchun Church,0,0,1091,0,2020-02-21,0,0,released,22,31,0,1.98,17.53,7.7,608
+1100000008,0,male,1999,21,Korea,Busan,Dongnae-gu,0,Onchun Church,0,0,27,0,2020-02-22,0,0,released,22,31,0,1.98,17.53,7.7,608
+1100000009,0,male,1999,21,Korea,Busan,Dongnae-gu,0,Onchun Church,0,0,4,0,2020-02-22,0,0,released,22,31,0,1.98,17.53,7.7,608
+1100000010,0,male,1974,46,Korea,Busan,Dongnae-gu,0,Onchun Church,0,0,19,0,2020-02-22,0,0,released,22,31,0,1.98,17.53,7.7,608
+1100000013,0,male,1995,25,Korea,Busan,Seo-gu,0,etc,0,0,15,0,2020-02-22,0,0,released,11,9,0,1.02,24.36,12.3,235
+1100000014,0,male,1988,32,Korea,Busan,Dongnae-gu,0,Onchun Church,0,0,27,0,2020-02-22,0,0,released,22,31,0,1.98,17.53,7.7,608
+1100000015,0,male,2001,19,Korea,Busan,Dongnae-gu,0,Onchun Church,0,0,34,0,2020-02-22,0,0,released,22,31,0,1.98,17.53,7.7,608
+1100000016,0,male,1987,33,Korea,Busan,Geumjeong-gu,0,Onchun Church,0,0,19,0,2020-02-22,0,0,released,22,28,4,1.64,19.8,8.4,466
+1100000017,0,male,1978,42,Korea,Busan,Nam-gu,0,Cheongdo Daenam Hospital,0,0,1,2020-02-22,2020-02-23,0,0,released,21,27,4,1.24,19.13,7.9,475
+1100000018,0,male,1995,25,Korea,Busan,Saha-gu,0,etc,0,1100000013,37,0,2020-02-23,0,0,released,26,42,2,1.34,17.76,8.1,541
+1100000023,0,male,1997,23,Korea,Busan,Saha-gu,0,Onchun Church,0,0,1,0,2020-02-23,0,0,released,26,42,2,1.34,17.76,8.1,541
+1100000026,0,male,1993,27,Korea,Busan,Haeundae-gu,0,Onchun Church,0,0,7,0,2020-02-23,0,0,released,33,39,1,1.63,16.53,7.9,814
+1100000029,0,male,1999,21,Korea,Busan,Dongnae-gu,0,etc,0,0,28,0,2020-02-23,0,0,released,22,31,0,1.98,17.53,7.7,608
+1100000030,0,male,1993,27,Korea,Busan,Geumjeong-gu,0,Onchun Church,0,0,21,2020-02-22,2020-02-23,0,0,released,22,28,4,1.64,19.8,8.4,466
+1100000034,0,male,1995,25,Korea,Busan,Dongnae-gu,0,Onchun Church,0,0,25,2020-02-22,2020-02-23,0,0,released,22,31,0,1.98,17.53,7.7,608
+1100000037,0,male,1992,28,Korea,Busan,Geumjeong-gu,0,Onchun Church,0,0,19,0,2020-02-23,0,0,released,22,28,4,1.64,19.8,8.4,466
+1100000039,0,male,1991,29,Korea,Busan,Haeundae-gu,0,contact with patient,0,1100000011,159,2020-02-19,2020-02-24,0,0,released,33,39,1,1.63,16.53,7.9,814
+1100000040,0,male,1944,76,Korea,Busan,Saha-gu,0,contact with patient,0,0,9,2020-02-16,2020-02-24,0,0,released,26,42,2,1.34,17.76,8.1,541
+1100000041,0,male,1993,27,Korea,Busan,Dongnae-gu,0,Onchun Church,0,0,3,2020-02-23,2020-02-24,0,0,released,22,31,0,1.98,17.53,7.7,608
+1100000042,0,male,2001,19,Korea,Busan,Dongnae-gu,0,contact with patient,0,1100000029,2,2020-02-24,2020-02-24,0,0,released,22,31,0,1.98,17.53,7.7,608
+1100000046,0,male,1947,73,Korea,Busan,Dongnae-gu,0,contact with patient,0,0,27,0,2020-02-25,0,0,released,22,31,0,1.98,17.53,7.7,608
+1100000047,0,male,1972,48,Korea,Busan,Dongnae-gu,0,etc,0,0,10,0,2020-02-25,0,0,released,22,31,0,1.98,17.53,7.7,608
+1100000048,0,male,1941,79,Korea,Busan,Dongnae-gu,0,Onchun Church,0,0,1,0,2020-02-25,0,0,released,22,31,0,1.98,17.53,7.7,608
+1100000052,0,male,1950,70,Korea,Busan,Saha-gu,0,contact with patient,0,1100000040,4,2020-02-21,2020-02-25,0,0,released,26,42,2,1.34,17.76,8.1,541
+1100000054,0,male,1993,27,Korea,Busan,Busanjin-gu,0,contact with patient,0,1100000036,41,2020-02-23,2020-02-25,0,0,released,32,43,3,1.62,19.01,8.7,986
+1100000057,0,male,1995,25,Korea,Busan,Haeundae-gu,0,Onchun Church,0,0,19,0,2020-02-26,0,0,released,33,39,1,1.63,16.53,7.9,814
+1100000062,0,male,2004,16,Korea,Busan,Dongnae-gu,0,contact with patient,0,0,3,2020-02-26,2020-02-27,0,0,released,22,31,0,1.98,17.53,7.7,608
+1100000065,0,male,1995,25,Korea,Busan,Suyeong-gu,0,contact with patient,0,1100000059,1,2020-02-27,2020-02-27,0,0,released,10,22,0,1.56,20.4,8.2,395
+1100000071,0,male,1941,79,Korea,Busan,Busanjin-gu,0,etc,0,0,1,2020-02-28,2020-02-28,0,0,deceased,32,43,3,1.62,19.01,8.7,986
+1100000072,0,male,2013,7,Korea,Busan,Suyeong-gu,0,Suyeong-gu Kindergarten,0,1100000059,8,0,2020-02-29,0,0,released,10,22,0,1.56,20.4,8.2,395
+1100000073,0,male,1964,56,Korea,Busan,Haeundae-gu,0,etc,0,0,1,2020-02-24,2020-02-29,0,0,released,33,39,1,1.63,16.53,7.9,814
+1100000074,0,male,1939,81,Korea,Busan,Seo-gu,0,etc,0,0,10,0,2020-02-29,0,0,released,11,9,0,1.02,24.36,12.3,235
+1100000075,0,male,1963,57,Korea,Busan,Busanjin-gu,0,etc,0,0,38,2020-02-27,2020-02-29,0,0,released,32,43,3,1.62,19.01,8.7,986
+1100000079,0,male,2015,5,Korea,Busan,Saha-gu,0,contact with patient,0,1100000076,0,0,2020-03-01,0,0,released,26,42,2,1.34,17.76,8.1,541
+1100000080,0,male,1952,68,Korea,Busan,Suyeong-gu,0,Onchun Church,0,0,0,2020-02-28,2020-03-02,0,0,released,10,22,0,1.56,20.4,8.2,395
+1100000082,0,male,2001,19,Korea,Busan,Dongnae-gu,0,contact with patient,0,1100000015,2,2020-02-28,2020-03-03,0,0,released,22,31,0,1.98,17.53,7.7,608
+1100000083,0,male,2003,17,Korea,Busan,Busanjin-gu,0,contact with patient,0,1100000054,3,2020-02-27,2020-03-03,0,0,released,32,43,3,1.62,19.01,8.7,986
+1100000084,0,male,1995,25,Korea,Busan,Suyeong-gu,0,Shincheonji Church,0,0,5,2020-02-28,2020-03-04,0,0,released,10,22,0,1.56,20.4,8.2,395
+1100000091,0,male,1996,24,Korea,Busan,Haeundae-gu,0,overseas inflow,0,0,4,2020-03-09,2020-03-10,0,0,released,33,39,1,1.63,16.53,7.9,814
+1100000092,0,male,1970,50,Korea,Busan,Busanjin-gu,0,contact with patient,0,1100000071,2,2020-03-09,2020-03-11,0,0,released,32,43,3,1.62,19.01,8.7,986
+1100000097,0,male,1947,73,Korea,Busan,Busanjin-gu,0,etc,0,0,11,2020-03-09,2020-03-13,0,0,deceased,32,43,3,1.62,19.01,8.7,986
+1100000098,0,male,1970,50,Korea,Busan,Busanjin-gu,0,contact with patient,0,1100000071,0,2020-03-12,2020-03-13,0,0,isolated,32,43,3,1.62,19.01,8.7,986
+1100000099,0,male,1952,68,Korea,Busan,Busanjin-gu,0,contact with patient,0,1100000097,5,0,2020-03-14,0,0,released,32,43,3,1.62,19.01,8.7,986
+1100000104,0,male,1996,24,Switzerland,Busan,Dongnae-gu,0,overseas inflow,0,0,5,2020-03-17,2020-03-18,0,0,released,22,31,0,1.98,17.53,7.7,608
+1100000105,0,male,1994,26,Korea,Busan,Buk-gu,0,overseas inflow,0,0,24,2020-03-20,2020-03-22,0,0,released,27,37,1,1.35,16.04,8.4,465
+1100000107,0,male,1958,62,Korea,Busan,Saha-gu,0,contact with patient,0,0,0,2020-03-21,2020-03-22,0,0,released,26,42,2,1.34,17.76,8.1,541
+1100000109,0,male,1997,23,Korea,Busan,Dongnae-gu,0,overseas inflow,0,0,3,2020-03-21,2020-03-25,0,0,isolated,22,31,0,1.98,17.53,7.7,608
+1100000110,0,male,2002,18,Korea,Busan,Dongnae-gu,0,overseas inflow,0,0,2,2020-03-23,2020-03-26,0,0,isolated,22,31,0,1.98,17.53,7.7,608
+1100000111,0,male,1976,44,Korea,Busan,Haeundae-gu,0,overseas inflow,0,0,1,2020-03-26,2020-03-27,0,0,released,33,39,1,1.63,16.53,7.9,814
+1100000112,0,male,1994,26,Germany,Busan,Geumjeong-gu,0,overseas inflow,0,0,18,0,2020-03-27,0,0,released,22,28,4,1.64,19.8,8.4,466
+1100000113,0,male,1993,27,Korea,Busan,Gijang-gun,0,overseas inflow,0,0,1,2020-03-27,2020-03-28,0,0,released,21,35,0,1.31,15.45,7.4,229
+1100000114,0,male,2002,18,Korea,Busan,Suyeong-gu,0,overseas inflow,0,0,1,0,2020-03-28,0,0,released,10,22,0,1.56,20.4,8.2,395
+1100000115,0,male,1959,61,Korea,Busan,Nam-gu,0,overseas inflow,0,0,1,0,2020-03-29,0,0,isolated,21,27,4,1.24,19.13,7.9,475
+1100000116,0,male,1994,26,Korea,Busan,Busanjin-gu,0,overseas inflow,0,0,2,0,2020-03-29,0,0,released,32,43,3,1.62,19.01,8.7,986
+1100000120,0,male,1995,25,Korea,Busan,Dong-gu,0,overseas inflow,0,0,2,2020-04-01,2020-04-06,0,0,isolated,7,9,0,0.83,25.42,13.8,239
+1100000122,0,male,1983,37,Korea,Busan,Haeundae-gu,0,overseas inflow,0,0,0,0,2020-04-07,0,0,isolated,33,39,1,1.63,16.53,7.9,814
+1100000125,0,male,2013,7,Korea,Busan,Dongnae-gu,0,overseas inflow,0,0,2,0,2020-04-15,0,0,isolated,22,31,0,1.98,17.53,7.7,608
+1100000126,0,male,2011,9,Korea,Busan,Dongnae-gu,0,overseas inflow,0,0,3,0,2020-04-15,0,0,isolated,22,31,0,1.98,17.53,7.7,608
+1100000128,0,male,1962,58,Korea,Busan,Buk-gu,0,etc,0,0,185,2020-04-08,2020-04-18,0,0,isolated,27,37,1,1.35,16.04,8.4,465
+1100000133,0,male,1953,67,Korea,Busan,Sasang-gu,0,overseas inflow,0,0,0,2020-04-17,2020-04-23,0,0,isolated,21,31,3,0.78,17,8.1,317
+1100000135,0,male,1979,41,Foreign,Busan,Sasang-gu,0,overseas inflow,0,0,3,0,2020-05-01,0,0,isolated,21,31,3,0.78,17,8.1,317
+1100000138,0,male,1999,21,Korea,Busan,Busanjin-gu,0,contact with patient,0,0,9,2020-05-06,2020-05-08,0,0,isolated,32,43,3,1.62,19.01,8.7,986
+1100000139,0,male,1993,27,Korea,Busan,Saha-gu,0,contact with patient,0,0,28,2020-05-06,2020-05-11,0,0,isolated,26,42,2,1.34,17.76,8.1,541
+1100000140,0,male,1958,62,Korea,Busan,Buk-gu,0,contact with patient,0,0,3,0,2020-05-12,0,0,isolated,27,37,1,1.35,16.04,8.4,465
+1100000141,0,male,2019,1,Korea,Busan,Nam-gu,0,contact with patient,0,0,0,2020-05-10,2020-05-12,0,0,isolated,21,27,4,1.24,19.13,7.9,475
+1100000142,0,male,1964,56,Korea,Busan,Geumjeong-gu,0,overseas inflow,0,0,0,0,2020-05-27,0,0,isolated,22,28,4,1.64,19.8,8.4,466
+1100000143,0,male,1960,60,Korea,Busan,Dongnae-gu,0,overseas inflow,0,0,1,0,2020-05-28,0,0,isolated,22,31,0,1.98,17.53,7.7,608
+1100000144,0,male,2002,18,Korea,Busan,Dongnae-gu,0,etc,0,0,160,2020-05-27,2020-05-29,0,0,isolated,22,31,0,1.98,17.53,7.7,608
+1200000034,34,male,1996,24,Korea,Daegu,Jung-gu,0,Shincheonji Church,0,0,0,0,2020-02-18,0,0,isolated,10,12,0,4.03,20.29,9.6,594
+1200000046,46,male,1992,28,Korea,Daegu,Dalseo-gu,0,etc,0,0,0,0,2020-02-19,0,0,isolated,55,78,3,1.72,13.56,6.5,1064
+1200000057,57,male,1990,30,Korea,Daegu,Jung-gu,0,etc,0,0,0,0,2020-02-19,0,0,isolated,10,12,0,4.03,20.29,9.6,594
+1200000062,62,male,1960,60,Korea,Daegu,Seo-gu,0,etc,0,0,0,0,2020-02-19,0,0,isolated,17,23,0,0.83,21.29,10.1,374
+1200000084,84,male,1951,69,Korea,Daegu,Dalseo-gu,0,etc,0,0,0,0,2020-02-20,0,0,isolated,55,78,3,1.72,13.56,6.5,1064
+1200000086,86,male,1989,31,Korea,Daegu,Suseong-gu,0,etc,0,0,0,0,2020-02-20,0,0,isolated,34,49,1,2.28,15,6.9,948
+1400000003,1129,male,1963,57,Korea,Incheon,Michuhol-gu,0,etc,0,0,0,2020-01-31,2020-02-25,2020-03-03,0,released,29,43,2,0.9,16.29,6.8,643
+1400000005,2592,male,1956,64,Korea,Incheon,Bupyeong-gu,0,contact with patient,0,0,0,0,2020-02-28,2020-03-16,0,released,42,66,0,1.27,13.83,6.2,847
+1400000006,2641,male,1976,44,Korea,Incheon,Yeonsu-gu,0,etc,0,0,0,2020-02-27,2020-02-28,2020-05-10,0,released,23,43,1,1.77,9.48,4,467
+1400000007,4122,male,1963,57,Korea,Incheon,Yeonsu-gu,0,contact with patient,0,0,0,0,2020-03-01,2020-03-17,0,released,23,43,1,1.77,9.48,4,467
+1400000009,5581,male,2012,8,Korea,Incheon,Michuhol-gu,0,contact with patient,0,0,0,2020-03-04,2020-03-03,2020-04-13,0,released,29,43,2,0.9,16.29,6.8,643
+1400000021,7628,male,1992,28,Korea,Incheon,Namdong-gu,0,Guro-gu Call Center,0,0,0,0,2020-03-09,2020-04-05,0,released,38,77,0,1.39,12.68,5.5,955
+1400000023,7659,male,1969,51,Korea,Incheon,Bupyeong-gu,0,Guro-gu Call Center,0,0,0,0,2020-03-09,2020-03-31,0,released,42,66,0,1.27,13.83,6.2,847
+1400000024,7688,male,1989,31,Korea,Incheon,Michuhol-gu,0,contact with patient,0,0,0,0,2020-03-10,2020-03-31,0,released,29,43,2,0.9,16.29,6.8,643
+1400000025,7743,male,1965,55,Korea,Incheon,Yeonsu-gu,0,contact with patient,0,0,0,0,2020-03-10,2020-04-04,0,released,23,43,1,1.77,9.48,4,467
+1400000026,7927,male,1986,34,Korea,Incheon,Namdong-gu,0,Guro-gu Call Center,0,0,0,0,2020-03-12,2020-03-24,0,released,38,77,0,1.39,12.68,5.5,955
+1400000028,7997,male,1970,50,Korea,Incheon,Yeonsu-gu,0,contact with patient,0,0,0,0,2020-03-13,2020-03-30,0,released,23,43,1,1.77,9.48,4,467
+1400000032,8387,male,1988,32,Korea,Incheon,Gyeyang-gu,0,etc,0,0,0,0,2020-03-17,2020-03-27,0,released,26,36,2,1.25,11.81,5.2,477
+1400000033,8600,male,1970,50,Korea,Incheon,Yeonsu-gu,0,overseas inflow,0,0,0,0,2020-03-19,2020-05-04,0,released,23,43,1,1.77,9.48,4,467
+1400000035,8640,male,1978,42,Korea,Incheon,Dong-gu,0,contact with patient,0,0,0,0,2020-03-19,2020-04-29,0,released,8,12,1,0.68,21.62,10.5,122
+1400000036,8649,male,1965,55,Korea,Incheon,Gyeyang-gu,0,contact with patient,0,0,0,0,2020-03-19,2020-04-03,0,released,26,36,2,1.25,11.81,5.2,477
+1400000037,8695,male,1963,57,Korea,Incheon,Yeonsu-gu,0,overseas inflow,0,0,0,0,2020-03-19,0,0,isolated,23,43,1,1.77,9.48,4,467
+1400000039,8737,male,1957,63,Korea,Incheon,Gyeyang-gu,0,contact with patient,0,1400000013,0,0,2020-03-19,2020-05-08,0,released,26,36,2,1.25,11.81,5.2,477
+1400000040,8753,male,1970,50,Korea,Incheon,Yeonsu-gu,0,overseas inflow,0,0,0,0,2020-03-20,2020-04-13,0,released,23,43,1,1.77,9.48,4,467
+1400000041,9001,male,1967,53,Korea,Incheon,Bupyeong-gu,0,etc,0,0,0,0,2020-03-23,2020-04-29,0,released,42,66,0,1.27,13.83,6.2,847
+1400000042,9082,male,1989,31,Korea,Incheon,Yeonsu-gu,0,overseas inflow,0,0,0,0,2020-03-23,2020-04-05,0,released,23,43,1,1.77,9.48,4,467
+1400000044,9265,male,1963,57,Korea,Incheon,Yeonsu-gu,0,contact with patient,0,0,0,0,2020-03-25,2020-04-09,0,released,23,43,1,1.77,9.48,4,467
+1400000048,9456,male,1965,55,Korea,Incheon,Bupyeong-gu,0,overseas inflow,0,0,0,0,2020-03-27,2020-04-14,0,released,42,66,0,1.27,13.83,6.2,847
+1400000051,9469,male,1959,61,Korea,Incheon,Bupyeong-gu,0,overseas inflow,0,0,0,0,2020-03-27,2020-04-15,0,released,42,66,0,1.27,13.83,6.2,847
+1400000052,9578,male,1989,31,Korea,Incheon,Michuhol-gu,0,overseas inflow,0,0,0,0,2020-03-27,2020-04-30,0,released,29,43,2,0.9,16.29,6.8,643
+1400000054,9558,male,1983,37,Korea,Incheon,Jung-gu,0,overseas inflow,0,0,0,0,2020-03-28,2020-04-09,0,released,14,17,0,0.8,14.14,6.7,177
+1400000055,9519,male,1982,38,Korea,Incheon,Yeonsu-gu,0,overseas inflow,0,0,0,0,2020-03-28,2020-04-04,0,released,23,43,1,1.77,9.48,4,467
+1400000059,9557,male,1998,22,Korea,Incheon,Bupyeong-gu,0,overseas inflow,0,0,0,0,2020-03-28,2020-04-11,0,released,42,66,0,1.27,13.83,6.2,847
+1400000064,9680,male,1944,76,Korea,Incheon,Jung-gu,0,overseas inflow,0,0,0,0,2020-03-30,2020-05-22,0,released,14,17,0,0.8,14.14,6.7,177
+1400000067,9820,male,1987,33,Korea,Incheon,Michuhol-gu,0,overseas inflow,0,0,0,0,2020-03-31,2020-05-07,0,released,29,43,2,0.9,16.29,6.8,643
+1400000075,10091,male,1959,61,Korea,Incheon,Seo-gu,0,overseas inflow,0,0,0,0,2020-04-02,2020-04-11,0,released,44,80,0,1.4,10.02,3.9,670
+1400000076,10094,male,1959,61,Korea,Incheon,Seo-gu,0,overseas inflow,0,0,0,0,2020-04-03,2020-04-11,0,released,44,80,0,1.4,10.02,3.9,670
+1400000078,10209,male,1986,34,Korea,Incheon,Seo-gu,0,etc,0,0,0,0,2020-04-03,2020-04-10,0,released,44,80,0,1.4,10.02,3.9,670
+1400000079,10232,male,1949,71,Korea,Incheon,Gyeyang-gu,0,overseas inflow,0,0,0,0,2020-04-04,2020-05-09,0,released,26,36,2,1.25,11.81,5.2,477
+1400000082,10351,male,1982,38,Korea,Incheon,Seo-gu,0,overseas inflow,0,0,0,0,2020-04-07,2020-04-22,0,released,44,80,0,1.4,10.02,3.9,670
+1400000085,10433,male,1927,93,Korea,Incheon,Bupyeong-gu,0,contact with patient,0,0,0,0,2020-04-09,2020-05-12,0,released,42,66,0,1.27,13.83,6.2,847
+1400000086,10500,male,1991,29,Korea,Incheon,Ganghwa-gun,0,overseas inflow,0,0,0,0,2020-04-10,2020-04-24,0,released,20,19,1,0.68,31.97,13.9,107
+1400000087,10534,male,1958,62,Korea,Incheon,Yeonsu-gu,0,overseas inflow,0,0,0,0,2020-04-12,0,0,isolated,23,43,1,1.77,9.48,4,467
+1400000088,10546,male,1983,37,Korea,Incheon,Namdong-gu,0,overseas inflow,0,0,0,0,2020-04-13,2020-05-19,0,released,38,77,0,1.39,12.68,5.5,955
+1400000092,10666,male,1992,28,Korea,Incheon,Gyeyang-gu,0,overseas inflow,0,0,0,0,2020-04-19,2020-04-26,0,released,26,36,2,1.25,11.81,5.2,477
+1400000093,10748,male,1958,62,Korea,Incheon,Namdong-gu,0,overseas inflow,0,0,0,0,2020-04-27,2020-05-26,0,released,38,77,0,1.39,12.68,5.5,955
+1400000095,10780,male,1994,26,Korea,Incheon,Namdong-gu,0,overseas inflow,0,0,0,0,2020-05-01,0,0,isolated,38,77,0,1.39,12.68,5.5,955
+1400000099,10853,male,1994,26,Korea,Incheon,Bupyeong-gu,0,contact with patient,0,0,0,0,2020-05-08,0,0,isolated,42,66,0,1.27,13.83,6.2,847
+1400000100,10848,male,1998,22,Korea,Incheon,Yeonsu-gu,0,Itaewon Clubs,0,0,0,0,2020-05-09,2020-05-26,0,released,23,43,1,1.77,9.48,4,467
+1400000101,10904,male,1999,21,Korea,Incheon,Seo-gu,0,Itaewon Clubs,0,0,0,0,2020-05-09,0,0,isolated,44,80,0,1.4,10.02,3.9,670
+1400000102,10847,male,1995,25,Korea,Incheon,Michuhol-gu,0,Itaewon Clubs,0,0,0,0,2020-05-09,0,0,isolated,29,43,2,0.9,16.29,6.8,643
+1400000103,10900,male,1986,34,Korea,Incheon,Michuhol-gu,0,Itaewon Clubs,0,0,0,0,2020-05-09,0,0,isolated,29,43,2,0.9,16.29,6.8,643
+1400000106,10950,male,1998,22,Korea,Incheon,Seo-gu,0,contact with patient,0,0,0,0,2020-05-12,0,0,isolated,44,80,0,1.4,10.02,3.9,670
+1400000108,10959,male,1988,32,Korea,Incheon,Namdong-gu,0,contact with patient,0,0,0,0,2020-05-12,0,0,isolated,38,77,0,1.39,12.68,5.5,955
+1400000109,10963,male,2005,15,Korea,Incheon,Michuhol-gu,0,contact with patient,0,0,0,0,2020-05-13,0,0,isolated,29,43,2,0.9,16.29,6.8,643
+1400000116,10966,male,1999,21,Korea,Incheon,Michuhol-gu,0,contact with patient,0,0,0,0,2020-05-13,2020-05-29,0,released,29,43,2,0.9,16.29,6.8,643
+1400000117,10986,male,2007,13,Korea,Incheon,Yeonsu-gu,0,contact with patient,0,0,0,0,2020-05-13,0,0,isolated,23,43,1,1.77,9.48,4,467
+1400000119,10990,male,2002,18,Korea,Incheon,Namdong-gu,0,contact with patient,0,0,0,0,2020-05-13,0,0,isolated,38,77,0,1.39,12.68,5.5,955
+1400000120,10993,male,1998,22,Korea,Incheon,Yeonsu-gu,0,overseas inflow,0,0,0,0,2020-05-13,2020-05-28,0,released,23,43,1,1.77,9.48,4,467
+1400000122,10999,male,2002,18,Korea,Incheon,Michuhol-gu,0,contact with patient,0,0,0,0,2020-05-14,0,0,isolated,29,43,2,0.9,16.29,6.8,643
+1400000123,11018,male,1957,63,Korea,Incheon,Bupyeong-gu,0,contact with patient,0,0,0,0,2020-05-14,0,0,isolated,42,66,0,1.27,13.83,6.2,847
+1400000125,11068,male,1954,66,Korea,Incheon,Namdong-gu,0,contact with patient,0,0,0,0,2020-05-17,0,0,isolated,38,77,0,1.39,12.68,5.5,955
+1400000128,11083,male,2003,17,Korea,Incheon,Michuhol-gu,0,contact with patient,0,0,0,0,2020-05-19,0,0,isolated,29,43,2,0.9,16.29,6.8,643
+1400000129,11095,male,1957,63,Korea,Incheon,Yeonsu-gu,0,contact with patient,0,0,0,0,2020-05-19,0,0,isolated,23,43,1,1.77,9.48,4,467
+1400000131,11082,male,1996,24,Korea,Incheon,Michuhol-gu,0,contact with patient,0,0,0,0,2020-05-19,0,0,isolated,29,43,2,0.9,16.29,6.8,643
+1400000132,11097,male,1971,49,Korea,Incheon,Michuhol-gu,0,contact with patient,0,0,0,0,2020-05-19,0,0,isolated,29,43,2,0.9,16.29,6.8,643
+1400000133,11098,male,1997,23,Korea,Incheon,Michuhol-gu,0,contact with patient,0,0,0,0,2020-05-19,0,0,isolated,29,43,2,0.9,16.29,6.8,643
+1400000134,11096,male,2003,17,Korea,Incheon,Michuhol-gu,0,contact with patient,0,0,0,0,2020-05-19,0,0,isolated,29,43,2,0.9,16.29,6.8,643
+1400000135,11116,male,2002,18,Korea,Incheon,Michuhol-gu,0,contact with patient,0,0,0,0,2020-05-20,0,0,isolated,29,43,2,0.9,16.29,6.8,643
+1400000136,11115,male,2002,18,Korea,Incheon,Michuhol-gu,0,contact with patient,0,0,0,0,2020-05-20,0,0,isolated,29,43,2,0.9,16.29,6.8,643
+1400000137,11117,male,1992,28,Korea,Incheon,Namdong-gu,0,contact with patient,0,0,0,0,2020-05-20,0,0,isolated,38,77,0,1.39,12.68,5.5,955
+1400000139,11118,male,2008,12,Korea,Incheon,Michuhol-gu,0,contact with patient,0,0,0,0,2020-05-20,0,0,isolated,29,43,2,0.9,16.29,6.8,643
+1400000141,11130,male,1967,53,Korea,Incheon,Bupyeong-gu,0,contact with patient,0,0,0,0,2020-05-21,0,0,isolated,42,66,0,1.27,13.83,6.2,847
+1400000143,11186,male,2003,17,Korea,Incheon,Bupyeong-gu,0,contact with patient,0,0,0,0,2020-05-23,0,0,isolated,42,66,0,1.27,13.83,6.2,847
+1400000147,0,male,1982,38,Korea,Incheon,Bupyeong-gu,0,Coupang Logistics Center,0,0,0,0,2020-05-25,0,0,isolated,42,66,0,1.27,13.83,6.2,847
+1400000148,11227,male,1996,24,Korea,Incheon,Bupyeong-gu,0,Coupang Logistics Center,0,0,0,0,2020-05-26,0,0,isolated,42,66,0,1.27,13.83,6.2,847
+1400000157,11255,male,1999,21,Korea,Incheon,Michuhol-gu,0,contact with patient,0,0,0,0,2020-05-26,0,0,isolated,29,43,2,0.9,16.29,6.8,643
+1400000158,11264,male,2000,20,Korea,Incheon,Bupyeong-gu,0,contact with patient,0,0,0,0,2020-05-27,0,0,isolated,42,66,0,1.27,13.83,6.2,847
+1400000159,11277,male,2001,19,Korea,Incheon,Bupyeong-gu,0,Coupang Logistics Center,0,0,0,0,2020-05-27,0,0,isolated,42,66,0,1.27,13.83,6.2,847
+1400000162,11273,male,1967,53,Korea,Incheon,Gyeyang-gu,0,Coupang Logistics Center,0,0,0,0,2020-05-27,0,0,isolated,26,36,2,1.25,11.81,5.2,477
+1400000164,11282,male,1969,51,Korea,Incheon,Yeonsu-gu,0,contact with patient,0,0,0,0,2020-05-27,0,0,isolated,23,43,1,1.77,9.48,4,467
+1400000166,11284,male,1966,54,Korea,Incheon,Gyeyang-gu,0,contact with patient,0,0,0,0,2020-05-27,0,0,isolated,26,36,2,1.25,11.81,5.2,477
+1400000167,11280,male,1991,29,Korea,Incheon,Gyeyang-gu,0,contact with patient,0,0,0,0,2020-05-27,0,0,isolated,26,36,2,1.25,11.81,5.2,477
+1400000169,11288,male,1998,22,Korea,Incheon,Bupyeong-gu,0,Coupang Logistics Center,0,0,0,0,2020-05-27,0,0,isolated,42,66,0,1.27,13.83,6.2,847
+1400000171,11338,male,1970,50,Korea,Incheon,Bupyeong-gu,0,contact with patient,0,0,0,0,2020-05-27,0,0,isolated,42,66,0,1.27,13.83,6.2,847
+1400000173,11287,male,1988,32,Korea,Incheon,Bupyeong-gu,0,Coupang Logistics Center,0,0,0,0,2020-05-27,0,0,isolated,42,66,0,1.27,13.83,6.2,847
+1400000174,11281,male,1984,36,Korea,Incheon,Gyeyang-gu,0,Coupang Logistics Center,0,0,0,0,2020-05-27,0,0,isolated,26,36,2,1.25,11.81,5.2,477
+1400000176,11339,male,1962,58,Korea,Incheon,Bupyeong-gu,0,contact with patient,0,0,0,0,2020-05-27,0,0,isolated,42,66,0,1.27,13.83,6.2,847
+1400000179,11309,male,1992,28,Korea,Incheon,Gyeyang-gu,0,Coupang Logistics Center,0,0,0,0,2020-05-27,0,0,isolated,26,36,2,1.25,11.81,5.2,477
+1400000181,11369,male,2001,19,Korea,Incheon,Jung-gu,0,Coupang Logistics Center,0,0,0,0,2020-05-27,0,0,isolated,14,17,0,0.8,14.14,6.7,177
+1400000182,11351,male,1972,48,Korea,Incheon,Bupyeong-gu,0,Coupang Logistics Center,0,0,0,0,2020-05-27,0,0,isolated,42,66,0,1.27,13.83,6.2,847
+1400000184,11363,male,1992,28,Korea,Incheon,Gyeyang-gu,0,contact with patient,0,0,0,0,2020-05-27,0,0,isolated,26,36,2,1.25,11.81,5.2,477
+1400000186,11372,male,1978,42,Korea,Incheon,Gyeyang-gu,0,Coupang Logistics Center,0,0,0,0,2020-05-28,0,0,isolated,26,36,2,1.25,11.81,5.2,477
+1400000190,11380,male,1976,44,Korea,Incheon,Namdong-gu,0,contact with patient,0,0,0,0,2020-05-28,0,0,isolated,38,77,0,1.39,12.68,5.5,955
+1400000193,11381,male,1961,59,Korea,Incheon,Gyeyang-gu,0,contact with patient,0,0,0,0,2020-05-28,0,0,isolated,26,36,2,1.25,11.81,5.2,477
+1400000194,11354,male,1958,62,Korea,Incheon,Gyeyang-gu,0,contact with patient,0,0,0,0,2020-05-28,0,0,isolated,26,36,2,1.25,11.81,5.2,477
+1400000195,11360,male,1964,56,Korea,Incheon,Gyeyang-gu,0,contact with patient,0,0,0,0,2020-05-28,0,0,isolated,26,36,2,1.25,11.81,5.2,477
+1400000198,11402,male,2012,8,Korea,Incheon,Yeonsu-gu,0,contact with patient,0,0,0,0,2020-05-28,0,0,isolated,23,43,1,1.77,9.48,4,467
+1400000203,11442,male,2008,12,Korea,Incheon,Yeonsu-gu,0,contact with patient,0,0,0,0,2020-05-29,0,0,isolated,23,43,1,1.77,9.48,4,467
+1400000204,11466,male,1968,52,Korea,Incheon,Gyeyang-gu,0,contact with patient,0,0,0,0,2020-05-30,0,0,isolated,26,36,2,1.25,11.81,5.2,477
+1400000205,11444,male,1994,26,Korea,Incheon,Gyeyang-gu,0,contact with patient,0,0,0,0,2020-05-30,0,0,isolated,26,36,2,1.25,11.81,5.2,477
+1400000207,0,male,1981,39,Korea,Incheon,Bupyeong-gu,0,contact with patient,0,0,0,0,2020-05-30,0,0,isolated,42,66,0,1.27,13.83,6.2,847
+1400000215,0,male,1969,51,Korea,Incheon,Michuhol-gu,0,contact with patient,0,0,0,0,2020-05-31,0,0,isolated,29,43,2,0.9,16.29,6.8,643
+1400000217,0,male,1963,57,Korea,Incheon,Michuhol-gu,0,contact with patient,0,0,0,0,2020-05-31,0,0,isolated,29,43,2,0.9,16.29,6.8,643
+1400000220,0,male,1961,59,Korea,Incheon,Michuhol-gu,0,contact with patient,0,0,0,0,2020-05-31,0,0,isolated,29,43,2,0.9,16.29,6.8,643
+1400000227,0,male,1953,67,Korea,Incheon,Seo-gu,0,contact with patient,0,0,0,0,2020-06-01,0,0,isolated,44,80,0,1.4,10.02,3.9,670
+1400000228,0,male,1952,68,Korea,Incheon,Bupyeong-gu,0,contact with patient,0,0,0,0,2020-06-01,0,0,isolated,42,66,0,1.27,13.83,6.2,847
+1400000229,0,male,2001,19,Korea,Incheon,Bupyeong-gu,0,contact with patient,0,0,0,0,2020-06-01,0,0,isolated,42,66,0,1.27,13.83,6.2,847
+1400000232,0,male,1961,59,Korea,Incheon,Michuhol-gu,0,contact with patient,0,0,0,0,2020-06-01,0,0,isolated,29,43,2,0.9,16.29,6.8,643
+1600000003,0,male,1992,28,Korea,Ulsan,Jung-gu,0,Shincheonji Church,0,0,0,2020-02-20,2020-02-25,2020-03-14,0,released,21,37,0,2.03,14.15,6.5,323
+1600000005,0,male,1999,21,Korea,Ulsan,Nam-gu,0,Shincheonji Church,0,1200000031,0,2020-02-18,2020-02-26,2020-03-10,0,released,30,44,1,3.23,11.42,4.8,765
+1600000009,0,male,2001,19,Korea,Ulsan,Buk-gu,0,Shincheonji Church,0,0,0,0,2020-02-27,2020-03-05,0,released,22,45,0,1.73,7.69,3.4,211
+1600000010,0,male,2000,20,Korea,Ulsan,Buk-gu,0,Shincheonji Church,0,0,0,0,2020-02-27,2020-03-13,0,released,22,45,0,1.73,7.69,3.4,211
+1600000011,0,male,1983,37,Korea,Ulsan,Dong-gu,0,etc,0,0,0,0,2020-02-27,2020-03-13,0,released,16,25,1,1.73,11.68,4.4,242
+1600000013,0,male,1967,53,Korea,Ulsan,Nam-gu,0,etc,0,0,0,0,2020-02-28,2020-03-14,0,released,30,44,1,3.23,11.42,4.8,765
+1600000014,0,male,1993,27,Korea,Ulsan,Jung-gu,0,Shincheonji Church,0,0,0,0,2020-02-28,2020-03-21,0,released,21,37,0,2.03,14.15,6.5,323
+1600000015,0,male,1953,67,Korea,Ulsan,Nam-gu,0,etc,0,0,0,2020-02-27,2020-02-28,0,2020-03-31,deceased,30,44,1,3.23,11.42,4.8,765
+1600000019,0,male,1948,72,Korea,Ulsan,Dong-gu,0,etc,0,0,0,0,2020-03-01,2020-04-04,0,released,16,25,1,1.73,11.68,4.4,242
+1600000022,0,male,1962,58,Korea,Ulsan,Buk-gu,0,contact with patient,0,1600000021,0,0,2020-03-03,2020-03-22,0,released,22,45,0,1.73,7.69,3.4,211
+1600000025,0,male,1997,23,Korea,Ulsan,Buk-gu,0,Shincheonji Church,0,0,0,0,2020-03-10,2020-03-19,0,released,22,45,0,1.73,7.69,3.4,211
+1600000026,0,male,1960,60,Korea,Ulsan,Nam-gu,0,contact with patient,0,1600000027,0,0,2020-03-12,2020-04-01,0,released,30,44,1,3.23,11.42,4.8,765
+1600000030,0,male,1990,30,Korea,Ulsan,Nam-gu,0,overseas inflow,0,0,0,0,2020-03-17,2020-04-11,0,released,30,44,1,3.23,11.42,4.8,765
+1600000034,0,male,1962,58,Korea,Ulsan,Jung-gu,0,contact with patient,0,1600000031,0,0,2020-03-18,2020-04-10,0,released,21,37,0,2.03,14.15,6.5,323
+1600000035,0,male,1996,24,Korea,Ulsan,Jung-gu,0,contact with patient,0,1600000031,0,0,2020-05-11,2020-05-19,0,released,21,37,0,2.03,14.15,6.5,323
+1600000036,0,male,2000,20,Korea,Ulsan,Jung-gu,0,contact with patient,0,1600000031,0,0,2020-03-18,2020-04-11,0,released,21,37,0,2.03,14.15,6.5,323
+1600000038,0,male,2005,15,Korea,Ulsan,Ulju-gun,0,overseas inflow,0,0,0,0,2020-03-26,2020-04-12,0,released,30,49,2,1.74,13.94,6.7,260
+1600000040,0,male,1994,26,Korea,Ulsan,Dong-gu,0,overseas inflow,0,0,0,0,2020-04-01,2020-04-10,0,released,16,25,1,1.73,11.68,4.4,242
+1600000042,0,male,1992,28,Korea,Ulsan,Nam-gu,0,overseas inflow,0,0,0,0,2020-04-13,2020-04-22,0,released,30,44,1,3.23,11.42,4.8,765
+1600000044,0,male,1973,47,Korea,Ulsan,Jung-gu,0,overseas inflow,0,0,0,0,2020-05-03,2020-05-30,0,released,21,37,0,2.03,14.15,6.5,323
+1600000045,0,male,1979,41,Korea,Ulsan,Dong-gu,0,overseas inflow,0,0,0,0,2020-05-12,0,0,isolated,16,25,1,1.73,11.68,4.4,242
+1600000046,0,male,1968,52,Korea,Ulsan,Buk-gu,0,overseas inflow,0,0,0,0,2020-05-18,0,0,isolated,22,45,0,1.73,7.69,3.4,211
+1600000047,0,male,1997,23,Korea,Ulsan,Buk-gu,0,overseas inflow,0,0,0,0,2020-05-18,2020-05-27,0,released,22,45,0,1.73,7.69,3.4,211
+1600000048,0,male,1966,54,Korea,Ulsan,Ulju-gun,0,overseas inflow,0,0,0,0,2020-05-18,0,0,isolated,30,49,2,1.74,13.94,6.7,260
+1600000049,0,male,1962,58,Korea,Ulsan,Ulju-gun,0,overseas inflow,0,0,0,0,2020-05-18,2020-05-27,0,released,30,49,2,1.74,13.94,6.7,260
+1600000050,0,male,1992,28,Korea,Ulsan,Dong-gu,0,overseas inflow,0,0,0,0,2020-05-21,0,0,isolated,16,25,1,1.73,11.68,4.4,242
+1600000051,0,male,1967,53,Korea,Ulsan,Dong-gu,0,overseas inflow,0,0,0,0,2020-05-29,0,0,isolated,16,25,1,1.73,11.68,4.4,242
+1600000052,0,male,1969,51,Korea,Ulsan,Jung-gu,0,overseas inflow,0,0,0,0,2020-05-29,0,0,isolated,21,37,0,2.03,14.15,6.5,323
+2000000001,3,male,1966,54,Korea,Gyeonggi-do,Goyang-si,0,overseas inflow,1,0,16,0,2020-01-26,2020-02-12,0,released,84,171,2,1.88,12.82,5.2,1608
+2000000002,4,male,1964,56,Korea,Gyeonggi-do,Pyeongtaek-si,0,overseas inflow,1,0,95,0,2020-01-27,2020-02-09,0,released,58,108,3,1.39,12.13,5.6,765
+2000000003,12,male,1971,49,China,Gyeonggi-do,Bucheon-si,0,contact with patient,2,0,422,0,2020-02-01,2020-02-18,0,released,64,124,4,1.51,12.77,5.4,1432
+2000000005,15,male,1977,43,Korea,Gyeonggi-do,Suwon-si,0,contact with patient,2,2000000002,15,2020-02-01,2020-02-02,2020-02-24,0,released,99,192,4,1.72,10.5,4.5,2082
+2000000006,17,male,1982,38,Korea,Gyeonggi-do,Guri-si,0,overseas inflow,2,0,290,0,2020-02-05,2020-02-12,0,released,16,30,0,1.94,12.88,5.1,418
+2000000009,26,male,1968,52,Korea,Gyeonggi-do,Siheung-si,0,contact with patient,1,2000000010,0,0,2020-02-09,0,0,isolated,46,74,2,1.55,8.86,3.8,622
+2000000014,162,male,1987,33,Korea,Gyeonggi-do,Gimpo-si,0,contact with patient,0,2000000013,0,0,2020-02-21,0,0,isolated,43,90,2,1.74,12.1,4.4,604
+2000000016,347,male,1996,24,Korea,Gyeonggi-do,Bucheon-si,0,overseas inflow,0,0,0,0,2020-02-22,2020-03-04,0,released,64,124,4,1.51,12.77,5.4,1432
+2000000017,360,male,1959,61,Korea,Gyeonggi-do,Icheon-si,0,contact with patient,0,0,0,0,2020-02-22,2020-03-19,0,released,31,51,2,1.76,13.71,5.8,333
+2000000018,361,male,1999,21,Korea,Gyeonggi-do,Pocheon-si,0,etc,0,0,0,0,2020-02-22,0,0,isolated,31,33,2,0.89,18.92,8.2,209
+2000000019,362,male,1956,64,Korea,Gyeonggi-do,Anyang-si,0,contact with patient,6,1000000014,32,0,2020-02-22,0,0,isolated,41,79,4,1.86,12.88,5.1,1099
+2000000020,1244,male,1969,51,Korea,Gyeonggi-do,Icheon-si,0,contact with patient,0,0,0,0,2020-02-26,2020-03-05,0,released,31,51,2,1.76,13.71,5.8,333
+2000000022,574,male,1997,23,Korea,Gyeonggi-do,Pyeongtaek-si,0,etc,0,0,0,0,2020-02-23,0,0,isolated,58,108,3,1.39,12.13,5.6,765
+2000000023,565,male,1980,40,Korea,Gyeonggi-do,Bucheon-si,0,contact with patient,0,2000000015,0,0,2020-02-23,0,0,isolated,64,124,4,1.51,12.77,5.4,1432
+2000000024,649,male,1953,67,Korea,Gyeonggi-do,Suwon-si,0,etc,0,0,0,2020-02-21,2020-02-24,0,0,isolated,99,192,4,1.72,10.5,4.5,2082
+2000000025,392,male,1966,54,Korea,Gyeonggi-do,Gimpo-si,0,Shincheonji Church,0,0,15,0,2020-02-22,0,0,isolated,43,90,2,1.74,12.1,4.4,604
+2000000030,652,male,1995,25,Korea,Gyeonggi-do,Pocheon-si,0,contact with patient,0,2000000018,0,0,2020-02-24,0,0,isolated,31,33,2,0.89,18.92,8.2,209
+2000000031,651,male,1998,22,Korea,Gyeonggi-do,Pocheon-si,0,contact with patient,0,2000000018,0,0,2020-02-24,0,0,isolated,31,33,2,0.89,18.92,8.2,209
+2000000032,653,male,1997,23,Korea,Gyeonggi-do,Pocheon-si,0,contact with patient,0,2000000018,0,0,2020-02-24,0,0,isolated,31,33,2,0.89,18.92,8.2,209
+2000000033,760,male,1986,34,Korea,Gyeonggi-do,Suwon-si,0,contact with patient,0,0,0,0,2020-02-24,2020-03-13,0,released,99,192,4,1.72,10.5,4.5,2082
+2000000035,762,male,1985,35,Korea,Gyeonggi-do,Paju-si,0,contact with patient,0,0,0,0,2020-02-24,0,0,isolated,57,98,1,1.34,13.52,5.3,573
+2000000036,753,male,1985,35,Korea,Gyeonggi-do,Bucheon-si,0,etc,0,0,0,0,2020-02-24,0,0,isolated,64,124,4,1.51,12.77,5.4,1432
+2000000037,835,male,1986,34,Korea,Gyeonggi-do,Anyang-si,0,Shincheonji Church,0,0,23,0,2020-02-25,0,0,isolated,41,79,4,1.86,12.88,5.1,1099
+2000000039,875,male,1984,36,Mongolia,Gyeonggi-do,Namyangju-si,0,etc,0,0,0,0,2020-02-25,0,2020-02-25,deceased,64,110,1,1.38,13.44,5,912
+2000000041,847,male,1984,36,Korea,Gyeonggi-do,Gimpo-si,0,etc,0,0,0,2020-02-19,2020-02-25,0,0,isolated,43,90,2,1.74,12.1,4.4,604
+2000000042,893,male,1994,26,Korea,Gyeonggi-do,Seongnam-si,0,Shincheonji Church,0,0,17,0,2020-02-25,0,0,isolated,72,127,3,2.08,13.52,5.6,2095
+2000000045,1013,male,1981,39,Korea,Gyeonggi-do,Suwon-si,0,etc,0,0,0,0,2020-02-26,2020-02-27,0,released,99,192,4,1.72,10.5,4.5,2082
+2000000046,937,male,1957,63,Korea,Gyeonggi-do,Icheon-si,0,etc,0,0,0,0,2020-02-25,2020-03-16,0,released,31,51,2,1.76,13.71,5.8,333
+2000000047,1177,male,1973,47,Korea,Gyeonggi-do,Anyang-si,0,etc,0,0,0,0,2020-02-26,0,0,isolated,41,79,4,1.86,12.88,5.1,1099
+2000000048,1184,male,1956,64,Korea,Gyeonggi-do,Icheon-si,0,contact with patient,0,1000000023,0,0,2020-02-26,2020-03-11,0,released,31,51,2,1.76,13.71,5.8,333
+2000000049,1227,male,1981,39,Korea,Gyeonggi-do,Suwon-si,0,contact with patient,0,2000000037,0,0,2020-02-26,2020-03-15,0,released,99,192,4,1.72,10.5,4.5,2082
+2000000051,1251,male,1942,78,Korea,Gyeonggi-do,Namyangju-si,0,contact with patient,0,2000000050,0,0,2020-02-26,2020-03-18,0,released,64,110,1,1.38,13.44,5,912
+2000000052,1402,male,1985,35,Korea,Gyeonggi-do,Yongin-si,0,etc,0,0,0,0,2020-02-27,2020-03-16,0,released,103,169,7,1.82,12.77,4.1,1429
+2000000055,1279,male,1993,27,Korea,Gyeonggi-do,Gwacheon-si,0,Shincheonji Church,0,0,0,0,2020-02-27,2020-03-14,0,released,4,7,0,1.36,13.98,5.7,92
+2000000056,1264,male,1992,28,Korea,Gyeonggi-do,Gwacheon-si,0,Shincheonji Church,0,0,0,0,2020-02-27,2020-03-12,0,released,4,7,0,1.36,13.98,5.7,92
+2000000057,4944,male,1989,31,Korea,Gyeonggi-do,Hwaseong-si,0,etc,0,0,0,0,2020-03-03,0,0,isolated,92,167,6,1.72,8.58,3.3,1001
+2000000060,1752,male,1979,41,Korea,Gyeonggi-do,Paju-si,0,contact with patient,0,2000000047,0,0,2020-02-27,0,0,isolated,57,98,1,1.34,13.52,5.3,573
+2000000061,1744,male,1979,41,Korea,Gyeonggi-do,Suwon-si,0,contact with patient,0,2000000037,0,0,2020-02-27,0,0,isolated,99,192,4,1.72,10.5,4.5,2082
+2000000062,1747,male,1969,51,Korea,Gyeonggi-do,Yongin-si,0,contact with patient,0,2000000052,4,0,2020-02-27,2020-03-16,0,released,103,169,7,1.82,12.77,4.1,1429
+2000000065,2733,male,1969,51,Korea,Gyeonggi-do,Suwon-si,0,etc,0,0,0,0,2020-02-29,2020-03-05,0,released,99,192,4,1.72,10.5,4.5,2082
+2000000066,1981,male,1975,45,Korea,Gyeonggi-do,Icheon-si,0,contact with patient,0,2000000046,0,0,2020-02-28,2020-03-13,0,released,31,51,2,1.76,13.71,5.8,333
+2000000067,1980,male,1970,50,Korea,Gyeonggi-do,Icheon-si,0,contact with patient,0,2000000046,0,0,2020-02-28,2020-03-18,0,released,31,51,2,1.76,13.71,5.8,333
+2000000068,2022,male,1985,35,Korea,Gyeonggi-do,Seongnam-si,0,contact with patient,0,0,0,0,2020-02-28,0,0,isolated,72,127,3,2.08,13.52,5.6,2095
+2000000072,2181,male,1961,59,Korea,Gyeonggi-do,Hwaseong-si,0,etc,0,0,0,0,2020-02-28,0,0,isolated,92,167,6,1.72,8.58,3.3,1001
+2000000077,2180,male,1946,74,Korea,Gyeonggi-do,Icheon-si,0,etc,0,0,0,0,2020-02-28,2020-03-30,0,released,31,51,2,1.76,13.71,5.8,333
+2000000078,2933,male,2000,20,Korea,Gyeonggi-do,Icheon-si,0,Shincheonji Church,0,0,0,0,2020-02-29,2020-03-08,0,released,31,51,2,1.76,13.71,5.8,333
+2000000079,3760,male,1997,23,Korea,Gyeonggi-do,Anyang-si,0,contact with patient,0,0,0,0,2020-03-01,0,0,isolated,41,79,4,1.86,12.88,5.1,1099
+2000000085,3446,male,1990,30,Korea,Gyeonggi-do,Siheung-si,0,etc,0,0,0,0,2020-03-01,2020-03-07,0,released,46,74,2,1.55,8.86,3.8,622
+2000000086,3083,male,1974,46,Korea,Gyeonggi-do,Hwaseong-si,0,contact with patient,0,0,0,0,2020-02-29,0,0,isolated,92,167,6,1.72,8.58,3.3,1001
+2000000088,3583,male,1973,47,Korea,Gyeonggi-do,Namyangju-si,0,contact with patient,0,0,3,0,2020-03-01,2020-03-21,0,released,64,110,1,1.38,13.44,5,912
+2000000089,3663,male,1981,39,Korea,Gyeonggi-do,Gwacheon-si,0,Shincheonji Church,0,0,0,0,2020-03-01,2020-03-24,0,released,4,7,0,1.36,13.98,5.7,92
+2000000091,3780,male,1974,46,Korea,Gyeonggi-do,Goyang-si,0,contact with patient,0,0,0,0,2020-03-01,0,0,isolated,84,171,2,1.88,12.82,5.2,1608
+2000000092,4384,male,1997,23,Korea,Gyeonggi-do,Suwon-si,0,contact with patient,0,2000000080,0,0,2020-03-02,2020-03-02,0,released,99,192,4,1.72,10.5,4.5,2082
+2000000094,4235,male,1956,64,Korea,Gyeonggi-do,Namyangju-si,0,etc,0,0,0,0,2020-03-02,0,0,isolated,64,110,1,1.38,13.44,5,912
+2000000098,5051,male,1981,39,Korea,Gyeonggi-do,Namyangju-si,0,contact with patient,0,2000000094,0,0,2020-03-03,2020-03-28,0,released,64,110,1,1.38,13.44,5,912
+2000000100,4840,male,1998,22,Korea,Gyeonggi-do,Seongnam-si,0,etc,0,0,0,0,2020-03-03,0,0,isolated,72,127,3,2.08,13.52,5.6,2095
+2000000101,5128,male,1979,41,Korea,Gyeonggi-do,Yongin-si,0,etc,0,0,23,0,2020-03-03,0,0,isolated,103,169,7,1.82,12.77,4.1,1429
+2000000105,5397,male,1992,28,Korea,Gyeonggi-do,Anyang-si,0,contact with patient,0,1000000023,0,0,2020-03-04,0,0,isolated,41,79,4,1.86,12.88,5.1,1099
+2000000106,6112,male,1993,27,Korea,Gyeonggi-do,Yongin-si,0,etc,0,0,0,0,2020-03-05,2020-03-20,0,released,103,169,7,1.82,12.77,4.1,1429
+2000000107,5471,male,1976,44,Korea,Gyeonggi-do,Hwaseong-si,0,contact with patient,0,2000000104,0,0,2020-03-04,0,0,isolated,92,167,6,1.72,8.58,3.3,1001
+2000000111,6212,male,1944,76,Korea,Gyeonggi-do,Seongnam-si,0,etc,0,0,7,0,2020-03-05,0,0,isolated,72,127,3,2.08,13.52,5.6,2095
+2000000112,2065,male,1993,27,Korea,Gyeonggi-do,Goyang-si,0,etc,0,0,0,0,2020-02-28,0,0,isolated,84,171,2,1.88,12.82,5.2,1608
+2000000115,6116,male,1967,53,Korea,Gyeonggi-do,Gunpo-si,0,etc,0,0,0,0,2020-03-05,0,0,isolated,26,49,1,1.58,12.42,5.4,429
+2000000116,6877,male,1989,31,Korea,Gyeonggi-do,Gunpo-si,0,contact with patient,0,2000000115,0,0,2020-03-05,0,0,isolated,26,49,1,1.58,12.42,5.4,429
+2000000118,6056,male,1970,50,Korea,Gyeonggi-do,Gunpo-si,0,contact with patient,0,2000000115,0,0,2020-03-05,0,0,isolated,26,49,1,1.58,12.42,5.4,429
+2000000119,765,male,2000,20,Korea,Gyeonggi-do,Pocheon-si,0,etc,0,0,0,0,2020-02-24,0,0,isolated,31,33,2,0.89,18.92,8.2,209
+2000000125,6780,male,1938,82,Korea,Gyeonggi-do,Seongnam-si,0,etc,0,0,3,0,2020-03-07,0,0,isolated,72,127,3,2.08,13.52,5.6,2095
+2000000126,6423,male,1970,50,Korea,Gyeonggi-do,Gwangmyeong-si,0,contact with patient,0,0,0,0,2020-03-06,0,0,isolated,25,48,0,1.73,13.25,5.8,530
+2000000127,6778,male,2008,12,Korea,Gyeonggi-do,Gwangmyeong-si,0,contact with patient,0,0,0,0,2020-03-07,0,0,isolated,25,48,0,1.73,13.25,5.8,530
+2000000130,6788,male,2000,20,Korea,Gyeonggi-do,Yongin-si,0,contact with patient,0,0,0,2020-02-27,2020-03-07,0,0,isolated,103,169,7,1.82,12.77,4.1,1429
+2000000132,6312,male,2011,9,Korea,Gyeonggi-do,Uiwang-si,0,contact with patient,0,0,0,0,2020-03-06,0,0,isolated,14,24,1,1.09,12.99,5,189
+2000000135,7094,male,1943,77,Korea,Gyeonggi-do,Ansan-si,0,contact with patient,0,0,0,0,2020-03-07,0,0,isolated,54,94,4,1.49,10.35,4.6,1024
+2000000138,7103,male,1960,60,Korea,Gyeonggi-do,Seongnam-si,0,etc,0,0,0,0,2020-03-07,0,0,isolated,72,127,3,2.08,13.52,5.6,2095
+2000000139,7005,male,1973,47,Korea,Gyeonggi-do,Bucheon-si,0,etc,0,0,0,0,2020-03-07,0,0,isolated,64,124,4,1.51,12.77,5.4,1432
+2000000141,7329,male,1955,65,Korea,Gyeonggi-do,Gwangju-si,0,contact with patient,0,2000000114,10,0,2020-03-08,2020-04-14,0,released,27,42,2,1.09,12.65,4,406
+2000000143,7340,male,1994,26,Korea,Gyeonggi-do,Bucheon-si,0,contact with patient,0,2000000139,0,0,2020-03-08,0,0,isolated,64,124,4,1.51,12.77,5.4,1432
+2000000146,7303,male,1957,63,Korea,Gyeonggi-do,Seongnam-si,0,contact with patient,0,2000000137,0,0,2020-03-08,0,0,isolated,72,127,3,2.08,13.52,5.6,2095
+2000000149,7262,male,1997,23,Korea,Gyeonggi-do,Pocheon-si,0,contact with patient,0,0,0,0,2020-03-08,0,0,isolated,31,33,2,0.89,18.92,8.2,209
+2000000150,7151,male,1994,26,Korea,Gyeonggi-do,Goyang-si,0,contact with patient,0,2000000112,0,0,2020-03-08,0,0,isolated,84,171,2,1.88,12.82,5.2,1608
+2000000152,7338,male,1996,24,Korea,Gyeonggi-do,Suwon-si,0,overseas inflow,0,0,0,2020-03-07,2020-03-08,0,0,isolated,99,192,4,1.72,10.5,4.5,2082
+2000000153,7420,male,1959,61,Korea,Gyeonggi-do,Bucheon-si,0,contact with patient,0,2000000040,0,0,2020-03-09,0,0,isolated,64,124,4,1.51,12.77,5.4,1432
+2000000154,7400,male,1963,57,Korea,Gyeonggi-do,Bucheon-si,0,contact with patient,0,2000000142,0,0,2020-03-09,0,0,isolated,64,124,4,1.51,12.77,5.4,1432
+2000000161,7496,male,2009,11,Korea,Gyeonggi-do,Suwon-si,0,contact with patient,0,2000000152,0,0,2020-03-09,0,0,isolated,99,192,4,1.72,10.5,4.5,2082
+2000000162,7392,male,1955,65,Korea,Gyeonggi-do,Seongnam-si,0,contact with patient,0,2000000111,0,0,2020-03-09,0,0,isolated,72,127,3,2.08,13.52,5.6,2095
+2000000177,8079,male,1968,52,Korea,Gyeonggi-do,Gwangju-si,0,contact with patient,0,2000000172,29,0,2020-03-11,2020-04-06,0,released,27,42,2,1.09,12.65,4,406
+2000000178,7821,male,1952,68,Korea,Gyeonggi-do,Seongnam-si,0,contact with patient,0,2000000111,0,0,2020-03-11,0,0,isolated,72,127,3,2.08,13.52,5.6,2095
+2000000179,7762,male,1992,28,Korea,Gyeonggi-do,Uijeongbu-si,0,overseas inflow,0,0,0,0,2020-03-11,0,0,isolated,33,62,1,1.59,14.61,6.4,729
+2000000183,7982,male,1954,66,Korea,Gyeonggi-do,Bucheon-si,0,contact with patient,0,2000000167,0,0,2020-03-12,0,0,isolated,64,124,4,1.51,12.77,5.4,1432
+2000000184,7935,male,1979,41,Korea,Gyeonggi-do,Suwon-si,0,overseas inflow,0,0,0,2020-03-11,2020-03-12,0,0,isolated,99,192,4,1.72,10.5,4.5,2082
+2000000185,7936,male,1954,66,Korea,Gyeonggi-do,Ansan-si,0,etc,0,0,0,0,2020-03-12,0,0,isolated,54,94,4,1.49,10.35,4.6,1024
+2000000186,8113,male,1988,32,Korea,Gyeonggi-do,Seongnam-si,0,contact with patient,0,2000000125,0,2020-03-10,2020-03-13,0,0,isolated,72,127,3,2.08,13.52,5.6,2095
+2000000187,8039,male,1999,21,Korea,Gyeonggi-do,Yongin-si,0,contact with patient,0,0,22,2020-03-09,2020-03-13,2020-03-24,0,released,103,169,7,1.82,12.77,4.1,1429
+2000000194,8000,male,1953,67,Korea,Gyeonggi-do,Bucheon-si,0,contact with patient,0,2000000167,0,0,2020-03-13,0,0,isolated,64,124,4,1.51,12.77,5.4,1432
+2000000195,8033,male,2018,2,Korea,Gyeonggi-do,Anyang-si,0,contact with patient,0,2000000173,0,0,2020-03-13,0,0,isolated,41,79,4,1.86,12.88,5.1,1099
+2000000196,8076,male,1989,31,Korea,Gyeonggi-do,Anyang-si,0,contact with patient,0,2000000173,0,0,2020-03-13,0,0,isolated,41,79,4,1.86,12.88,5.1,1099
+2000000197,8032,male,1957,63,Korea,Gyeonggi-do,Seongnam-si,0,contact with patient,0,1000000138,15,2020-03-08,2020-03-13,0,0,isolated,72,127,3,2.08,13.52,5.6,2095
+2000000199,8009,male,1971,49,Korea,Gyeonggi-do,Yongin-si,0,contact with patient,0,1100000094,0,0,2020-03-13,0,0,isolated,103,169,7,1.82,12.77,4.1,1429
+2000000201,8119,male,1956,64,Korea,Gyeonggi-do,Bucheon-si,0,contact with patient,0,2000000167,0,0,2020-03-14,0,0,isolated,64,124,4,1.51,12.77,5.4,1432
+2000000208,8093,male,1980,40,Korea,Gyeonggi-do,Gimpo-si,0,contact with patient,0,1000000125,4,0,2020-03-14,0,0,isolated,43,90,2,1.74,12.1,4.4,604
+2000000210,8121,male,1956,64,Korea,Gyeonggi-do,Gimpo-si,0,contact with patient,0,2000000094,0,0,2020-03-14,0,0,isolated,43,90,2,1.74,12.1,4.4,604
+2000000211,8213,male,1959,61,Korea,Gyeonggi-do,Seongnam-si,0,contact with patient,0,1000000138,1,0,2020-03-15,0,0,isolated,72,127,3,2.08,13.52,5.6,2095
+2000000213,8202,male,1994,26,Korea,Gyeonggi-do,Goyang-si,0,overseas inflow,0,0,0,0,2020-03-15,0,0,isolated,84,171,2,1.88,12.82,5.2,1608
+2000000219,8180,male,1956,64,Korea,Gyeonggi-do,Seongnam-si,0,contact with patient,0,2000000205,0,0,2020-03-15,0,0,isolated,72,127,3,2.08,13.52,5.6,2095
+2000000223,8181,male,1963,57,Korea,Gyeonggi-do,Seongnam-si,0,contact with patient,0,2000000205,0,0,2020-03-15,0,0,isolated,72,127,3,2.08,13.52,5.6,2095
+2000000224,8211,male,1985,35,Korea,Gyeonggi-do,Seongnam-si,0,contact with patient,0,2000000205,0,0,2020-03-15,0,0,isolated,72,127,3,2.08,13.52,5.6,2095
+2000000225,8210,male,1965,55,Korea,Gyeonggi-do,Seongnam-si,0,contact with patient,0,2000000205,0,0,2020-03-15,0,0,isolated,72,127,3,2.08,13.52,5.6,2095
+2000000228,8199,male,1994,26,Korea,Gyeonggi-do,Seongnam-si,0,contact with patient,0,2000000205,0,0,2020-03-15,0,0,isolated,72,127,3,2.08,13.52,5.6,2095
+2000000229,8182,male,2007,13,Korea,Gyeonggi-do,Seongnam-si,0,contact with patient,0,2000000205,0,0,2020-03-15,0,0,isolated,72,127,3,2.08,13.52,5.6,2095
+2000000230,8165,male,1972,48,Korea,Gyeonggi-do,Seongnam-si,0,contact with patient,0,2000000205,0,0,2020-03-15,0,0,isolated,72,127,3,2.08,13.52,5.6,2095
+2000000232,8276,male,2010,10,Korea,Gyeonggi-do,Bucheon-si,0,contact with patient,0,2000000167,0,0,2020-03-16,0,0,isolated,64,124,4,1.51,12.77,5.4,1432
+2000000235,8363,male,1994,26,Korea,Gyeonggi-do,Seongnam-si,0,contact with patient,0,2000000205,0,0,2020-03-16,0,0,isolated,72,127,3,2.08,13.52,5.6,2095
+2000000242,8295,male,1975,45,Korea,Gyeonggi-do,Seongnam-si,0,contact with patient,0,2000000205,0,0,2020-03-16,0,0,isolated,72,127,3,2.08,13.52,5.6,2095
+2000000253,8245,male,1999,21,Korea,Gyeonggi-do,Seongnam-si,0,contact with patient,0,2000000205,0,0,2020-03-16,0,0,isolated,72,127,3,2.08,13.52,5.6,2095
+2000000256,8269,male,1960,60,Korea,Gyeonggi-do,Seongnam-si,0,contact with patient,0,2000000205,0,0,2020-03-16,0,0,isolated,72,127,3,2.08,13.52,5.6,2095
+2000000257,8303,male,1998,22,Korea,Gyeonggi-do,Seongnam-si,0,contact with patient,0,2000000205,0,0,2020-03-16,0,0,isolated,72,127,3,2.08,13.52,5.6,2095
+2000000258,8301,male,2006,14,Korea,Gyeonggi-do,Seongnam-si,0,contact with patient,0,2000000205,0,0,2020-03-16,0,0,isolated,72,127,3,2.08,13.52,5.6,2095
+2000000264,8412,male,1979,41,Korea,Gyeonggi-do,Seongnam-si,0,contact with patient,0,2000000114,0,0,2020-03-16,0,0,isolated,72,127,3,2.08,13.52,5.6,2095
+2000000265,8327,male,1964,56,Korea,Gyeonggi-do,Bucheon-si,0,contact with patient,0,2000000167,0,0,2020-03-17,0,0,isolated,64,124,4,1.51,12.77,5.4,1432
+2000000266,8351,male,1960,60,Korea,Gyeonggi-do,Bucheon-si,0,contact with patient,0,2000000227,0,0,2020-03-17,0,0,isolated,64,124,4,1.51,12.77,5.4,1432
+2000000270,8391,male,1986,34,Korea,Gyeonggi-do,Namyangju-si,0,contact with patient,0,2000000205,17,2020-03-04,2020-03-17,0,0,isolated,64,110,1,1.38,13.44,5,912
+2000000272,8330,male,2005,15,Korea,Gyeonggi-do,Seongnam-si,0,contact with patient,0,2000000238,0,0,2020-03-17,0,0,isolated,72,127,3,2.08,13.52,5.6,2095
+2000000273,8380,male,1969,51,Korea,Gyeonggi-do,Uiwang-si,0,contact with patient,0,0,0,0,2020-03-17,0,0,isolated,14,24,1,1.09,12.99,5,189
+2000000274,8378,male,1996,24,Korea,Gyeonggi-do,Bucheon-si,0,contact with patient,0,0,0,0,2020-03-17,0,0,isolated,64,124,4,1.51,12.77,5.4,1432
+2000000275,8376,male,1941,79,Korea,Gyeonggi-do,Hwaseong-si,0,etc,0,0,0,2020-03-14,2020-03-17,0,0,isolated,92,167,6,1.72,8.58,3.3,1001
+2000000276,8407,male,1947,73,Korea,Gyeonggi-do,Namyangju-si,0,contact with patient,0,2000000225,0,0,2020-03-17,0,0,isolated,64,110,1,1.38,13.44,5,912
+2000000278,8504,male,1982,38,Korea,Gyeonggi-do,Yongin-si,0,overseas inflow,0,0,1,2020-03-03,2020-03-17,0,0,isolated,103,169,7,1.82,12.77,4.1,1429
+2000000280,8565,male,1979,41,Korea,Gyeonggi-do,Yongin-si,0,overseas inflow,0,0,0,2020-03-17,2020-03-18,0,0,isolated,103,169,7,1.82,12.77,4.1,1429
+2000000283,8471,male,1996,24,Korea,Gyeonggi-do,Seongnam-si,0,contact with patient,0,2000000205,2,0,2020-03-18,0,0,isolated,72,127,3,2.08,13.52,5.6,2095
+2000000284,8541,male,2014,6,Korea,Gyeonggi-do,Hwaseong-si,0,contact with patient,0,2000000104,0,0,2020-03-18,0,0,isolated,92,167,6,1.72,8.58,3.3,1001
+2000000287,8458,male,1985,35,Korea,Gyeonggi-do,Seongnam-si,0,contact with patient,0,2000000205,0,0,2020-03-18,0,0,isolated,72,127,3,2.08,13.52,5.6,2095
+2000000288,8463,male,1999,21,Korea,Gyeonggi-do,Seongnam-si,0,contact with patient,0,1000000264,6,2020-03-14,2020-03-18,0,0,isolated,72,127,3,2.08,13.52,5.6,2095
+2000000289,8498,male,1965,55,Korea,Gyeonggi-do,Seongnam-si,0,contact with patient,0,2000000125,0,0,2020-03-18,0,0,isolated,72,127,3,2.08,13.52,5.6,2095
+2000000294,8537,male,1986,34,Korea,Gyeonggi-do,Hwaseong-si,0,overseas inflow,0,0,0,0,2020-03-18,0,0,isolated,92,167,6,1.72,8.58,3.3,1001
+2000000295,8493,male,1949,71,Korea,Gyeonggi-do,Gwangju-si,0,contact with patient,0,2000000211,0,2020-03-16,2020-03-18,0,0,isolated,27,42,2,1.09,12.65,4,406
+2000000296,8512,male,1987,33,Korea,Gyeonggi-do,Pyeongtaek-si,0,etc,0,0,0,2020-03-17,2020-03-18,0,0,isolated,58,108,3,1.39,12.13,5.6,765
+2000000300,8575,male,1989,31,Korea,Gyeonggi-do,Seongnam-si,0,overseas inflow,0,0,2,0,2020-03-18,0,0,isolated,72,127,3,2.08,13.52,5.6,2095
+2000000302,8569,male,1947,73,Korea,Gyeonggi-do,Seongnam-si,0,contact with patient,0,2000000288,19,2020-03-08,2020-03-19,0,0,isolated,72,127,3,2.08,13.52,5.6,2095
+2000000307,8608,male,1972,48,Korea,Gyeonggi-do,Suwon-si,0,overseas inflow,0,0,3,0,2020-03-19,0,0,isolated,99,192,4,1.72,10.5,4.5,2082
+2000000308,8618,male,2000,20,Korea,Gyeonggi-do,Bucheon-si,0,overseas inflow,0,0,0,0,2020-03-19,0,0,isolated,64,124,4,1.51,12.77,5.4,1432
+2000000310,8582,male,1952,68,Korea,Gyeonggi-do,Yongin-si,0,overseas inflow,0,0,2,2020-03-14,2020-03-19,0,0,isolated,103,169,7,1.82,12.77,4.1,1429
+2000000311,8774,male,1985,35,Korea,Gyeonggi-do,Ansan-si,0,contact with patient,0,2000000245,0,0,2020-03-19,0,0,isolated,54,94,4,1.49,10.35,4.6,1024
+2000000312,8611,male,2008,12,Korea,Gyeonggi-do,Siheung-si,0,contact with patient,0,0,0,0,2020-03-19,0,0,isolated,46,74,2,1.55,8.86,3.8,622
+2000000317,8667,male,1955,65,Korea,Gyeonggi-do,Yongin-si,0,contact with patient,0,2000000301,0,0,2020-03-20,0,0,isolated,103,169,7,1.82,12.77,4.1,1429
+2000000319,8748,male,1979,41,Korea,Gyeonggi-do,Namyangju-si,0,contact with patient,0,1000000272,2,0,2020-03-20,0,0,isolated,64,110,1,1.38,13.44,5,912
+2000000321,8865,male,1964,56,Korea,Gyeonggi-do,Suwon-si,0,overseas inflow,0,0,0,0,2020-03-20,0,0,isolated,99,192,4,1.72,10.5,4.5,2082
+2000000323,8691,male,1995,25,Korea,Gyeonggi-do,Seongnam-si,0,overseas inflow,0,0,3,0,2020-03-20,0,0,isolated,72,127,3,2.08,13.52,5.6,2095
+2000000325,8845,male,1985,35,Korea,Gyeonggi-do,Yongin-si,0,contact with patient,0,2000000223,0,2020-03-18,2020-03-21,0,0,isolated,103,169,7,1.82,12.77,4.1,1429
+2000000327,8874,male,1972,48,Korea,Gyeonggi-do,Namyangju-si,0,overseas inflow,0,0,4,0,2020-03-21,0,0,isolated,64,110,1,1.38,13.44,5,912
+2000000331,8823,male,2019,1,Korea,Gyeonggi-do,Bucheon-si,0,contact with patient,0,2000000139,0,0,2020-03-21,0,0,isolated,64,124,4,1.51,12.77,5.4,1432
+2000000332,8879,male,1987,33,Korea,Gyeonggi-do,Pyeongtaek-si,0,contact with patient,0,2000000268,0,0,2020-03-21,0,0,isolated,58,108,3,1.39,12.13,5.6,765
+2000000333,8875,male,1970,50,Korea,Gyeonggi-do,Yongin-si,0,contact with patient,0,2000000327,0,2020-03-14,2020-03-21,0,0,isolated,103,169,7,1.82,12.77,4.1,1429
+2000000339,8961,male,1991,29,Korea,Gyeonggi-do,Seongnam-si,0,overseas inflow,0,0,4,2020-03-14,2020-03-22,0,0,isolated,72,127,3,2.08,13.52,5.6,2095
+2000000346,8959,male,1960,60,Korea,Gyeonggi-do,Goyang-si,0,contact with patient,0,2000000150,0,0,2020-03-22,0,0,isolated,84,171,2,1.88,12.82,5.2,1608
+2000000348,8952,male,1982,38,Korea,Gyeonggi-do,Yongin-si,0,contact with patient,0,2000000332,0,2020-03-17,2020-03-22,0,0,isolated,103,169,7,1.82,12.77,4.1,1429
+2000000349,8960,male,1968,52,Korea,Gyeonggi-do,Pyeongtaek-si,0,contact with patient,0,0,0,0,2020-03-22,0,0,isolated,58,108,3,1.39,12.13,5.6,765
+2000000352,8953,male,1968,52,Korea,Gyeonggi-do,Bucheon-si,0,etc,0,0,0,2020-03-18,2020-03-22,0,0,isolated,64,124,4,1.51,12.77,5.4,1432
+2000000353,8957,male,1976,44,Korea,Gyeonggi-do,Yongin-si,0,etc,0,0,26,2020-03-20,2020-03-22,0,0,isolated,103,169,7,1.82,12.77,4.1,1429
+2000000356,8992,male,1969,51,Korea,Gyeonggi-do,Seongnam-si,0,contact with patient,0,2000000339,0,0,2020-03-23,0,0,isolated,72,127,3,2.08,13.52,5.6,2095
+2000000359,9013,male,2006,14,Korea,Gyeonggi-do,Yongin-si,0,contact with patient,0,2000000353,3,0,2020-03-23,0,0,isolated,103,169,7,1.82,12.77,4.1,1429
+2000000360,9034,male,2000,20,Korea,Gyeonggi-do,Suwon-si,0,overseas inflow,0,0,0,2020-03-17,2020-03-23,0,0,isolated,99,192,4,1.72,10.5,4.5,2082
+2000000361,9018,male,1965,55,Korea,Gyeonggi-do,Seongnam-si,0,contact with patient,0,2000000205,3,0,2020-03-23,0,0,isolated,72,127,3,2.08,13.52,5.6,2095
+2000000362,9003,male,1996,24,Korea,Gyeonggi-do,Bucheon-si,0,contact with patient,0,2000000338,0,0,2020-03-23,0,0,isolated,64,124,4,1.51,12.77,5.4,1432
+2000000364,8987,male,1965,55,Korea,Gyeonggi-do,Bucheon-si,0,overseas inflow,0,0,0,2020-03-19,2020-03-23,0,0,isolated,64,124,4,1.51,12.77,5.4,1432
+2000000366,9103,male,1965,55,Korea,Gyeonggi-do,Suwon-si,0,contact with patient,0,2000000360,0,0,2020-03-24,0,0,isolated,99,192,4,1.72,10.5,4.5,2082
+2000000369,9107,male,1982,38,Korea,Gyeonggi-do,Uiwang-si,0,overseas inflow,0,0,0,2020-03-20,2020-03-24,0,0,isolated,14,24,1,1.09,12.99,5,189
+2000000370,9091,male,1982,38,Korea,Gyeonggi-do,Yongin-si,0,contact with patient,0,2000000371,9,0,2020-03-24,0,0,isolated,103,169,7,1.82,12.77,4.1,1429
+2000000371,9133,male,1983,37,Korea,Gyeonggi-do,Yongin-si,0,contact with patient,0,2000000332,0,2020-03-14,2020-03-24,0,0,isolated,103,169,7,1.82,12.77,4.1,1429
+2000000372,9104,male,1994,26,Korea,Gyeonggi-do,Yongin-si,0,overseas inflow,0,0,3,2020-03-22,2020-03-24,0,0,isolated,103,169,7,1.82,12.77,4.1,1429
+2000000373,9073,male,1979,41,Korea,Gyeonggi-do,Pyeongtaek-si,0,contact with patient,0,0,0,0,2020-03-24,0,0,isolated,58,108,3,1.39,12.13,5.6,765
+2000000379,9078,male,1926,94,Korea,Gyeonggi-do,Gunpo-si,0,contact with patient,0,2000000309,0,0,2020-03-24,0,0,isolated,26,49,1,1.58,12.42,5.4,429
+2000000383,9072,male,1985,35,Korea,Gyeonggi-do,Suwon-si,0,overseas inflow,0,0,0,2020-03-20,2020-03-24,0,0,isolated,99,192,4,1.72,10.5,4.5,2082
+2000000384,9111,male,1995,25,Korea,Gyeonggi-do,Goyang-si,0,overseas inflow,0,0,0,2020-03-19,2020-03-24,0,0,isolated,84,171,2,1.88,12.82,5.2,1608
+2000000386,9076,male,1990,30,Korea,Gyeonggi-do,Hwaseong-si,0,overseas inflow,0,0,0,2020-03-22,2020-03-24,0,0,isolated,92,167,6,1.72,8.58,3.3,1001
+2000000387,9080,male,1993,27,Korea,Gyeonggi-do,Ansan-si,0,etc,0,0,0,2020-03-18,2020-03-24,0,0,isolated,54,94,4,1.49,10.35,4.6,1024
+2000000388,9193,male,2005,15,Korea,Gyeonggi-do,Bucheon-si,0,contact with patient,0,2000000176,0,0,2020-03-24,0,0,isolated,64,124,4,1.51,12.77,5.4,1432
+2000000391,9205,male,1943,77,Korea,Gyeonggi-do,Uijeongbu-si,0,etc,0,0,0,2020-03-23,2020-03-25,0,0,isolated,33,62,1,1.59,14.61,6.4,729
+2000000394,9230,male,2019,1,Korea,Gyeonggi-do,Yongin-si,0,overseas inflow,0,0,0,0,2020-03-25,0,0,isolated,103,169,7,1.82,12.77,4.1,1429
+2000000396,9185,male,1963,57,Korea,Gyeonggi-do,Yongin-si,0,contact with patient,0,0,0,2020-03-22,2020-03-25,0,0,isolated,103,169,7,1.82,12.77,4.1,1429
+2000000397,9198,male,2001,19,Korea,Gyeonggi-do,Suwon-si,0,overseas inflow,0,0,0,0,2020-03-25,0,0,isolated,99,192,4,1.72,10.5,4.5,2082
+2000000399,9191,male,1996,24,Korea,Gyeonggi-do,Bucheon-si,0,contact with patient,0,2000000364,0,0,2020-03-25,0,0,isolated,64,124,4,1.51,12.77,5.4,1432
+2000000400,9240,male,1964,56,Korea,Gyeonggi-do,Gwangju-si,0,contact with patient,0,2000000297,3,2020-03-22,2020-03-25,2020-04-09,0,released,27,42,2,1.09,12.65,4,406
+2000000401,9188,male,1986,34,Korea,Gyeonggi-do,Gwangju-si,0,overseas inflow,0,0,5,2020-03-23,2020-03-25,2020-04-10,0,released,27,42,2,1.09,12.65,4,406
+2000000402,9229,male,1999,21,Korea,Gyeonggi-do,Hwaseong-si,0,contact with patient,0,2000000387,0,0,2020-03-25,0,0,isolated,92,167,6,1.72,8.58,3.3,1001
+2000000404,9326,male,1993,27,Korea,Gyeonggi-do,Ansan-si,0,contact with patient,0,2000000387,0,0,2020-03-26,0,0,isolated,54,94,4,1.49,10.35,4.6,1024
+2000000410,9304,male,1962,58,Korea,Gyeonggi-do,Bucheon-si,0,contact with patient,0,2000000192,0,0,2020-03-26,0,0,isolated,64,124,4,1.51,12.77,5.4,1432
+2000000411,9282,male,1961,59,Korea,Gyeonggi-do,Yongin-si,0,contact with patient,0,2000000357,0,2020-03-25,2020-03-26,0,0,isolated,103,169,7,1.82,12.77,4.1,1429
+2000000415,9435,male,1993,27,Korea,Gyeonggi-do,Bucheon-si,0,contact with patient,0,2000000192,0,0,2020-03-26,0,0,isolated,64,124,4,1.51,12.77,5.4,1432
+2000000416,9332,male,1933,87,Korea,Gyeonggi-do,Seongnam-si,0,contact with patient,0,2000000309,0,2020-03-21,2020-03-26,0,0,isolated,72,127,3,2.08,13.52,5.6,2095
+2000000417,9450,male,1982,38,Korea,Gyeonggi-do,Pyeongtaek-si,0,contact with patient,0,2000000373,0,0,2020-03-27,0,0,isolated,58,108,3,1.39,12.13,5.6,765
+2000000421,9412,male,1992,28,Korea,Gyeonggi-do,Ansan-si,0,contact with patient,0,2000000404,0,0,2020-03-27,0,0,isolated,54,94,4,1.49,10.35,4.6,1024
+2000000425,9454,male,1967,53,Korea,Gyeonggi-do,Bucheon-si,0,contact with patient,0,0,0,0,2020-03-27,0,0,isolated,64,124,4,1.51,12.77,5.4,1432
+2000000426,9419,male,2010,10,Korea,Gyeonggi-do,Bucheon-si,0,contact with patient,0,0,0,0,2020-03-27,0,0,isolated,64,124,4,1.51,12.77,5.4,1432
+2000000427,9443,male,1985,35,Korea,Gyeonggi-do,Suwon-si,0,overseas inflow,0,0,0,0,2020-03-27,0,0,isolated,99,192,4,1.72,10.5,4.5,2082
+2000000428,9403,male,1991,29,Korea,Gyeonggi-do,Goyang-si,0,overseas inflow,0,0,0,0,2020-03-27,0,0,isolated,84,171,2,1.88,12.82,5.2,1608
+2000000429,9448,male,1959,61,Korea,Gyeonggi-do,Bucheon-si,0,overseas inflow,0,0,0,0,2020-03-27,0,0,isolated,64,124,4,1.51,12.77,5.4,1432
+2000000430,9459,male,1985,35,Korea,Gyeonggi-do,Goyang-si,0,overseas inflow,0,0,0,0,2020-03-27,0,0,isolated,84,171,2,1.88,12.82,5.2,1608
+2000000431,9402,male,1960,60,Korea,Gyeonggi-do,Bucheon-si,0,overseas inflow,0,0,0,0,2020-03-27,0,0,isolated,64,124,4,1.51,12.77,5.4,1432
+2000000432,9759,male,1927,93,Korea,Gyeonggi-do,Gunpo-si,0,contact with patient,0,2000000309,0,0,2020-03-27,0,0,isolated,26,49,1,1.58,12.42,5.4,429
+2000000434,9377,male,1964,56,Korea,Gyeonggi-do,Ansan-si,0,contact with patient,0,0,0,0,2020-03-27,0,0,isolated,54,94,4,1.49,10.35,4.6,1024
+2000000436,9500,male,2020,0,Korea,Gyeonggi-do,Anyang-si,0,overseas inflow,0,0,0,0,2020-03-28,0,0,isolated,41,79,4,1.86,12.88,5.1,1099
+2000000437,9660,male,1962,58,Korea,Gyeonggi-do,Hwaseong-si,0,contact with patient,0,2000000421,0,0,2020-03-28,0,0,isolated,92,167,6,1.72,8.58,3.3,1001
+2000000440,9579,male,1993,27,Korea,Gyeonggi-do,Gwangju-si,0,overseas inflow,0,0,2,0,2020-03-28,2020-04-13,0,released,27,42,2,1.09,12.65,4,406
+2000000444,9609,male,1995,25,Korea,Gyeonggi-do,Gimpo-si,0,overseas inflow,0,0,0,0,2020-03-28,0,0,isolated,43,90,2,1.74,12.1,4.4,604
+2000000449,9575,male,1995,25,Korea,Gyeonggi-do,Goyang-si,0,overseas inflow,0,0,0,0,2020-03-28,0,0,isolated,84,171,2,1.88,12.82,5.2,1608
+2000000451,9514,male,1998,22,Korea,Gyeonggi-do,Yongin-si,0,overseas inflow,0,0,0,0,2020-03-28,0,0,isolated,103,169,7,1.82,12.77,4.1,1429
+2000000452,9522,male,1990,30,Korea,Gyeonggi-do,Yongin-si,0,overseas inflow,0,0,0,0,2020-03-28,0,0,isolated,103,169,7,1.82,12.77,4.1,1429
+2000000453,9656,male,1986,34,Korea,Gyeonggi-do,Bucheon-si,0,contact with patient,0,2000000167,0,0,2020-03-28,0,0,isolated,64,124,4,1.51,12.77,5.4,1432
+2000000454,9537,male,1985,35,Korea,Gyeonggi-do,Bucheon-si,0,etc,0,0,0,2020-03-24,2020-03-28,0,0,isolated,64,124,4,1.51,12.77,5.4,1432
+2000000455,9649,male,2005,15,Korea,Gyeonggi-do,Bucheon-si,0,contact with patient,0,2000000167,0,0,2020-03-28,0,0,isolated,64,124,4,1.51,12.77,5.4,1432
+2000000458,9632,male,1959,61,Korea,Gyeonggi-do,Yongin-si,0,overseas inflow,0,0,0,2020-03-27,2020-03-29,0,0,isolated,103,169,7,1.82,12.77,4.1,1429
+2000000459,9631,male,1957,63,Korea,Gyeonggi-do,Suwon-si,0,overseas inflow,0,0,3,0,2020-03-29,0,0,isolated,99,192,4,1.72,10.5,4.5,2082
+2000000462,9611,male,1994,26,Korea,Gyeonggi-do,Ansan-si,0,contact with patient,0,2000000387,0,0,2020-03-29,0,0,isolated,54,94,4,1.49,10.35,4.6,1024
+2000000463,9604,male,1999,21,Korea,Gyeonggi-do,Uiwang-si,0,overseas inflow,0,0,0,2020-03-28,2020-03-29,0,0,isolated,14,24,1,1.09,12.99,5,189
+2000000464,9620,male,1962,58,Korea,Gyeonggi-do,Yongin-si,0,overseas inflow,0,0,0,2020-03-29,2020-03-29,0,0,isolated,103,169,7,1.82,12.77,4.1,1429
+2000000465,9662,male,1945,75,Korea,Gyeonggi-do,Uijeongbu-si,0,etc,0,0,0,2020-03-28,2020-03-29,0,0,isolated,33,62,1,1.59,14.61,6.4,729
+2000000467,9700,male,1971,49,Korea,Gyeonggi-do,Suwon-si,0,overseas inflow,0,0,1,0,2020-03-30,0,0,isolated,99,192,4,1.72,10.5,4.5,2082
+2000000473,9785,male,1992,28,Korea,Gyeonggi-do,Hwaseong-si,0,etc,0,0,0,2020-03-23,2020-03-30,0,0,isolated,92,167,6,1.72,8.58,3.3,1001
+2000000477,9758,male,1963,57,Korea,Gyeonggi-do,Pyeongtaek-si,0,etc,0,0,0,2020-03-28,2020-03-30,0,0,isolated,58,108,3,1.39,12.13,5.6,765
+2000000478,9860,male,1965,55,Korea,Gyeonggi-do,Pyeongtaek-si,0,contact with patient,0,2000000445,0,0,2020-03-30,0,0,isolated,58,108,3,1.39,12.13,5.6,765
+2000000479,9801,male,2015,5,Korea,Gyeonggi-do,Suwon-si,0,overseas inflow,0,0,0,0,2020-03-31,0,0,isolated,99,192,4,1.72,10.5,4.5,2082
+2000000481,9842,male,2006,14,Korea,Gyeonggi-do,Gwangmyeong-si,0,contact with patient,0,1000000434,0,0,2020-03-31,0,0,isolated,25,48,0,1.73,13.25,5.8,530
+2000000483,9874,male,1954,66,Korea,Gyeonggi-do,Hanam-si,0,contact with patient,0,2000000277,0,0,2020-03-31,0,0,isolated,20,34,0,1.16,12.43,4.8,381
+2000000484,9878,male,2001,19,Korea,Gyeonggi-do,Seongnam-si,0,contact with patient,0,2000000205,0,2020-03-15,2020-03-31,0,0,isolated,72,127,3,2.08,13.52,5.6,2095
+2000000486,10080,male,1998,22,Korea,Gyeonggi-do,Yongin-si,0,overseas inflow,0,0,0,2020-02-15,2020-03-31,0,0,isolated,103,169,7,1.82,12.77,4.1,1429
+2000000487,9875,male,1987,33,Korea,Gyeonggi-do,Gunpo-si,0,overseas inflow,0,0,0,0,2020-03-31,0,0,isolated,26,49,1,1.58,12.42,5.4,429
+2000000494,9826,male,2001,19,Korea,Gyeonggi-do,Seongnam-si,0,contact with patient,0,2000000205,0,0,2020-03-31,0,0,isolated,72,127,3,2.08,13.52,5.6,2095
+2000000496,10012,male,1963,57,Korea,Gyeonggi-do,Uijeongbu-si,0,contact with patient,0,0,0,0,2020-03-31,0,0,isolated,33,62,1,1.59,14.61,6.4,729
+2000000505,9926,male,1960,60,Korea,Gyeonggi-do,Seongnam-si,0,overseas inflow,0,0,0,2020-03-28,2020-04-01,0,0,isolated,72,127,3,2.08,13.52,5.6,2095
+2000000507,9908,male,2000,20,Korea,Gyeonggi-do,Suwon-si,0,overseas inflow,0,0,5,0,2020-04-01,0,0,isolated,99,192,4,1.72,10.5,4.5,2082
+2000000510,9958,male,1995,25,Korea,Gyeonggi-do,Goyang-si,0,overseas inflow,0,0,0,0,2020-04-01,0,0,isolated,84,171,2,1.88,12.82,5.2,1608
+2000000511,10082,male,1945,75,Korea,Gyeonggi-do,Namyangju-si,0,contact with patient,0,0,0,0,2020-04-01,0,0,isolated,64,110,1,1.38,13.44,5,912
+2000000512,9913,male,1967,53,Korea,Gyeonggi-do,Uijeongbu-si,0,contact with patient,0,0,0,0,2020-04-01,0,0,isolated,33,62,1,1.59,14.61,6.4,729
+2000000513,9966,male,1960,60,Korea,Gyeonggi-do,Paju-si,0,contact with patient,0,0,0,0,2020-04-01,0,0,isolated,57,98,1,1.34,13.52,5.3,573
+2000000515,9917,male,1937,83,Korea,Gyeonggi-do,Uijeongbu-si,0,contact with patient,0,2000000498,0,0,2020-04-01,0,0,isolated,33,62,1,1.59,14.61,6.4,729
+2000000517,9924,male,1962,58,Korea,Gyeonggi-do,Gunpo-si,0,contact with patient,0,2000000309,0,0,2020-04-01,0,0,isolated,26,49,1,1.58,12.42,5.4,429
+2000000523,10018,male,1973,47,Korea,Gyeonggi-do,Pyeongtaek-si,0,contact with patient,0,2000000508,0,0,2020-04-02,0,0,isolated,58,108,3,1.39,12.13,5.6,765
+2000000524,10006,male,1985,35,Korea,Gyeonggi-do,Anyang-si,0,etc,0,0,0,0,2020-04-02,0,0,isolated,41,79,4,1.86,12.88,5.1,1099
+2000000525,10050,male,1952,68,Korea,Gyeonggi-do,Namyangju-si,0,contact with patient,0,0,0,0,2020-04-02,0,0,isolated,64,110,1,1.38,13.44,5,912
+2000000527,10014,male,1972,48,Korea,Gyeonggi-do,Pyeongtaek-si,0,contact with patient,0,2000000508,0,0,2020-04-02,0,0,isolated,58,108,3,1.39,12.13,5.6,765
+2000000529,10045,male,1960,60,Korea,Gyeonggi-do,Pyeongtaek-si,0,contact with patient,0,0,0,0,2020-04-02,0,0,isolated,58,108,3,1.39,12.13,5.6,765
+2000000535,10034,male,1966,54,Korea,Gyeonggi-do,Suwon-si,0,contact with patient,0,2000000506,3,0,2020-04-02,0,0,isolated,99,192,4,1.72,10.5,4.5,2082
+2000000538,10047,male,1992,28,Korea,Gyeonggi-do,Gimpo-si,0,overseas inflow,0,0,0,0,2020-04-02,0,0,isolated,43,90,2,1.74,12.1,4.4,604
+2000000539,10099,male,1985,35,Korea,Gyeonggi-do,Goyang-si,0,overseas inflow,0,0,0,0,2020-04-02,0,0,isolated,84,171,2,1.88,12.82,5.2,1608
+2000000542,10001,male,1974,46,Korea,Gyeonggi-do,Gwangju-si,0,overseas inflow,0,0,0,0,2020-04-02,0,0,isolated,27,42,2,1.09,12.65,4,406
+2000000544,10059,male,2002,18,Korea,Gyeonggi-do,Bucheon-si,0,contact with patient,0,2000000167,0,0,2020-04-02,0,0,isolated,64,124,4,1.51,12.77,5.4,1432
+2000000545,10026,male,1937,83,Korea,Gyeonggi-do,Yangju-si,0,contact with patient,0,0,0,0,2020-04-02,0,0,isolated,33,48,1,1.16,15.23,6.3,252
+2000000547,10119,male,1998,22,Korea,Gyeonggi-do,Gapyeong-gun,0,overseas inflow,0,0,0,0,2020-04-03,0,0,isolated,13,14,0,0.88,25.09,12,114
+2000000550,10088,male,1940,80,Korea,Gyeonggi-do,Pyeongtaek-si,0,contact with patient,0,2000000508,0,0,2020-04-03,0,0,isolated,58,108,3,1.39,12.13,5.6,765
+2000000551,10120,male,1999,21,Korea,Gyeonggi-do,Hanam-si,0,overseas inflow,0,0,0,0,2020-04-03,0,0,isolated,20,34,0,1.16,12.43,4.8,381
+2000000555,10121,male,1962,58,Korea,Gyeonggi-do,Pocheon-si,0,contact with patient,0,0,0,0,2020-04-03,0,0,isolated,31,33,2,0.89,18.92,8.2,209
+2000000560,10113,male,1979,41,Korea,Gyeonggi-do,Pyeongtaek-si,0,contact with patient,0,2000000508,0,0,2020-04-03,0,0,isolated,58,108,3,1.39,12.13,5.6,765
+2000000561,10116,male,1989,31,Korea,Gyeonggi-do,Bucheon-si,0,contact with patient,0,2000000431,0,0,2020-04-03,0,0,isolated,64,124,4,1.51,12.77,5.4,1432
+2000000566,10184,male,1982,38,Korea,Gyeonggi-do,Pyeongtaek-si,0,contact with patient,0,2000000508,0,0,2020-04-04,0,0,isolated,58,108,3,1.39,12.13,5.6,765
+2000000570,10218,male,1990,30,Korea,Gyeonggi-do,Pyeongtaek-si,0,contact with patient,0,1400000033,0,0,2020-04-04,0,0,isolated,58,108,3,1.39,12.13,5.6,765
+2000000571,10221,male,1964,56,Korea,Gyeonggi-do,Goyang-si,0,etc,0,0,0,2020-03-29,2020-04-04,0,0,isolated,84,171,2,1.88,12.82,5.2,1608
+2000000572,10302,male,1947,73,Korea,Gyeonggi-do,Uijeongbu-si,0,contact with patient,0,2000000476,0,0,2020-04-04,0,0,isolated,33,62,1,1.59,14.61,6.4,729
+2000000574,10181,male,1994,26,Korea,Gyeonggi-do,Siheung-si,0,overseas inflow,0,0,0,0,2020-04-04,0,0,isolated,46,74,2,1.55,8.86,3.8,622
+2000000577,10275,male,1996,24,Korea,Gyeonggi-do,Yongin-si,0,overseas inflow,0,0,0,0,2020-04-05,0,0,isolated,103,169,7,1.82,12.77,4.1,1429
+2000000578,10278,male,1961,59,Korea,Gyeonggi-do,Dongducheon-si,0,contact with patient,0,2000000476,4,0,2020-04-05,0,0,isolated,11,19,1,1.03,19.56,9.7,140
+2000000581,10279,male,1973,47,Korea,Gyeonggi-do,Pyeongtaek-si,0,contact with patient,0,2000000508,0,0,2020-04-05,0,0,isolated,58,108,3,1.39,12.13,5.6,765
+2000000582,10264,male,1986,34,Korea,Gyeonggi-do,Gimpo-si,0,etc,0,0,0,2020-04-02,2020-04-03,0,0,isolated,43,90,2,1.74,12.1,4.4,604
+2000000583,10324,male,1948,72,Korea,Gyeonggi-do,Pocheon-si,0,contact with patient,0,2000000476,0,0,2020-04-05,0,0,isolated,31,33,2,0.89,18.92,8.2,209
+2000000584,10304,male,1974,46,Korea,Gyeonggi-do,Pyeongtaek-si,0,contact with patient,0,2000000445,0,0,2020-04-06,0,0,isolated,58,108,3,1.39,12.13,5.6,765
+2000000588,10305,male,1994,26,Korea,Gyeonggi-do,Namyangju-si,0,overseas inflow,0,0,0,0,2020-04-06,0,0,isolated,64,110,1,1.38,13.44,5,912
+2000000593,10409,male,1992,28,Korea,Gyeonggi-do,Bucheon-si,0,overseas inflow,0,0,0,0,2020-04-07,0,0,isolated,64,124,4,1.51,12.77,5.4,1432
+2000000594,10400,male,2011,9,Korea,Gyeonggi-do,Pyeongtaek-si,0,contact with patient,0,2000000584,0,0,2020-04-07,0,0,isolated,58,108,3,1.39,12.13,5.6,765
+2000000595,10367,male,1938,82,Korea,Gyeonggi-do,Suwon-si,0,contact with patient,0,2000000506,0,0,2020-04-07,0,0,isolated,99,192,4,1.72,10.5,4.5,2082
+2000000596,10373,male,1966,54,Korea,Gyeonggi-do,Pyeongtaek-si,0,contact with patient,0,2000000508,0,0,2020-04-07,0,0,isolated,58,108,3,1.39,12.13,5.6,765
+2000000599,10363,male,1962,58,Korea,Gyeonggi-do,Namyangju-si,0,contact with patient,0,2000000393,71,0,2020-04-07,0,0,isolated,64,110,1,1.38,13.44,5,912
+2000000600,10398,male,1994,26,Korea,Gyeonggi-do,Anyang-si,0,overseas inflow,0,0,0,0,2020-04-08,0,0,isolated,41,79,4,1.86,12.88,5.1,1099
+2000000601,10397,male,1986,34,Korea,Gyeonggi-do,Anyang-si,0,overseas inflow,0,0,0,0,2020-04-08,0,0,isolated,41,79,4,1.86,12.88,5.1,1099
+2000000605,10404,male,1999,21,Korea,Gyeonggi-do,Hwaseong-si,0,overseas inflow,0,0,0,0,2020-04-08,0,0,isolated,92,167,6,1.72,8.58,3.3,1001
+2000000606,10460,male,1998,22,Korea,Gyeonggi-do,Gimpo-si,0,overseas inflow,0,0,0,0,2020-04-08,0,0,isolated,43,90,2,1.74,12.1,4.4,604
+2000000608,10420,male,1992,28,Korea,Gyeonggi-do,Suwon-si,0,contact with patient,0,1000000573,5,0,2020-04-08,0,0,isolated,99,192,4,1.72,10.5,4.5,2082
+2000000610,10445,male,1984,36,Korea,Gyeonggi-do,Hanam-si,0,etc,0,0,0,2020-04-04,2020-04-09,0,0,isolated,20,34,0,1.16,12.43,4.8,381
+2000000611,10446,male,1988,32,Korea,Gyeonggi-do,Suwon-si,0,overseas inflow,0,0,0,0,2020-04-09,0,0,isolated,99,192,4,1.72,10.5,4.5,2082
+2000000612,10438,male,1998,22,Korea,Gyeonggi-do,Bucheon-si,0,overseas inflow,0,0,0,0,2020-04-09,0,0,isolated,64,124,4,1.51,12.77,5.4,1432
+2000000613,10444,male,1959,61,Korea,Gyeonggi-do,Uijeongbu-si,0,contact with patient,0,1000000513,0,0,2020-04-09,0,0,isolated,33,62,1,1.59,14.61,6.4,729
+2000000615,10434,male,2017,3,Korea,Gyeonggi-do,Gwangju-si,0,overseas inflow,0,0,0,0,2020-04-09,0,0,isolated,27,42,2,1.09,12.65,4,406
+2000000617,10475,male,1990,30,Korea,Gyeonggi-do,Seongnam-si,0,overseas inflow,0,0,0,2020-04-07,2020-04-10,0,0,isolated,72,127,3,2.08,13.52,5.6,2095
+2000000619,10480,male,1960,60,Korea,Gyeonggi-do,Gwangju-si,0,contact with patient,0,2000000614,10,2020-04-09,2020-04-10,0,0,isolated,27,42,2,1.09,12.65,4,406
+2000000620,10459,male,1964,56,Korea,Gyeonggi-do,Yangju-si,0,contact with patient,0,2000000476,0,0,2020-04-10,0,0,isolated,33,48,1,1.16,15.23,6.3,252
+2000000627,10508,male,1961,59,Korea,Gyeonggi-do,Seongnam-si,0,contact with patient,0,2000000617,0,0,2020-04-11,0,0,isolated,72,127,3,2.08,13.52,5.6,2095
+2000000629,10533,male,1955,65,Korea,Gyeonggi-do,Guri-si,0,etc,0,0,0,2020-04-09,2020-04-11,0,0,isolated,16,30,0,1.94,12.88,5.1,418
+2000000636,10552,male,1956,64,Korea,Gyeonggi-do,Uijeongbu-si,0,contact with patient,0,2000000614,0,0,2020-04-13,0,0,isolated,33,62,1,1.59,14.61,6.4,729
+2000000637,10571,male,1946,74,Korea,Gyeonggi-do,Namyangju-si,0,contact with patient,0,2000000476,1,0,2020-04-13,0,0,isolated,64,110,1,1.38,13.44,5,912
+2000000639,10548,male,1971,49,Korea,Gyeonggi-do,Namyangju-si,0,overseas inflow,0,0,8,0,2020-04-13,0,0,isolated,64,110,1,1.38,13.44,5,912
+2000000641,10570,male,1974,46,Korea,Gyeonggi-do,Pyeongtaek-si,0,contact with patient,0,2000000529,0,0,2020-04-13,0,0,isolated,58,108,3,1.39,12.13,5.6,765
+2000000644,10581,male,1958,62,Korea,Gyeonggi-do,Pocheon-si,0,contact with patient,0,2000000498,0,0,2020-04-14,0,0,isolated,31,33,2,0.89,18.92,8.2,209
+2000000645,10590,male,1949,71,Korea,Gyeonggi-do,Uijeongbu-si,0,contact with patient,0,2000000638,0,0,2020-04-14,0,0,isolated,33,62,1,1.59,14.61,6.4,729
+2000000646,10596,male,1990,30,Korea,Gyeonggi-do,Goyang-si,0,overseas inflow,0,0,0,0,2020-04-14,0,0,isolated,84,171,2,1.88,12.82,5.2,1608
+2000000651,10649,male,1963,57,Korea,Gyeonggi-do,Pocheon-si,0,contact with patient,0,2000000650,0,0,2020-04-17,0,0,isolated,31,33,2,0.89,18.92,8.2,209
+2000000653,10652,male,1965,55,Korea,Gyeonggi-do,Uijeongbu-si,0,contact with patient,0,2000000520,0,2020-04-13,2020-04-17,0,0,isolated,33,62,1,1.59,14.61,6.4,729
+2000000656,10672,male,1964,56,Korea,Gyeonggi-do,Namyangju-si,0,contact with patient,0,2000000586,0,0,2020-04-19,0,0,isolated,64,110,1,1.38,13.44,5,912
+2000000657,10679,male,1962,58,Korea,Gyeonggi-do,Namyangju-si,0,overseas inflow,0,0,0,0,2020-04-20,0,0,isolated,64,110,1,1.38,13.44,5,912
+2000000659,10698,male,1944,76,Korea,Gyeonggi-do,Pocheon-si,0,contact with patient,0,2000000629,0,0,2020-04-22,0,0,isolated,31,33,2,0.89,18.92,8.2,209
+2000000660,10706,male,1969,51,Korea,Gyeonggi-do,Hanam-si,0,etc,0,0,0,2020-04-15,2020-04-23,0,0,isolated,20,34,0,1.16,12.43,4.8,381
+2000000664,10726,male,1995,25,Korea,Gyeonggi-do,Seongnam-si,0,overseas inflow,0,0,0,0,2020-04-25,0,0,isolated,72,127,3,2.08,13.52,5.6,2095
+2000000665,10722,male,1970,50,Korea,Gyeonggi-do,Yongin-si,0,overseas inflow,0,0,0,0,2020-04-25,0,0,isolated,103,169,7,1.82,12.77,4.1,1429
+2000000666,10728,male,1990,30,Korea,Gyeonggi-do,Suwon-si,0,overseas inflow,0,0,0,0,2020-04-25,0,0,isolated,99,192,4,1.72,10.5,4.5,2082
+2000000667,10725,male,1987,33,Korea,Gyeonggi-do,Seongnam-si,0,overseas inflow,0,0,3,2020-04-24,2020-04-25,0,0,isolated,72,127,3,2.08,13.52,5.6,2095
+2000000668,10721,male,1999,21,Korea,Gyeonggi-do,Yongin-si,0,overseas inflow,0,0,0,0,2020-04-25,0,0,isolated,103,169,7,1.82,12.77,4.1,1429
+2000000671,10738,male,1993,27,Korea,Gyeonggi-do,Pyeongtaek-si,0,overseas inflow,0,0,0,0,2020-04-26,0,0,isolated,58,108,3,1.39,12.13,5.6,765
+2000000673,10752,male,1964,56,Korea,Gyeonggi-do,Yongin-si,0,overseas inflow,0,0,0,0,2020-04-27,0,0,isolated,103,169,7,1.82,12.77,4.1,1429
+2000000675,10758,male,1973,47,Korea,Gyeonggi-do,Goyang-si,0,etc,0,0,0,0,2020-04-28,0,0,isolated,84,171,2,1.88,12.82,5.2,1608
+2000000678,10773,male,1994,26,Korea,Gyeonggi-do,Hanam-si,0,overseas inflow,0,0,0,0,2020-04-30,0,0,isolated,20,34,0,1.16,12.43,4.8,381
+2000000679,10792,male,2000,20,Korea,Gyeonggi-do,Paju-si,0,overseas inflow,0,0,0,0,2020-05-02,0,0,isolated,57,98,1,1.34,13.52,5.3,573
+2000000680,10787,male,1973,47,Korea,Gyeonggi-do,Paju-si,0,overseas inflow,0,0,0,0,2020-05-02,0,0,isolated,57,98,1,1.34,13.52,5.3,573
+2000000681,10798,male,1959,61,Korea,Gyeonggi-do,Gimpo-si,0,overseas inflow,0,0,0,0,2020-05-03,0,0,isolated,43,90,2,1.74,12.1,4.4,604
+2000000682,10809,male,1991,29,Korea,Gyeonggi-do,Yongin-si,0,Itaewon Clubs,0,0,0,2020-05-02,2020-05-06,0,0,isolated,103,169,7,1.82,12.77,4.1,1429
+2000000683,10814,male,1989,31,Korea,Gyeonggi-do,Anyang-si,0,contact with patient,0,2000000682,0,0,2020-05-07,0,0,isolated,41,79,4,1.86,12.88,5.1,1099
+2000000684,10822,male,1981,39,Korea,Gyeonggi-do,Gwangmyeong-si,0,overseas inflow,0,0,0,0,2020-05-08,0,0,isolated,25,48,0,1.73,13.25,5.8,530
+2000000685,10834,male,1988,32,Korea,Gyeonggi-do,Yongin-si,0,contact with patient,0,2000000682,0,0,2020-05-08,0,0,isolated,103,169,7,1.82,12.77,4.1,1429
+2000000686,10825,male,1994,26,Korea,Gyeonggi-do,Seongnam-si,0,Itaewon Clubs,0,0,0,0,2020-05-08,0,0,isolated,72,127,3,2.08,13.52,5.6,2095
+2000000687,10824,male,1968,52,Korea,Gyeonggi-do,Pyeongtaek-si,0,overseas inflow,0,0,0,0,2020-05-08,0,0,isolated,58,108,3,1.39,12.13,5.6,765
+2000000688,10823,male,1991,29,Korea,Gyeonggi-do,Yongin-si,0,contact with patient,0,0,0,0,2020-05-08,0,0,isolated,103,169,7,1.82,12.77,4.1,1429
+2000000689,10849,male,1991,29,Korea,Gyeonggi-do,Seongnam-si,0,contact with patient,0,2000000686,0,0,2020-05-09,0,0,isolated,72,127,3,2.08,13.52,5.6,2095
+2000000690,10854,male,2000,20,Korea,Gyeonggi-do,Namyangju-si,0,contact with patient,0,2000000682,0,0,2020-05-09,0,0,isolated,64,110,1,1.38,13.44,5,912
+2000000691,10851,male,1996,24,Korea,Gyeonggi-do,Anyang-si,0,contact with patient,0,1000000648,0,0,2020-05-09,0,0,isolated,41,79,4,1.86,12.88,5.1,1099
+2000000693,10865,male,1974,46,Korea,Gyeonggi-do,Goyang-si,0,contact with patient,0,0,0,0,2020-05-09,0,0,isolated,84,171,2,1.88,12.82,5.2,1608
+2000000694,10864,male,1993,27,Korea,Gyeonggi-do,Goyang-si,0,contact with patient,0,2000000682,0,0,2020-05-09,0,0,isolated,84,171,2,1.88,12.82,5.2,1608
+2000000695,10933,male,1996,24,Korea,Gyeonggi-do,Bucheon-si,0,contact with patient,0,0,0,0,2020-05-10,0,0,isolated,64,124,4,1.51,12.77,5.4,1432
+2000000696,10901,male,1975,45,Korea,Gyeonggi-do,Uiwang-si,0,contact with patient,0,2000000686,0,0,2020-05-10,0,0,isolated,14,24,1,1.09,12.99,5,189
+2000000697,10902,male,1982,38,Korea,Gyeonggi-do,Suwon-si,0,contact with patient,0,0,0,0,2020-05-10,0,0,isolated,99,192,4,1.72,10.5,4.5,2082
+2000000698,10903,male,1982,38,Korea,Gyeonggi-do,Goyang-si,0,Itaewon Clubs,0,0,0,0,2020-05-10,0,0,isolated,84,171,2,1.88,12.82,5.2,1608
+2000000700,10918,male,1995,25,Korea,Gyeonggi-do,Namyangju-si,0,contact with patient,0,2000000682,0,0,2020-05-11,0,0,isolated,64,110,1,1.38,13.44,5,912
+2000000701,10917,male,1988,32,Korea,Gyeonggi-do,Yongin-si,0,Itaewon Clubs,0,0,0,0,2020-05-11,0,0,isolated,103,169,7,1.82,12.77,4.1,1429
+2000000704,10915,male,1995,25,Korea,Gyeonggi-do,Yongin-si,0,etc,0,0,0,2020-05-07,2020-05-11,0,0,isolated,103,169,7,1.82,12.77,4.1,1429
+2000000705,10934,male,1992,28,Korea,Gyeonggi-do,Goyang-si,0,contact with patient,0,1000000669,0,0,2020-05-11,0,0,isolated,84,171,2,1.88,12.82,5.2,1608
+2000000706,10943,male,1999,21,Korea,Gyeonggi-do,Uijeongbu-si,0,Itaewon Clubs,0,0,0,0,2020-05-11,0,0,isolated,33,62,1,1.59,14.61,6.4,729
+2000000707,10942,male,1992,28,Korea,Gyeonggi-do,Suwon-si,0,contact with patient,0,1000000672,0,0,2020-05-12,0,0,isolated,99,192,4,1.72,10.5,4.5,2082
+2000000708,10957,male,1983,37,Korea,Gyeonggi-do,Pyeongtaek-si,0,overseas inflow,0,0,0,0,2020-05-12,0,0,isolated,58,108,3,1.39,12.13,5.6,765
+2000000709,10976,male,2001,19,Korea,Gyeonggi-do,Suwon-si,0,contact with patient,0,0,0,0,2020-05-13,0,0,isolated,99,192,4,1.72,10.5,4.5,2082
+2000000711,10983,male,1999,21,Korea,Gyeonggi-do,Bucheon-si,0,Itaewon Clubs,0,0,0,0,2020-05-13,0,0,isolated,64,124,4,1.51,12.77,5.4,1432
+2000000714,10989,male,1987,33,Korea,Gyeonggi-do,Pyeongtaek-si,0,etc,0,0,0,2020-05-09,2020-05-13,0,0,isolated,58,108,3,1.39,12.13,5.6,765
+2000000716,11011,male,2006,14,Korea,Gyeonggi-do,Yangju-si,0,overseas inflow,0,0,0,0,2020-05-14,0,0,isolated,33,48,1,1.16,15.23,6.3,252
+2000000718,11027,male,1992,28,Korea,Gyeonggi-do,Anyang-si,0,contact with patient,0,0,0,0,2020-05-14,0,0,isolated,41,79,4,1.86,12.88,5.1,1099
+2000000720,11032,male,1991,29,Korea,Gyeonggi-do,Hanam-si,0,overseas inflow,0,0,0,0,2020-05-15,0,0,isolated,20,34,0,1.16,12.43,4.8,381
+2000000722,11063,male,1988,32,Korea,Gyeonggi-do,Bucheon-si,0,Itaewon Clubs,0,0,0,0,2020-05-16,0,0,isolated,64,124,4,1.51,12.77,5.4,1432
+2000000723,11058,male,1995,25,Korea,Gyeonggi-do,Pyeongtaek-si,0,overseas inflow,0,0,0,0,2020-05-17,0,0,isolated,58,108,3,1.39,12.13,5.6,765
+2000000724,11065,male,1977,43,Korea,Gyeonggi-do,Gwangju-si,0,contact with patient,0,0,0,0,2020-05-17,0,0,isolated,27,42,2,1.09,12.65,4,406
+2000000725,11078,male,2015,5,Korea,Gyeonggi-do,Yongin-si,0,contact with patient,0,0,0,0,2020-05-18,0,0,isolated,103,169,7,1.82,12.77,4.1,1429
+2000000726,11104,male,1994,26,Korea,Gyeonggi-do,Yongin-si,0,contact with patient,0,0,0,0,2020-05-18,0,0,isolated,103,169,7,1.82,12.77,4.1,1429
+2000000727,11086,male,2000,20,Korea,Gyeonggi-do,Gunpo-si,0,Itaewon Clubs,0,0,0,0,2020-05-19,0,0,isolated,26,49,1,1.58,12.42,5.4,429
+2000000729,11190,male,2008,12,Korea,Gyeonggi-do,Gunpo-si,0,overseas inflow,0,0,0,0,2020-05-19,0,0,isolated,26,49,1,1.58,12.42,5.4,429
+2000000731,11109,male,1992,28,Korea,Gyeonggi-do,Anyang-si,0,contact with patient,0,0,0,0,2020-05-19,0,0,isolated,41,79,4,1.86,12.88,5.1,1099
+2000000732,11108,male,1995,25,Korea,Gyeonggi-do,Anyang-si,0,contact with patient,0,0,0,0,2020-05-19,0,0,isolated,41,79,4,1.86,12.88,5.1,1099
+2000000733,11106,male,1997,23,Korea,Gyeonggi-do,Suwon-si,0,contact with patient,0,0,0,0,2020-05-19,0,0,isolated,99,192,4,1.72,10.5,4.5,2082
+2000000734,11107,male,1991,29,Korea,Gyeonggi-do,Anseong-si,0,contact with patient,0,0,0,0,2020-05-19,0,0,isolated,35,51,3,1.27,16.95,7.2,271
+2000000735,11099,male,1944,76,Korea,Gyeonggi-do,Guri-si,0,etc,0,0,0,0,2020-05-20,0,0,isolated,16,30,0,1.94,12.88,5.1,418
+2000000737,11135,male,1987,33,Korea,Gyeonggi-do,Bucheon-si,0,contact with patient,0,1400000132,0,0,2020-05-20,0,0,isolated,64,124,4,1.51,12.77,5.4,1432
+2000000739,11141,male,1974,46,Korea,Gyeonggi-do,Hanam-si,0,contact with patient,0,1400000135,0,0,2020-05-21,0,0,isolated,20,34,0,1.16,12.43,4.8,381
+2000000742,11154,male,1960,60,Korea,Gyeonggi-do,Goyang-si,0,contact with patient,0,0,0,0,2020-05-22,0,0,isolated,84,171,2,1.88,12.82,5.2,1608
+2000000743,11155,male,1990,30,Korea,Gyeonggi-do,Gunpo-si,0,contact with patient,0,1000000679,0,0,2020-05-22,0,0,isolated,26,49,1,1.58,12.42,5.4,429
+2000000747,11148,male,1963,57,Korea,Gyeonggi-do,Seongnam-si,0,contact with patient,0,1400000132,0,0,2020-05-22,0,0,isolated,72,127,3,2.08,13.52,5.6,2095
+2000000748,11149,male,1989,31,Korea,Gyeonggi-do,Siheung-si,0,contact with patient,0,1400000132,0,0,2020-05-22,0,0,isolated,46,74,2,1.55,8.86,3.8,622
+2000000749,11160,male,1984,36,Korea,Gyeonggi-do,Gimpo-si,0,etc,0,0,0,2020-05-19,2020-05-22,0,0,isolated,43,90,2,1.74,12.1,4.4,604
+2000000750,11163,male,1965,55,Korea,Gyeonggi-do,Bucheon-si,0,etc,0,0,0,2020-05-16,2020-05-22,0,0,isolated,64,124,4,1.51,12.77,5.4,1432
+2000000753,11158,male,1958,62,Korea,Gyeonggi-do,Namyangju-si,0,contact with patient,0,2000000741,0,0,2020-05-22,0,0,isolated,64,110,1,1.38,13.44,5,912
+2000000755,11170,male,1974,46,Korea,Gyeonggi-do,Namyangju-si,0,contact with patient,0,2000000701,0,0,2020-05-23,0,0,isolated,64,110,1,1.38,13.44,5,912
+2000000756,11171,male,1995,25,Korea,Gyeonggi-do,Gunpo-si,0,contact with patient,0,2000000726,0,0,2020-05-23,0,0,isolated,26,49,1,1.58,12.42,5.4,429
+2000000757,11173,male,1988,32,Korea,Gyeonggi-do,Siheung-si,0,overseas inflow,0,0,0,2020-05-20,2020-05-23,0,0,isolated,46,74,2,1.55,8.86,3.8,622
+2000000759,11178,male,1991,29,Korea,Gyeonggi-do,Uiwang-si,0,contact with patient,0,1000000761,0,0,2020-05-23,0,0,isolated,14,24,1,1.09,12.99,5,189
+2000000760,11181,male,1987,33,Korea,Gyeonggi-do,Bucheon-si,0,etc,0,0,0,2020-05-18,2020-05-23,0,0,isolated,64,124,4,1.51,12.77,5.4,1432
+2000000761,11193,male,1967,53,Korea,Gyeonggi-do,Hwaseong-si,0,overseas inflow,0,0,0,0,2020-05-23,0,0,isolated,92,167,6,1.72,8.58,3.3,1001
+2000000762,11204,male,1989,31,Korea,Gyeonggi-do,Anyang-si,0,etc,0,0,0,2020-05-21,2020-05-24,0,0,isolated,41,79,4,1.86,12.88,5.1,1099
+2000000764,11194,male,1980,40,Korea,Gyeonggi-do,Yongin-si,0,contact with patient,0,1000000699,0,0,2020-05-24,0,0,isolated,103,169,7,1.82,12.77,4.1,1429
+2000000765,11205,male,1990,30,Korea,Gyeonggi-do,Anyang-si,0,Itaewon Clubs,0,0,0,2020-05-18,2020-05-24,0,0,isolated,41,79,4,1.86,12.88,5.1,1099
+2000000767,11206,male,1976,44,Korea,Gyeonggi-do,Goyang-si,0,overseas inflow,0,0,0,2020-05-24,2020-05-24,0,0,isolated,84,171,2,1.88,12.82,5.2,1608
+2000000768,11211,male,1975,45,Korea,Gyeonggi-do,Yongin-si,0,etc,0,0,0,2020-05-23,2020-05-25,0,0,isolated,103,169,7,1.82,12.77,4.1,1429
+2000000773,11260,male,1948,72,Korea,Gyeonggi-do,Guri-si,0,contact with patient,0,0,0,0,2020-05-26,0,0,isolated,16,30,0,1.94,12.88,5.1,418
+2000000775,11278,male,1983,37,Korea,Gyeonggi-do,Gwangmyeong-si,0,contact with patient,0,2000000763,0,0,2020-05-27,0,0,isolated,25,48,0,1.73,13.25,5.8,530
+2000000777,11333,male,1988,32,Korea,Gyeonggi-do,Bucheon-si,0,Coupang Logistics Center,0,0,0,0,2020-05-27,0,0,isolated,64,124,4,1.51,12.77,5.4,1432
+2000000779,11328,male,1983,37,Korea,Gyeonggi-do,Bucheon-si,0,Coupang Logistics Center,0,0,0,0,2020-05-27,0,0,isolated,64,124,4,1.51,12.77,5.4,1432
+2000000780,11327,male,1989,31,Korea,Gyeonggi-do,Bucheon-si,0,contact with patient,0,2000000763,0,0,2020-05-27,0,0,isolated,64,124,4,1.51,12.77,5.4,1432
+2000000783,11297,male,1984,36,Korea,Gyeonggi-do,Gimpo-si,0,Coupang Logistics Center,0,0,0,2020-05-24,2020-05-27,0,0,isolated,43,90,2,1.74,12.1,4.4,604
+2000000784,11298,male,2001,19,Korea,Gyeonggi-do,Gimpo-si,0,Coupang Logistics Center,0,0,0,2020-05-18,2020-05-27,0,0,isolated,43,90,2,1.74,12.1,4.4,604
+2000000786,11329,male,1973,47,Korea,Gyeonggi-do,Bucheon-si,0,Coupang Logistics Center,0,0,0,2020-05-25,2020-05-27,0,0,isolated,64,124,4,1.51,12.77,5.4,1432
+2000000788,11330,male,1984,36,Korea,Gyeonggi-do,Bucheon-si,0,Coupang Logistics Center,0,0,0,0,2020-05-27,0,0,isolated,64,124,4,1.51,12.77,5.4,1432
+2000000789,11299,male,1957,63,Korea,Gyeonggi-do,Bucheon-si,0,Coupang Logistics Center,0,0,0,0,2020-05-27,0,0,isolated,64,124,4,1.51,12.77,5.4,1432
+2000000790,11321,male,1989,31,Korea,Gyeonggi-do,Bucheon-si,0,Coupang Logistics Center,0,0,0,2020-05-15,2020-05-27,0,0,isolated,64,124,4,1.51,12.77,5.4,1432
+2000000795,11340,male,1972,48,Korea,Gyeonggi-do,Gwangmyeong-si,0,contact with patient,0,2000000763,0,0,2020-05-27,0,0,isolated,25,48,0,1.73,13.25,5.8,530
+2000000796,11352,male,1975,45,Korea,Gyeonggi-do,Gimpo-si,0,contact with patient,0,2000000784,0,0,2020-05-28,0,0,isolated,43,90,2,1.74,12.1,4.4,604
+2000000799,11384,male,1983,37,Korea,Gyeonggi-do,Bucheon-si,0,Coupang Logistics Center,0,0,0,0,2020-05-28,0,0,isolated,64,124,4,1.51,12.77,5.4,1432
+2000000800,11401,male,1991,29,Korea,Gyeonggi-do,Bucheon-si,0,Coupang Logistics Center,0,0,0,0,2020-05-28,0,0,isolated,64,124,4,1.51,12.77,5.4,1432
+2000000803,11419,male,2009,11,Korea,Gyeonggi-do,Yangju-si,0,overseas inflow,0,0,0,0,2020-05-28,0,0,isolated,33,48,1,1.16,15.23,6.3,252
+2000000805,11387,male,1996,24,Korea,Gyeonggi-do,Pyeongtaek-si,0,overseas inflow,0,0,0,0,2020-05-28,0,0,isolated,58,108,3,1.39,12.13,5.6,765
+2000000807,11357,male,2001,19,Korea,Gyeonggi-do,Goyang-si,0,contact with patient,0,2000000787,0,0,2020-05-28,0,0,isolated,84,171,2,1.88,12.82,5.2,1608
+2000000808,11391,male,2001,19,Korea,Gyeonggi-do,Bucheon-si,0,Coupang Logistics Center,0,0,0,0,2020-05-28,0,0,isolated,64,124,4,1.51,12.77,5.4,1432
+2000000810,11356,male,1994,26,Korea,Gyeonggi-do,Bucheon-si,0,contact with patient,0,2000000787,0,0,2020-05-28,0,0,isolated,64,124,4,1.51,12.77,5.4,1432
+2000000812,11397,male,1932,88,Korea,Gyeonggi-do,Gwangmyeong-si,0,contact with patient,0,2000000789,0,0,2020-05-28,0,0,isolated,25,48,0,1.73,13.25,5.8,530
+2000000813,11395,male,1983,37,Korea,Gyeonggi-do,Bucheon-si,0,contact with patient,0,1400000142,0,0,2020-05-28,0,0,isolated,64,124,4,1.51,12.77,5.4,1432
+2000000814,11400,male,1984,36,Korea,Gyeonggi-do,Goyang-si,0,contact with patient,0,0,0,0,2020-05-28,0,0,isolated,84,171,2,1.88,12.82,5.2,1608
+2000000818,11413,male,1971,49,Korea,Gyeonggi-do,Uiwang-si,0,overseas inflow,0,0,0,0,2020-05-29,0,0,isolated,14,24,1,1.09,12.99,5,189
+2000000826,11429,male,1925,95,Korea,Gyeonggi-do,Gwangju-si,0,contact with patient,0,2000000806,0,0,2020-05-29,0,0,isolated,27,42,2,1.09,12.65,4,406
+3004000001,366,male,1999,21,Korea,Gangwon-do,Samcheok-si,0,etc,0,0,0,0,2020-02-22,2020-03-04,0,released,19,17,0,1.01,24.26,13,94
+3009000001,0,male,1973,47,Korea,Gangwon-do,Wonju-si,0,Shincheonji Church,0,0,41,0,2020-02-27,2020-03-16,0,released,50,71,4,1.71,14.46,6.7,597
+3009000002,0,male,1963,57,Korea,Gangwon-do,Wonju-si,0,Shincheonji Church,0,0,5,0,2020-02-29,2020-03-25,0,released,50,71,4,1.71,14.46,6.7,597
+3009000003,0,male,1964,56,Korea,Gangwon-do,Wonju-si,0,Shincheonji Church,0,0,45,0,2020-03-01,0,0,released,50,71,4,1.71,14.46,6.7,597
+3009000004,0,male,1953,67,Korea,Gangwon-do,Wonju-si,0,Shincheonji Church,0,0,17,0,2020-03-01,0,0,released,50,71,4,1.71,14.46,6.7,597
+3009000009,0,male,1953,67,Korea,Gangwon-do,Wonju-si,0,Shincheonji Church,0,0,5,0,2020-03-02,0,0,released,50,71,4,1.71,14.46,6.7,597
+3009000010,0,male,1976,44,Korea,Gangwon-do,Wonju-si,0,Shincheonji Church,0,0,24,0,2020-03-02,2020-03-25,0,released,50,71,4,1.71,14.46,6.7,597
+3009000011,0,male,1949,71,Korea,Gangwon-do,Wonju-si,0,contact with patient,0,0,4,0,2020-03-03,0,0,isolated,50,71,4,1.71,14.46,6.7,597
+3009000013,0,male,1954,66,Korea,Gangwon-do,Wonju-si,0,contact with patient,0,0,8,0,2020-03-04,0,0,released,50,71,4,1.71,14.46,6.7,597
+3009000014,0,male,1969,51,Korea,Gangwon-do,Wonju-si,0,Shincheonji Church,0,0,17,0,2020-03-04,2020-03-28,0,released,50,71,4,1.71,14.46,6.7,597
+3009000015,0,male,1974,46,Korea,Gangwon-do,Wonju-si,0,contact with patient,0,0,5,0,2020-03-05,0,0,released,50,71,4,1.71,14.46,6.7,597
+3009000019,0,male,1959,61,Korea,Gangwon-do,Wonju-si,0,overseas inflow,0,0,0,0,2020-03-28,0,0,released,50,71,4,1.71,14.46,6.7,597
+3018000001,0,male,1988,32,Korea,Gangwon-do,Hoengseong-gun,0,overseas inflow,0,0,2,0,2020-03-31,2020-04-19,0,released,16,13,2,0.97,28.22,13.3,69
+4000000001,0,male,1990,30,Korea,Chungcheongbuk-do,Jeungpyeong-gun,0,contact with patient,0,0,0,0,2020-02-20,2020-03-14,0,released,4,5,0,1.39,16.59,8.7,0
+4000000002,0,male,1985,35,Korea,Chungcheongbuk-do,Cheongju-si,0,contact with patient,0,0,0,0,2020-02-22,2020-03-07,0,released,92,131,8,1.67,12.82,6,1420
+4000000004,0,male,1970,50,Korea,Chungcheongbuk-do,Eumseong-gun,0,etc,0,0,0,0,2020-02-25,2020-03-19,0,released,21,24,2,0.88,20.33,9.2,0
+4000000008,0,male,1998,22,Korea,Chungcheongbuk-do,Cheongju-si,0,etc,0,0,0,0,2020-02-27,2020-03-11,0,released,92,131,8,1.67,12.82,6,1420
+4000000009,0,male,1974,46,Korea,Chungcheongbuk-do,Chungju-si,0,etc,0,0,0,0,2020-02-27,2020-04-16,0,released,37,44,2,1.39,19.07,9,347
+4000000010,0,male,1998,22,Korea,Chungcheongbuk-do,Cheongju-si,0,etc,0,0,0,0,2020-02-27,2020-03-23,0,released,92,131,8,1.67,12.82,6,1420
+4000000011,0,male,1996,24,Korea,Chungcheongbuk-do,Cheongju-si,0,contact with patient,0,0,0,0,2020-02-29,2020-04-22,0,released,92,131,8,1.67,12.82,6,1420
+4000000013,0,male,1963,57,Korea,Chungcheongbuk-do,Cheongju-si,0,contact with patient,0,0,0,0,2020-03-05,2020-03-24,0,released,92,131,8,1.67,12.82,6,1420
+4000000015,0,male,2017,3,Korea,Chungcheongbuk-do,Cheongju-si,0,contact with patient,0,0,0,0,2020-03-05,0,0,isolated,92,131,8,1.67,12.82,6,1420
+4000000022,0,male,1975,45,Korea,Chungcheongbuk-do,Danyang-gun,0,contact with patient,0,4000000009,0,0,2020-03-07,2020-03-30,0,released,11,11,0,0.5,29.52,15.8,0
+4000000023,0,male,1946,74,Korea,Chungcheongbuk-do,Goesan-gun,0,etc,0,0,0,0,2020-03-07,2020-03-26,0,released,14,15,1,0.36,33.01,16.5,0
+4000000024,0,male,1957,63,Korea,Chungcheongbuk-do,Goesan-gun,0,etc,0,0,0,0,2020-03-07,2020-03-26,0,released,14,15,1,0.36,33.01,16.5,0
+4000000029,0,male,1973,47,Korea,Chungcheongbuk-do,Eumseong-gun,0,contact with patient,0,0,0,0,2020-03-14,2020-04-02,0,released,21,24,2,0.88,20.33,9.2,0
+4000000032,0,male,1993,27,Korea,Chungcheongbuk-do,Chungju-si,0,contact with patient,0,0,0,0,2020-03-17,2020-04-15,0,released,37,44,2,1.39,19.07,9,347
+4000000033,0,male,1991,29,Korea,Chungcheongbuk-do,Chungju-si,0,etc,0,0,0,0,2020-03-18,2020-03-27,0,released,37,44,2,1.39,19.07,9,347
+4000000035,0,male,1962,58,Korea,Chungcheongbuk-do,Chungju-si,0,etc,0,0,0,0,2020-03-21,2020-04-11,0,released,37,44,2,1.39,19.07,9,347
+4000000040,0,male,2000,20,Korea,Chungcheongbuk-do,Cheongju-si,0,overseas inflow,0,0,0,0,2020-03-26,2020-04-12,0,released,92,131,8,1.67,12.82,6,1420
+4000000041,0,male,1960,60,Korea,Chungcheongbuk-do,Cheongju-si,0,contact with patient,0,4000000040,0,0,2020-03-26,0,0,isolated,92,131,8,1.67,12.82,6,1420
+4000000043,0,male,1959,61,Korea,Chungcheongbuk-do,Chungju-si,0,overseas inflow,0,0,0,0,2020-03-29,0,0,isolated,37,44,2,1.39,19.07,9,347
+4000000044,0,male,1992,28,Korea,Chungcheongbuk-do,Eumseong-gun,0,overseas inflow,0,0,0,0,2020-03-29,2020-04-19,0,released,21,24,2,0.88,20.33,9.2,0
+4000000046,0,male,1989,31,Korea,Chungcheongbuk-do,Cheongju-si,0,overseas inflow,0,0,0,0,2020-05-06,0,0,isolated,92,131,8,1.67,12.82,6,1420
+4000000048,0,male,1992,28,Korea,Chungcheongbuk-do,Cheongju-si,0,Itaewon Clubs,0,0,0,0,2020-05-14,0,0,isolated,92,131,8,1.67,12.82,6,1420
+4000000052,0,male,1984,36,Korea,Chungcheongbuk-do,Cheongju-si,0,etc,0,0,0,0,2020-05-24,2020-05-28,0,released,92,131,8,1.67,12.82,6,1420
+4100000001,0,male,1995,25,Korea,Chungcheongnam-do,Gyeryong-si,0,etc,0,0,22,2020-02-18,2020-02-21,2020-03-26,0,released,5,8,0,1.3,11.3,5.1,61
+4100000007,0,male,1975,45,Korea,Chungcheongnam-do,Asan-si,0,contact with patient,0,4100000006,51,2020-02-22,2020-02-26,2020-03-26,0,released,46,60,3,1.29,12.89,6.1,435
+4100000014,0,male,1975,45,Korea,Chungcheongnam-do,Cheonan-si,0,contact with patient,0,4100000013,0,0,2020-02-27,2020-04-01,0,released,75,112,6,1.91,10.42,4.5,1069
+4100000018,0,male,1990,30,Korea,Chungcheongnam-do,Cheonan-si,0,contact with patient,0,4100000049,51,2020-02-27,2020-04-15,2020-05-04,0,released,75,112,6,1.91,10.42,4.5,1069
+4100000021,0,male,1989,31,Korea,Chungcheongnam-do,Cheonan-si,0,contact with patient,0,4100000011,0,2020-02-27,2020-02-28,2020-03-26,0,released,75,112,6,1.91,10.42,4.5,1069
+4100000047,0,male,1978,42,Korea,Chungcheongnam-do,Cheonan-si,0,contact with patient,0,4100000037,0,0,2020-02-29,2020-03-11,0,released,75,112,6,1.91,10.42,4.5,1069
+4100000048,0,male,2007,13,Korea,Chungcheongnam-do,Cheonan-si,0,contact with patient,0,4100000037,0,0,2020-02-29,2020-03-11,0,released,75,112,6,1.91,10.42,4.5,1069
+4100000049,0,male,1983,37,Korea,Chungcheongnam-do,Cheonan-si,0,contact with patient,0,4100000022,0,0,2020-02-29,2020-04-12,0,released,75,112,6,1.91,10.42,4.5,1069
+4100000056,0,male,1972,48,Korea,Chungcheongnam-do,Cheonan-si,0,contact with patient,0,4100000024,0,0,2020-02-29,2020-03-17,0,released,75,112,6,1.91,10.42,4.5,1069
+4100000057,0,male,2002,18,Korea,Chungcheongnam-do,Cheonan-si,0,contact with patient,0,4100000029,0,0,2020-02-29,2020-03-26,0,released,75,112,6,1.91,10.42,4.5,1069
+4100000058,0,male,2007,13,Korea,Chungcheongnam-do,Cheonan-si,0,contact with patient,0,4100000049,10,2020-02-25,2020-02-29,2020-03-18,0,released,75,112,6,1.91,10.42,4.5,1069
+4100000060,0,male,2006,14,Korea,Chungcheongnam-do,Cheonan-si,0,contact with patient,0,4100000059,0,0,2020-02-29,2020-03-18,0,released,75,112,6,1.91,10.42,4.5,1069
+4100000061,0,male,2007,13,Korea,Chungcheongnam-do,Cheonan-si,0,contact with patient,0,4100000059,0,2020-02-25,2020-02-29,2020-03-12,0,released,75,112,6,1.91,10.42,4.5,1069
+4100000064,0,male,2007,13,Korea,Chungcheongnam-do,Cheonan-si,0,contact with patient,0,4100000077,0,0,2020-03-01,2020-03-18,0,released,75,112,6,1.91,10.42,4.5,1069
+4100000065,0,male,2018,2,Korea,Chungcheongnam-do,Cheonan-si,0,contact with patient,0,4100000032,1,0,2020-03-01,2020-03-18,0,released,75,112,6,1.91,10.42,4.5,1069
+4100000067,0,male,1984,36,Korea,Chungcheongnam-do,Cheonan-si,0,contact with patient,0,4100000071,0,2020-02-27,2020-03-01,2020-03-12,0,released,75,112,6,1.91,10.42,4.5,1069
+4100000068,0,male,1972,48,Korea,Chungcheongnam-do,Cheonan-si,0,contact with patient,0,4100000077,3,0,2020-03-01,2020-03-24,0,released,75,112,6,1.91,10.42,4.5,1069
+4100000070,0,male,2007,13,Korea,Chungcheongnam-do,Cheonan-si,0,contact with patient,0,4100000052,0,0,2020-03-01,2020-03-18,0,released,75,112,6,1.91,10.42,4.5,1069
+4100000072,0,male,2012,8,Korea,Chungcheongnam-do,Cheonan-si,0,contact with patient,0,4100000022,0,0,2020-03-01,2020-03-18,0,released,75,112,6,1.91,10.42,4.5,1069
+4100000073,0,male,1974,46,Korea,Chungcheongnam-do,Cheonan-si,0,contact with patient,0,4100000039,7,0,2020-03-01,2020-03-23,0,released,75,112,6,1.91,10.42,4.5,1069
+4100000078,0,male,2001,19,Korea,Chungcheongnam-do,Cheonan-si,0,contact with patient,0,4100000049,3,0,2020-03-02,2020-03-23,0,released,75,112,6,1.91,10.42,4.5,1069
+4100000080,0,male,1968,52,Korea,Chungcheongnam-do,Cheonan-si,0,contact with patient,0,4100000074,0,0,2020-03-02,2020-03-26,0,released,75,112,6,1.91,10.42,4.5,1069
+4100000084,0,male,1981,39,Korea,Chungcheongnam-do,Cheonan-si,0,contact with patient,0,4100000086,11,2020-02-25,2020-03-04,2020-03-23,0,released,75,112,6,1.91,10.42,4.5,1069
+4100000087,0,male,2008,12,Korea,Chungcheongnam-do,Cheonan-si,0,contact with patient,0,4100000086,2,0,2020-03-05,2020-04-01,0,released,75,112,6,1.91,10.42,4.5,1069
+4100000090,0,male,1968,52,Korea,Chungcheongnam-do,Cheonan-si,0,contact with patient,0,4100000083,174,0,2020-03-05,2020-03-24,0,released,75,112,6,1.91,10.42,4.5,1069
+4100000091,0,male,1969,51,Korea,Chungcheongnam-do,Cheonan-si,0,contact with patient,0,4100000023,0,0,2020-03-06,2020-05-12,0,released,75,112,6,1.91,10.42,4.5,1069
+4100000092,0,male,1951,69,Korea,Chungcheongnam-do,Cheonan-si,0,contact with patient,0,4100000051,0,0,2020-04-21,2020-04-30,0,released,75,112,6,1.91,10.42,4.5,1069
+4100000094,0,male,1982,38,Korea,Chungcheongnam-do,Cheonan-si,0,etc,0,0,78,0,2020-03-06,2020-03-27,0,released,75,112,6,1.91,10.42,4.5,1069
+4100000100,0,male,1966,54,Korea,Chungcheongnam-do,Cheonan-si,0,contact with patient,0,4100000099,5,0,2020-03-08,2020-03-30,0,released,75,112,6,1.91,10.42,4.5,1069
+4100000104,0,male,1966,54,Korea,Chungcheongnam-do,Seosan-si,0,etc,0,0,37,0,2020-03-09,2020-04-02,0,released,29,39,1,1.3,18.01,8.4,261
+4100000108,0,male,2019,1,Korea,Chungcheongnam-do,Asan-si,0,contact with patient,0,4100000107,0,2020-03-06,2020-03-10,2020-03-26,0,released,46,60,3,1.29,12.89,6.1,435
+4100000110,0,male,1968,52,Korea,Chungcheongnam-do,Seosan-si,0,contact with patient,0,4100000104,1,0,2020-03-10,2020-04-17,0,released,29,39,1,1.3,18.01,8.4,261
+4100000112,0,male,1967,53,Korea,Chungcheongnam-do,Seosan-si,0,contact with patient,0,4100000104,2,0,2020-03-10,2020-04-11,0,released,29,39,1,1.3,18.01,8.4,261
+4100000113,0,male,1983,37,Korea,Chungcheongnam-do,Seosan-si,0,contact with patient,0,4100000104,3,0,2020-03-10,2020-03-29,0,released,29,39,1,1.3,18.01,8.4,261
+4100000114,0,male,1967,53,Korea,Chungcheongnam-do,Seosan-si,0,contact with patient,0,4100000104,2,0,2020-03-10,2020-03-29,0,released,29,39,1,1.3,18.01,8.4,261
+4100000117,0,male,1995,25,Korea,Chungcheongnam-do,Cheonan-si,0,River of Grace Community Church,0,0,1,2020-03-09,2020-03-17,2020-04-05,0,released,75,112,6,1.91,10.42,4.5,1069
+4100000121,0,male,1972,48,Korea,Chungcheongnam-do,Buyeo-gun,0,contact with patient,0,4100000122,2,0,2020-03-24,2020-04-07,0,released,24,27,1,0.79,33.3,17.4,137
+4100000123,0,male,1971,49,Korea,Chungcheongnam-do,Cheonan-si,0,overseas inflow,0,0,0,2020-03-13,2020-03-24,2020-04-13,0,released,75,112,6,1.91,10.42,4.5,1069
+4100000124,0,male,1990,30,Korea,Chungcheongnam-do,Cheonan-si,0,overseas inflow,0,0,1,2020-03-21,2020-03-25,2020-04-20,0,released,75,112,6,1.91,10.42,4.5,1069
+4100000125,0,male,1981,39,Korea,Chungcheongnam-do,Buyeo-gun,0,contact with patient,0,4100000122,3,2020-03-27,2020-03-27,2020-04-18,0,released,24,27,1,0.79,33.3,17.4,137
+4100000126,0,male,1986,34,Korea,Chungcheongnam-do,Buyeo-gun,0,overseas inflow,0,0,1,2020-03-25,2020-03-27,2020-04-16,0,released,24,27,1,0.79,33.3,17.4,137
+4100000127,0,male,2001,19,Korea,Chungcheongnam-do,Cheonan-si,0,overseas inflow,0,0,3,2020-03-22,2020-03-28,2020-05-11,0,released,75,112,6,1.91,10.42,4.5,1069
+4100000129,0,male,1985,35,Korea,Chungcheongnam-do,Cheonan-si,0,overseas inflow,0,0,2,2020-03-21,2020-03-31,2020-05-08,0,released,75,112,6,1.91,10.42,4.5,1069
+4100000131,0,male,1964,56,Korea,Chungcheongnam-do,Buyeo-gun,0,contact with patient,0,4100000122,0,0,2020-03-31,2020-04-17,0,released,24,27,1,0.79,33.3,17.4,137
+4100000135,0,male,1973,47,United States,Chungcheongnam-do,Asan-si,0,overseas inflow,0,2000000508,2,0,2020-04-03,2020-04-22,0,released,46,60,3,1.29,12.89,6.1,435
+4100000136,0,male,1949,71,Korea,Chungcheongnam-do,Buyeo-gun,0,contact with patient,0,4100000130,0,2020-04-03,2020-04-05,2020-05-19,0,released,24,27,1,0.79,33.3,17.4,137
+4100000138,0,male,1982,38,Korea,Chungcheongnam-do,Cheonan-si,0,overseas inflow,0,0,1,2020-04-06,2020-04-07,2020-05-08,0,released,75,112,6,1.91,10.42,4.5,1069
+4100000141,0,male,1999,21,Korea,Chungcheongnam-do,Nonsan-si,0,contact with patient,0,6100000115,89,0,2020-04-17,2020-05-29,0,released,33,32,2,1.03,25.54,13.4,262
+4100000143,0,male,1981,39,Korea,Chungcheongnam-do,Cheonan-si,0,overseas inflow,0,0,4,0,2020-04-28,2020-05-16,0,released,75,112,6,1.91,10.42,4.5,1069
+4100000144,0,male,2001,19,Korea,Chungcheongnam-do,Gongju-si,0,contact with patient,0,1000000653,31,0,2020-05-13,0,0,isolated,28,34,2,1.16,25.2,11.7,221
+5000000002,113,male,1992,28,Korea,Jeollabuk-do,Gimje-si,0,etc,0,0,0,0,2020-02-20,2020-03-10,0,released,36,40,0,1.11,30.89,17.9,188
+5000000003,230,male,1984,36,Korea,Jeollabuk-do,Jeonju-si,0,contact with patient,0,5000000002,0,0,2020-02-21,2020-03-07,0,released,73,120,7,3.02,14.4,6.8,1381
+5000000009,0,male,1955,65,Korea,Jeollabuk-do,Gunsan-si,0,overseas inflow,0,0,0,0,2020-03-17,0,0,isolated,56,67,5,2.04,18.07,8.8,494
+5000000010,0,male,1953,67,Korea,Jeollabuk-do,Jeonju-si,0,etc,0,0,0,0,2020-03-18,0,0,isolated,73,120,7,3.02,14.4,6.8,1381
+5000000011,0,male,1996,24,Korea,Jeollabuk-do,Iksan-si,0,overseas inflow,0,0,0,0,2020-03-28,0,0,isolated,60,83,2,2.18,18.85,9.3,556
+5000000014,0,male,1998,22,Korea,Jeollabuk-do,Jeonju-si,0,etc,0,0,0,0,2020-03-31,0,0,isolated,73,120,7,3.02,14.4,6.8,1381
+5000000015,0,male,1997,23,Korea,Jeollabuk-do,Jeonju-si,0,overseas inflow,0,0,0,2020-03-14,2020-04-02,0,0,isolated,73,120,7,3.02,14.4,6.8,1381
+5000000017,0,male,1999,21,Korea,Jeollabuk-do,Jeonju-si,0,overseas inflow,0,0,0,0,2020-04-07,0,0,isolated,73,120,7,3.02,14.4,6.8,1381
+5000000019,0,male,1987,33,Korea,Jeollabuk-do,Gunsan-si,0,overseas inflow,0,0,0,0,2020-05-07,0,0,isolated,56,67,5,2.04,18.07,8.8,494
+5000000020,0,male,1988,32,Korea,Jeollabuk-do,Gimje-si,0,Itaewon Clubs,0,0,0,0,2020-05-12,0,0,isolated,36,40,0,1.11,30.89,17.9,188
+5100000003,3047,male,1998,22,Korea,Jeollanam-do,Yeosu-si,0,Shincheonji Church,0,0,23,0,2020-02-29,2020-03-13,0,released,50,73,1,1.85,18.59,9.5,471
+5100000005,8384,male,1958,62,Korea,Jeollanam-do,Hwasun-gun,0,contact with patient,0,1300000013,10,0,2020-03-17,2020-04-14,0,released,16,19,0,1.32,26.14,17.4,132
+5100000006,8860,male,1977,43,Korea,Jeollanam-do,Muan-gun,0,overseas inflow,0,0,0,0,2020-03-21,2020-04-12,0,released,18,21,2,2.12,20.82,11.8,141
+5100000008,9081,male,1948,72,Korea,Jeollanam-do,Mokpo-si,0,etc,0,0,6,0,2020-03-24,2020-04-27,0,released,33,55,3,2.11,15.88,8.8,406
+5100000009,9526,male,1995,25,Korea,Jeollanam-do,Mokpo-si,0,overseas inflow,0,0,30,0,2020-03-28,2020-05-13,0,released,33,55,3,2.11,15.88,8.8,406
+5100000010,9955,male,1977,43,Korea,Jeollanam-do,Suncheon-si,0,overseas inflow,0,0,27,0,2020-03-30,2020-04-30,0,released,42,61,3,1.94,15.2,8.3,452
+5100000013,9840,male,1998,22,Spain,Jeollanam-do,Yeosu-si,0,overseas inflow,0,0,0,0,2020-03-31,2020-05-19,0,released,50,73,1,1.85,18.59,9.5,471
+5100000015,10019,male,1975,45,Korea,Jeollanam-do,Mokpo-si,0,overseas inflow,0,0,42,0,2020-04-02,2020-04-29,0,released,33,55,3,2.11,15.88,8.8,406
+6001000008,235,male,1968,52,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,5,0,2020-02-21,2020-03-20,0,released,31,61,10,1.34,16.18,7,427
+6001000009,236,male,1983,37,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,8,0,2020-02-21,2020-03-24,0,released,31,61,10,1.34,16.18,7,427
+6001000011,238,male,1966,54,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,2,0,2020-02-21,2020-03-26,0,released,31,61,10,1.34,16.18,7,427
+6001000013,394,male,1987,33,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,5,0,2020-02-22,2020-03-21,0,released,31,61,10,1.34,16.18,7,427
+6001000016,532,male,1957,63,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,1,0,2020-02-22,2020-03-20,0,released,31,61,10,1.34,16.18,7,427
+6001000021,626,male,1997,23,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,2,0,2020-02-23,2020-03-25,0,released,31,61,10,1.34,16.18,7,427
+6001000027,852,male,1982,38,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,5,0,2020-02-24,2020-03-22,0,released,31,61,10,1.34,16.18,7,427
+6001000028,856,male,1949,71,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-02-24,2020-04-15,0,released,31,61,10,1.34,16.18,7,427
+6001000031,853,male,2009,11,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-02-24,2020-03-19,0,released,31,61,10,1.34,16.18,7,427
+6001000032,851,male,1996,24,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,3,0,2020-02-24,2020-03-20,0,released,31,61,10,1.34,16.18,7,427
+6001000035,878,male,1959,61,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-02-25,0,2020-04-11,deceased,31,61,10,1.34,16.18,7,427
+6001000042,1197,male,1964,56,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-02-25,2020-03-19,0,released,31,61,10,1.34,16.18,7,427
+6001000045,1200,male,1938,82,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,4,0,2020-02-25,2020-03-13,0,released,31,61,10,1.34,16.18,7,427
+6001000046,1208,male,1956,64,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-02-26,2020-03-30,0,released,31,61,10,1.34,16.18,7,427
+6001000049,1207,male,1999,21,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,3,0,2020-02-26,2020-03-25,0,released,31,61,10,1.34,16.18,7,427
+6001000050,1212,male,1977,43,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-02-26,2020-03-20,0,released,31,61,10,1.34,16.18,7,427
+6001000051,1206,male,2002,18,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-02-26,2020-03-13,0,released,31,61,10,1.34,16.18,7,427
+6001000055,1217,male,1994,26,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-02-26,2020-03-19,0,released,31,61,10,1.34,16.18,7,427
+6001000058,1218,male,1997,23,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,3,0,2020-02-26,2020-03-22,0,released,31,61,10,1.34,16.18,7,427
+6001000061,1199,male,1991,29,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,2,2020-02-22,2020-02-26,2020-04-11,0,released,31,61,10,1.34,16.18,7,427
+6001000062,1201,male,1951,69,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-02-26,0,2020-03-08,deceased,31,61,10,1.34,16.18,7,427
+6001000070,1928,male,1995,25,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,3,0,2020-02-26,2020-03-20,0,released,31,61,10,1.34,16.18,7,427
+6001000072,1179,male,1969,51,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-02-26,0,2020-03-18,deceased,31,61,10,1.34,16.18,7,427
+6001000076,1931,male,1997,23,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,2,0,2020-02-26,2020-03-22,0,released,31,61,10,1.34,16.18,7,427
+6001000077,1932,male,1997,23,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-02-26,2020-03-21,0,released,31,61,10,1.34,16.18,7,427
+6001000078,1934,male,1988,32,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-02-26,2020-03-21,0,released,31,61,10,1.34,16.18,7,427
+6001000082,1943,male,1951,69,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-02-27,2020-04-06,0,released,31,61,10,1.34,16.18,7,427
+6001000085,1941,male,1963,57,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,1,0,2020-02-27,2020-03-13,0,released,31,61,10,1.34,16.18,7,427
+6001000098,1983,male,1989,31,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-02-28,2020-03-28,0,released,31,61,10,1.34,16.18,7,427
+6001000099,1982,male,1991,29,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-02-28,2020-04-04,0,released,31,61,10,1.34,16.18,7,427
+6001000103,2034,male,1947,73,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-02-28,0,2020-03-11,deceased,31,61,10,1.34,16.18,7,427
+6001000106,2522,male,1996,24,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-02-28,2020-03-25,0,released,31,61,10,1.34,16.18,7,427
+6001000107,2523,male,1998,22,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,3,0,2020-02-28,2020-03-23,0,released,31,61,10,1.34,16.18,7,427
+6001000110,2527,male,1985,35,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-02-28,2020-03-19,0,released,31,61,10,1.34,16.18,7,427
+6001000112,2580,male,2000,20,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,4,0,2020-02-28,2020-04-19,0,released,31,61,10,1.34,16.18,7,427
+6001000113,2449,male,1963,57,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-02-28,2020-05-08,0,released,31,61,10,1.34,16.18,7,427
+6001000117,2922,male,1954,66,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-02-28,2020-03-25,0,released,31,61,10,1.34,16.18,7,427
+6001000119,2925,male,1936,84,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,Gyeongsan Seorin Nursing Home,0,0,0,0,2020-02-28,2020-04-22,0,released,31,61,10,1.34,16.18,7,427
+6001000124,2668,male,2003,17,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-02-28,2020-04-01,0,released,31,61,10,1.34,16.18,7,427
+6001000127,3808,male,1973,47,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-02-29,2020-04-01,0,released,31,61,10,1.34,16.18,7,427
+6001000130,3207,male,1980,40,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-02-29,2020-03-23,0,released,31,61,10,1.34,16.18,7,427
+6001000131,3101,male,1981,39,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-02-29,2020-03-19,0,released,31,61,10,1.34,16.18,7,427
+6001000132,3817,male,1998,22,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-02-29,2020-04-11,0,released,31,61,10,1.34,16.18,7,427
+6001000133,3102,male,1982,38,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-02-29,2020-03-12,0,released,31,61,10,1.34,16.18,7,427
+6001000140,3271,male,1996,24,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-02-29,2020-03-13,0,released,31,61,10,1.34,16.18,7,427
+6001000145,3371,male,2020,0,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-02-29,2020-04-07,0,released,31,61,10,1.34,16.18,7,427
+6001000147,3619,male,2000,20,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-01,2020-03-15,0,released,31,61,10,1.34,16.18,7,427
+6001000153,3866,male,1968,52,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-01,2020-03-26,0,released,31,61,10,1.34,16.18,7,427
+6001000155,4199,male,1938,82,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-01,2020-04-15,0,released,31,61,10,1.34,16.18,7,427
+6001000156,3547,male,1956,64,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-01,2020-04-04,0,released,31,61,10,1.34,16.18,7,427
+6001000158,3617,male,1997,23,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-01,2020-04-09,0,released,31,61,10,1.34,16.18,7,427
+6001000159,3618,male,1999,21,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-01,2020-03-29,0,released,31,61,10,1.34,16.18,7,427
+6001000160,3621,male,1957,63,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-01,2020-03-17,0,released,31,61,10,1.34,16.18,7,427
+6001000163,3625,male,1998,22,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-01,2020-04-12,0,released,31,61,10,1.34,16.18,7,427
+6001000168,3632,male,1966,54,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-01,2020-03-21,0,released,31,61,10,1.34,16.18,7,427
+6001000172,4157,male,1969,51,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-01,2020-04-05,0,released,31,61,10,1.34,16.18,7,427
+6001000176,4172,male,1999,21,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-01,2020-03-28,0,released,31,61,10,1.34,16.18,7,427
+6001000177,3946,male,1996,24,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-01,2020-04-08,0,released,31,61,10,1.34,16.18,7,427
+6001000182,4162,male,1960,60,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-01,2020-03-19,0,released,31,61,10,1.34,16.18,7,427
+6001000183,4102,male,1961,59,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-01,2020-03-28,0,released,31,61,10,1.34,16.18,7,427
+6001000184,3980,male,1993,27,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-01,2020-03-25,0,released,31,61,10,1.34,16.18,7,427
+6001000187,3990,male,1998,22,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-01,2020-03-25,0,released,31,61,10,1.34,16.18,7,427
+6001000188,4085,male,1999,21,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-01,2020-04-12,0,released,31,61,10,1.34,16.18,7,427
+6001000189,3994,male,1962,58,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-01,2020-04-09,0,released,31,61,10,1.34,16.18,7,427
+6001000190,3966,male,1995,25,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-01,2020-03-28,0,released,31,61,10,1.34,16.18,7,427
+6001000193,3963,male,1990,30,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-01,2020-03-29,0,released,31,61,10,1.34,16.18,7,427
+6001000195,3981,male,1994,26,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-01,2020-03-12,0,released,31,61,10,1.34,16.18,7,427
+6001000200,4175,male,1958,62,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-01,2020-03-16,0,released,31,61,10,1.34,16.18,7,427
+6001000205,4240,male,1998,22,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-02,2020-04-11,0,released,31,61,10,1.34,16.18,7,427
+6001000207,4406,male,1988,32,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-02,2020-04-12,0,released,31,61,10,1.34,16.18,7,427
+6001000216,4559,male,1976,44,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-02,2020-04-06,0,released,31,61,10,1.34,16.18,7,427
+6001000232,5240,male,2010,10,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-03,2020-03-23,0,released,31,61,10,1.34,16.18,7,427
+6001000234,4966,male,1964,56,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-03,2020-03-22,0,released,31,61,10,1.34,16.18,7,427
+6001000236,5403,male,1957,63,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-03,2020-04-09,0,released,31,61,10,1.34,16.18,7,427
+6001000238,5111,male,1972,48,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-03,2020-04-17,0,released,31,61,10,1.34,16.18,7,427
+6001000241,5215,male,1993,27,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-03,2020-03-27,0,released,31,61,10,1.34,16.18,7,427
+6001000243,5160,male,1981,39,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-03,2020-03-29,0,released,31,61,10,1.34,16.18,7,427
+6001000247,4854,male,2009,11,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-03,2020-03-14,0,released,31,61,10,1.34,16.18,7,427
+6001000248,5187,male,1997,23,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-03,2020-03-20,0,released,31,61,10,1.34,16.18,7,427
+6001000263,4843,male,1996,24,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-03,2020-03-20,0,released,31,61,10,1.34,16.18,7,427
+6001000266,4865,male,1972,48,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-03,2020-03-20,0,released,31,61,10,1.34,16.18,7,427
+6001000267,5047,male,1965,55,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-03,2020-03-20,0,released,31,61,10,1.34,16.18,7,427
+6001000274,5037,male,1997,23,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-03,2020-03-27,0,released,31,61,10,1.34,16.18,7,427
+6001000276,4870,male,1997,23,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-03,2020-03-20,0,released,31,61,10,1.34,16.18,7,427
+6001000279,4853,male,1995,25,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-03,2020-03-22,0,released,31,61,10,1.34,16.18,7,427
+6001000281,5206,male,1994,26,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-03,0,0,isolated,31,61,10,1.34,16.18,7,427
+6001000283,5091,male,1957,63,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-03,2020-03-24,0,released,31,61,10,1.34,16.18,7,427
+6001000285,5143,male,1960,60,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-03,0,2020-03-04,deceased,31,61,10,1.34,16.18,7,427
+6001000287,5074,male,1984,36,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-03,2020-03-26,0,released,31,61,10,1.34,16.18,7,427
+6001000294,5595,male,2001,19,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-04,2020-03-17,0,released,31,61,10,1.34,16.18,7,427
+6001000297,5463,male,1970,50,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-04,2020-03-20,0,released,31,61,10,1.34,16.18,7,427
+6001000299,5500,male,2000,20,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-04,2020-04-12,0,released,31,61,10,1.34,16.18,7,427
+6001000300,5334,male,2000,20,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-04,2020-03-27,0,released,31,61,10,1.34,16.18,7,427
+6001000303,5669,male,2000,20,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-04,2020-03-23,0,released,31,61,10,1.34,16.18,7,427
+6001000308,5690,male,1995,25,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-04,2020-03-26,0,released,31,61,10,1.34,16.18,7,427
+6001000309,5746,male,1966,54,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-04,2020-03-13,0,released,31,61,10,1.34,16.18,7,427
+6001000310,5376,male,1964,56,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-04,2020-03-20,0,released,31,61,10,1.34,16.18,7,427
+6001000314,5630,male,1996,24,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-04,2020-03-21,0,released,31,61,10,1.34,16.18,7,427
+6001000315,5570,male,1995,25,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-04,2020-03-17,0,released,31,61,10,1.34,16.18,7,427
+6001000316,5446,male,1996,24,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-04,2020-04-05,0,released,31,61,10,1.34,16.18,7,427
+6001000324,5641,male,1999,21,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-04,2020-03-15,0,released,31,61,10,1.34,16.18,7,427
+6001000328,5384,male,1997,23,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-04,2020-04-04,0,released,31,61,10,1.34,16.18,7,427
+6001000329,5327,male,1994,26,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-04,2020-03-26,0,released,31,61,10,1.34,16.18,7,427
+6001000335,5420,male,2000,20,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-04,2020-03-23,0,released,31,61,10,1.34,16.18,7,427
+6001000336,5352,male,1995,25,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-04,2020-03-31,0,released,31,61,10,1.34,16.18,7,427
+6001000341,5620,male,2008,12,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-04,2020-04-10,0,released,31,61,10,1.34,16.18,7,427
+6001000343,5503,male,1957,63,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-04,2020-03-28,0,released,31,61,10,1.34,16.18,7,427
+6001000356,5965,male,1935,85,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-05,2020-05-05,0,released,31,61,10,1.34,16.18,7,427
+6001000361,5866,male,1979,41,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-05,2020-03-25,0,released,31,61,10,1.34,16.18,7,427
+6001000362,6168,male,2000,20,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-05,2020-03-21,0,released,31,61,10,1.34,16.18,7,427
+6001000365,6051,male,1997,23,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-05,2020-04-03,0,released,31,61,10,1.34,16.18,7,427
+6001000371,5832,male,1994,26,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-05,2020-03-26,0,released,31,61,10,1.34,16.18,7,427
+6001000375,5937,male,1990,30,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-05,2020-03-22,0,released,31,61,10,1.34,16.18,7,427
+6001000376,5779,male,1998,22,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-05,2020-03-29,0,released,31,61,10,1.34,16.18,7,427
+6001000378,6235,male,1960,60,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-05,2020-03-25,0,released,31,61,10,1.34,16.18,7,427
+6001000391,6077,male,1998,22,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-05,2020-03-24,0,released,31,61,10,1.34,16.18,7,427
+6001000392,5934,male,1999,21,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-05,2020-04-06,0,released,31,61,10,1.34,16.18,7,427
+6001000393,5860,male,1999,21,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-05,2020-03-16,0,released,31,61,10,1.34,16.18,7,427
+6001000395,6271,male,1994,26,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-05,2020-03-21,0,released,31,61,10,1.34,16.18,7,427
+6001000403,6205,male,1991,29,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-05,2020-04-08,0,released,31,61,10,1.34,16.18,7,427
+6001000416,6287,male,1993,27,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-06,2020-04-04,0,released,31,61,10,1.34,16.18,7,427
+6001000417,6659,male,1936,84,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-06,2020-03-20,0,released,31,61,10,1.34,16.18,7,427
+6001000424,6564,male,1995,25,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-06,2020-04-01,0,released,31,61,10,1.34,16.18,7,427
+6001000425,6487,male,1996,24,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-06,2020-03-15,0,released,31,61,10,1.34,16.18,7,427
+6001000427,6583,male,1995,25,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-06,2020-03-29,0,released,31,61,10,1.34,16.18,7,427
+6001000431,6678,male,2000,20,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-06,2020-03-25,0,released,31,61,10,1.34,16.18,7,427
+6001000433,6523,male,1967,53,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-06,2020-04-01,0,released,31,61,10,1.34,16.18,7,427
+6001000434,6576,male,1940,80,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-06,2020-03-28,0,released,31,61,10,1.34,16.18,7,427
+6001000436,6646,male,1997,23,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-06,2020-03-19,0,released,31,61,10,1.34,16.18,7,427
+6001000441,6622,male,2001,19,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-06,2020-03-31,0,released,31,61,10,1.34,16.18,7,427
+6001000442,6691,male,1970,50,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-06,2020-04-07,0,released,31,61,10,1.34,16.18,7,427
+6001000450,6674,male,2001,19,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-06,2020-03-27,0,released,31,61,10,1.34,16.18,7,427
+6001000451,6610,male,1998,22,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-06,2020-03-23,0,released,31,61,10,1.34,16.18,7,427
+6001000453,6969,male,1938,82,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,Gyeongsan Jeil Silver Town,0,0,0,0,2020-03-07,2020-04-01,0,released,31,61,10,1.34,16.18,7,427
+6001000454,6871,male,1953,67,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-07,2020-03-18,0,released,31,61,10,1.34,16.18,7,427
+6001000455,7003,male,1998,22,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-07,2020-03-19,0,released,31,61,10,1.34,16.18,7,427
+6001000456,6813,male,1997,23,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-07,2020-03-19,0,released,31,61,10,1.34,16.18,7,427
+6001000457,6981,male,1967,53,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-07,2020-03-28,0,released,31,61,10,1.34,16.18,7,427
+6001000461,6920,male,1964,56,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-07,2020-04-04,0,released,31,61,10,1.34,16.18,7,427
+6001000463,6906,male,1966,54,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-07,2020-04-22,0,released,31,61,10,1.34,16.18,7,427
+6001000465,6952,male,1994,26,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-07,2020-03-19,0,released,31,61,10,1.34,16.18,7,427
+6001000466,6844,male,1994,26,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-07,2020-03-19,0,released,31,61,10,1.34,16.18,7,427
+6001000467,7043,male,1964,56,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-07,2020-03-18,0,released,31,61,10,1.34,16.18,7,427
+6001000468,7122,male,1998,22,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-07,2020-03-19,0,released,31,61,10,1.34,16.18,7,427
+6001000469,6791,male,1965,55,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-07,2020-03-26,0,released,31,61,10,1.34,16.18,7,427
+6001000470,7098,male,1997,23,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-07,2020-03-19,0,released,31,61,10,1.34,16.18,7,427
+6001000471,6785,male,1961,59,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-07,2020-03-18,0,released,31,61,10,1.34,16.18,7,427
+6001000475,7283,male,2002,18,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-08,2020-03-28,0,released,31,61,10,1.34,16.18,7,427
+6001000476,7310,male,1955,65,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-08,2020-03-25,0,released,31,61,10,1.34,16.18,7,427
+6001000481,7279,male,1999,21,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-08,2020-03-29,0,released,31,61,10,1.34,16.18,7,427
+6001000483,7149,male,1951,69,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-08,2020-03-25,0,released,31,61,10,1.34,16.18,7,427
+6001000485,7170,male,1957,63,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-08,2020-03-26,0,released,31,61,10,1.34,16.18,7,427
+6001000489,7165,male,2000,20,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-08,2020-04-09,0,released,31,61,10,1.34,16.18,7,427
+6001000491,7456,male,1977,43,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-09,2020-03-28,0,released,31,61,10,1.34,16.18,7,427
+6001000494,7432,male,1978,42,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-09,0,0,isolated,31,61,10,1.34,16.18,7,427
+6001000496,7438,male,1948,72,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,Gyeongsan Seorin Nursing Home,0,0,0,0,2020-03-09,2020-04-18,0,released,31,61,10,1.34,16.18,7,427
+6001000497,7482,male,1934,86,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,Gyeongsan Seorin Nursing Home,0,0,0,0,2020-03-09,2020-05-12,0,released,31,61,10,1.34,16.18,7,427
+6001000498,7488,male,1950,70,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-09,2020-03-19,0,released,31,61,10,1.34,16.18,7,427
+6001000499,7598,male,1932,88,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,Gyeongsan Seorin Nursing Home,0,0,0,0,2020-03-10,2020-04-07,0,released,31,61,10,1.34,16.18,7,427
+6001000500,8062,male,1938,82,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-10,0,2020-03-26,deceased,31,61,10,1.34,16.18,7,427
+6001000501,7722,male,1930,90,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-10,0,2020-03-26,deceased,31,61,10,1.34,16.18,7,427
+6001000502,7582,male,1934,86,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,Gyeongsan Seorin Nursing Home,0,0,0,0,2020-03-10,2020-05-11,0,released,31,61,10,1.34,16.18,7,427
+6001000506,7677,male,2019,1,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-10,2020-03-28,0,released,31,61,10,1.34,16.18,7,427
+6001000507,7745,male,1973,47,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-10,2020-03-22,0,released,31,61,10,1.34,16.18,7,427
+6001000510,7786,male,1947,73,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-11,2020-04-27,0,released,31,61,10,1.34,16.18,7,427
+6001000511,7860,male,1997,23,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-11,2020-03-20,0,released,31,61,10,1.34,16.18,7,427
+6001000517,8068,male,1978,42,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-13,2020-04-05,0,released,31,61,10,1.34,16.18,7,427
+6001000518,8018,male,1937,83,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-14,2020-04-27,0,released,31,61,10,1.34,16.18,7,427
+6001000519,8062,male,1957,63,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-14,2020-04-16,0,released,31,61,10,1.34,16.18,7,427
+6001000521,8099,male,1950,70,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-14,2020-04-01,0,released,31,61,10,1.34,16.18,7,427
+6001000523,8176,male,1963,57,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-15,2020-05-15,0,released,31,61,10,1.34,16.18,7,427
+6001000527,8294,male,1950,70,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-16,0,0,isolated,31,61,10,1.34,16.18,7,427
+6001000528,8237,male,1949,71,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-15,0,2020-03-16,deceased,31,61,10,1.34,16.18,7,427
+6001000530,8279,male,1939,81,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,Gyeongsan Seorin Nursing Home,0,0,0,0,2020-03-16,2020-05-17,0,released,31,61,10,1.34,16.18,7,427
+6001000535,8343,male,1963,57,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-17,2020-03-28,0,released,31,61,10,1.34,16.18,7,427
+6001000536,8403,male,1998,22,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-17,2020-03-28,0,released,31,61,10,1.34,16.18,7,427
+6001000543,8499,male,2001,19,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-18,2020-03-28,0,released,31,61,10,1.34,16.18,7,427
+6001000544,8334,male,1954,66,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-18,2020-04-22,0,released,31,61,10,1.34,16.18,7,427
+6001000545,8590,male,2011,9,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-19,2020-04-05,0,released,31,61,10,1.34,16.18,7,427
+6001000551,8779,male,2010,10,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-20,2020-03-30,0,released,31,61,10,1.34,16.18,7,427
+6001000552,8701,male,1953,67,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-20,2020-03-30,0,released,31,61,10,1.34,16.18,7,427
+6001000565,8772,male,1928,92,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-20,0,2020-04-02,deceased,31,61,10,1.34,16.18,7,427
+6001000566,8794,male,1934,86,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-20,2020-04-21,0,released,31,61,10,1.34,16.18,7,427
+6001000567,8793,male,1930,90,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-20,0,2020-03-27,deceased,31,61,10,1.34,16.18,7,427
+6001000568,8797,male,1939,81,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-20,0,2020-03-25,deceased,31,61,10,1.34,16.18,7,427
+6001000569,8711,male,1966,54,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-20,2020-04-10,0,released,31,61,10,1.34,16.18,7,427
+6001000572,8696,male,1942,78,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-20,0,2020-04-03,deceased,31,61,10,1.34,16.18,7,427
+6001000573,8674,male,1941,79,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-20,0,2020-03-25,deceased,31,61,10,1.34,16.18,7,427
+6001000574,8764,male,1944,76,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-20,0,2020-03-24,deceased,31,61,10,1.34,16.18,7,427
+6001000575,8747,male,1962,58,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-20,2020-05-07,0,released,31,61,10,1.34,16.18,7,427
+6001000576,8778,male,1942,78,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-20,0,0,isolated,31,61,10,1.34,16.18,7,427
+6001000577,8786,male,1947,73,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-20,2020-05-13,0,released,31,61,10,1.34,16.18,7,427
+6001000578,8768,male,1979,41,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-20,2020-04-29,0,released,31,61,10,1.34,16.18,7,427
+6001000579,8734,male,1948,72,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-20,2020-04-17,0,released,31,61,10,1.34,16.18,7,427
+6001000584,8893,male,1933,87,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-21,0,2020-03-31,deceased,31,61,10,1.34,16.18,7,427
+6001000585,9033,male,1961,59,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-23,2020-04-21,0,released,31,61,10,1.34,16.18,7,427
+6001000587,9118,male,1956,64,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-24,2020-04-28,0,released,31,61,10,1.34,16.18,7,427
+6001000596,9271,male,1964,56,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-26,2020-04-28,0,released,31,61,10,1.34,16.18,7,427
+6001000599,9297,male,1942,78,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-26,0,2020-04-06,deceased,31,61,10,1.34,16.18,7,427
+6001000600,9280,male,1943,77,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-26,2020-05-27,0,released,31,61,10,1.34,16.18,7,427
+6001000601,9262,male,1956,64,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-26,2020-04-16,0,released,31,61,10,1.34,16.18,7,427
+6001000605,9433,male,2003,17,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-27,2020-04-05,0,released,31,61,10,1.34,16.18,7,427
+6001000606,9563,male,1945,75,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-28,2020-05-14,0,released,31,61,10,1.34,16.18,7,427
+6001000613,9657,male,1967,53,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-29,2020-04-08,0,released,31,61,10,1.34,16.18,7,427
+6001000614,9770,male,1951,69,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-30,2020-05-03,0,released,31,61,10,1.34,16.18,7,427
+6001000615,9809,male,1934,86,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-03-31,2020-05-15,0,released,31,61,10,1.34,16.18,7,427
+6001000619,10007,male,1974,46,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-04-02,2020-04-24,0,released,31,61,10,1.34,16.18,7,427
+6001000621,10040,male,1958,62,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-04-02,2020-05-15,0,released,31,61,10,1.34,16.18,7,427
+6001000629,10449,male,1999,21,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,etc,0,0,0,0,2020-04-09,2020-05-08,0,released,31,61,10,1.34,16.18,7,427
+6001000636,0,male,1992,28,Korea,Gyeongsangbuk-do,Gyeongsan-si,0,overseas inflow,0,0,0,0,2020-05-27,0,0,isolated,31,61,10,1.34,16.18,7,427
+6002000001,0,male,1998,22,Korea,Gyeongsangbuk-do,Gyeongju-si,0,etc,0,0,0,0,2020-02-22,0,0,isolated,43,61,4,1.34,21.66,11,407
+6002000002,0,male,1980,40,Korea,Gyeongsangbuk-do,Gyeongju-si,0,etc,0,0,0,0,2020-02-22,0,0,deceased,43,61,4,1.34,21.66,11,407
+6002000004,0,male,1970,50,Korea,Gyeongsangbuk-do,Gyeongju-si,0,contact with patient,0,6002000001,0,0,2020-02-24,0,0,isolated,43,61,4,1.34,21.66,11,407
+6002000006,0,male,1993,27,Korea,Gyeongsangbuk-do,Gyeongju-si,0,etc,0,0,0,0,2020-02-25,0,0,isolated,43,61,4,1.34,21.66,11,407
+6002000009,0,male,1977,43,Korea,Gyeongsangbuk-do,Gyeongju-si,0,contact with patient,0,0,0,0,2020-02-27,0,0,isolated,43,61,4,1.34,21.66,11,407
+6002000012,0,male,1998,22,Korea,Gyeongsangbuk-do,Gyeongju-si,0,etc,0,0,0,0,2020-02-28,0,0,isolated,43,61,4,1.34,21.66,11,407
+6002000013,0,male,1967,53,Korea,Gyeongsangbuk-do,Gyeongju-si,0,contact with patient,0,6002000011,0,0,2020-03-01,0,0,isolated,43,61,4,1.34,21.66,11,407
+6002000014,0,male,2001,19,Korea,Gyeongsangbuk-do,Gyeongju-si,0,contact with patient,0,1200000031,0,0,2020-03-02,0,0,isolated,43,61,4,1.34,21.66,11,407
+6002000015,0,male,1958,62,Korea,Gyeongsangbuk-do,Gyeongju-si,0,contact with patient,0,1200000031,0,0,2020-03-03,0,0,isolated,43,61,4,1.34,21.66,11,407
+6002000017,0,male,1960,60,Korea,Gyeongsangbuk-do,Gyeongju-si,0,contact with patient,0,0,0,0,2020-03-05,0,0,isolated,43,61,4,1.34,21.66,11,407
+6002000018,0,male,1977,43,Korea,Gyeongsangbuk-do,Gyeongju-si,0,contact with patient,0,6002000006,0,0,2020-03-06,0,0,released,43,61,4,1.34,21.66,11,407
+6002000020,0,male,1970,50,Korea,Gyeongsangbuk-do,Gyeongju-si,0,contact with patient,0,6002000011,0,0,2020-03-18,0,0,isolated,43,61,4,1.34,21.66,11,407
+6002000021,0,male,1992,28,Korea,Gyeongsangbuk-do,Gyeongju-si,0,etc,0,0,0,0,2020-03-18,0,0,isolated,43,61,4,1.34,21.66,11,407
+6002000022,0,male,1989,31,Korea,Gyeongsangbuk-do,Gyeongju-si,0,etc,0,0,0,0,2020-03-18,0,0,isolated,43,61,4,1.34,21.66,11,407
+6002000023,0,male,1953,67,Korea,Gyeongsangbuk-do,Gyeongju-si,0,contact with patient,0,6002000019,0,0,2020-03-18,0,0,isolated,43,61,4,1.34,21.66,11,407
+6002000025,0,male,1994,26,Korea,Gyeongsangbuk-do,Gyeongju-si,0,etc,0,0,0,0,2020-03-18,0,0,isolated,43,61,4,1.34,21.66,11,407
+6002000026,0,male,1960,60,Korea,Gyeongsangbuk-do,Gyeongju-si,0,etc,0,0,0,0,2020-03-18,0,0,isolated,43,61,4,1.34,21.66,11,407
+6002000031,0,male,1960,60,Korea,Gyeongsangbuk-do,Gyeongju-si,0,etc,0,0,0,0,2020-03-21,0,0,isolated,43,61,4,1.34,21.66,11,407
+6002000033,0,male,1971,49,Korea,Gyeongsangbuk-do,Gyeongju-si,0,contact with patient,0,6002000029,0,0,2020-03-21,0,0,isolated,43,61,4,1.34,21.66,11,407
+6002000034,0,male,1999,21,Korea,Gyeongsangbuk-do,Gyeongju-si,0,overseas inflow,0,0,0,0,2020-03-21,0,0,isolated,43,61,4,1.34,21.66,11,407
+6002000036,0,male,1955,65,Korea,Gyeongsangbuk-do,Gyeongju-si,0,contact with patient,0,6002000031,0,0,2020-03-21,0,0,isolated,43,61,4,1.34,21.66,11,407
+6002000037,0,male,1977,43,Korea,Gyeongsangbuk-do,Gyeongju-si,0,contact with patient,0,6002000031,0,0,2020-03-22,0,0,isolated,43,61,4,1.34,21.66,11,407
+6002000041,0,male,1980,40,Korea,Gyeongsangbuk-do,Gyeongju-si,0,contact with patient,0,6002000039,0,0,2020-03-25,0,0,isolated,43,61,4,1.34,21.66,11,407
+6002000042,0,male,1994,26,Korea,Gyeongsangbuk-do,Gyeongju-si,0,contact with patient,0,6002000019,0,0,2020-03-29,0,0,isolated,43,61,4,1.34,21.66,11,407
+6002000047,0,male,1946,74,Korea,Gyeongsangbuk-do,Gyeongju-si,0,contact with patient,0,6002000045,0,0,2020-04-05,0,0,isolated,43,61,4,1.34,21.66,11,407
+6002000048,0,male,1979,41,Korea,Gyeongsangbuk-do,Gyeongju-si,0,contact with patient,0,6002000045,0,0,2020-04-06,0,0,isolated,43,61,4,1.34,21.66,11,407
+6002000049,0,male,1999,21,Korea,Gyeongsangbuk-do,Gyeongju-si,0,overseas inflow,0,0,0,0,2020-04-16,0,0,isolated,43,61,4,1.34,21.66,11,407
+6002000050,0,male,1975,45,Korea,Gyeongsangbuk-do,Gyeongju-si,0,contact with patient,0,0,0,0,2020-04-21,0,0,isolated,43,61,4,1.34,21.66,11,407
+6006000001,0,male,1980,40,Korea,Gyeongsangbuk-do,Gimcheon-si,0,etc,0,0,0,0,2020-02-22,2020-04-04,0,released,27,37,2,0.89,22.35,12.2,212
+6006000002,0,male,1979,41,Korea,Gyeongsangbuk-do,Gimcheon-si,0,etc,0,0,0,0,2020-02-26,2020-04-15,0,released,27,37,2,0.89,22.35,12.2,212
+6006000003,0,male,1976,44,Korea,Gyeongsangbuk-do,Gimcheon-si,0,contact with patient,0,0,0,0,2020-02-27,2020-03-16,0,released,27,37,2,0.89,22.35,12.2,212
+6006000005,0,male,1959,61,Korea,Gyeongsangbuk-do,Gimcheon-si,0,etc,0,0,0,0,2020-02-28,2020-03-26,0,released,27,37,2,0.89,22.35,12.2,212
+6006000006,0,male,1960,60,Korea,Gyeongsangbuk-do,Gimcheon-si,0,etc,0,0,0,0,2020-02-29,2020-03-23,0,released,27,37,2,0.89,22.35,12.2,212
+6006000007,0,male,1989,31,Korea,Gyeongsangbuk-do,Gimcheon-si,0,etc,0,0,0,0,2020-02-29,2020-03-28,0,released,27,37,2,0.89,22.35,12.2,212
+6006000008,0,male,1960,60,Korea,Gyeongsangbuk-do,Gimcheon-si,0,etc,0,0,0,0,2020-03-02,2020-03-18,0,released,27,37,2,0.89,22.35,12.2,212
+6006000009,0,male,1994,26,Korea,Gyeongsangbuk-do,Gimcheon-si,0,etc,0,0,0,0,2020-02-29,2020-03-18,0,released,27,37,2,0.89,22.35,12.2,212
+6006000010,0,male,1966,54,Korea,Gyeongsangbuk-do,Gimcheon-si,0,etc,0,0,0,0,2020-03-02,2020-03-20,0,released,27,37,2,0.89,22.35,12.2,212
+6006000011,0,male,1976,44,Korea,Gyeongsangbuk-do,Gimcheon-si,0,etc,0,0,0,0,2020-03-02,2020-04-04,0,released,27,37,2,0.89,22.35,12.2,212
+6006000012,0,male,1970,50,Korea,Gyeongsangbuk-do,Gimcheon-si,0,etc,0,0,0,0,2020-03-02,2020-03-27,0,released,27,37,2,0.89,22.35,12.2,212
+6006000013,0,male,1991,29,Korea,Gyeongsangbuk-do,Gimcheon-si,0,etc,0,0,0,0,2020-03-03,2020-03-30,0,released,27,37,2,0.89,22.35,12.2,212
+6006000015,0,male,2000,20,Korea,Gyeongsangbuk-do,Gimcheon-si,0,etc,0,0,0,0,2020-03-03,2020-03-31,0,released,27,37,2,0.89,22.35,12.2,212
+6006000018,0,male,1997,23,Korea,Gyeongsangbuk-do,Gimcheon-si,0,Shincheonji Church,0,0,0,0,2020-03-05,2020-03-16,0,released,27,37,2,0.89,22.35,12.2,212
+6007000001,0,male,1960,60,Korea,Gyeongsangbuk-do,Mungyeong-si,0,contact with patient,0,0,0,0,2020-02-21,0,0,released,17,26,1,1.18,29.25,17.1,147
+6008000001,0,male,2000,20,Korea,Gyeongsangbuk-do,Bonghwa-gun,0,etc,0,0,0,0,2020-02-27,2020-03-05,0,released,14,17,0,0.37,35.26,20,47
+6008000014,0,male,1956,64,Korea,Gyeongsangbuk-do,Bonghwa-gun,0,etc,0,0,0,0,2020-03-05,0,0,isolated,14,17,0,0.37,35.26,20,47
+6008000015,0,male,1934,86,Korea,Gyeongsangbuk-do,Bonghwa-gun,0,etc,0,0,0,0,2020-03-05,0,0,isolated,14,17,0,0.37,35.26,20,47
+6008000020,0,male,1929,91,Korea,Gyeongsangbuk-do,Bonghwa-gun,0,etc,0,0,0,0,2020-03-05,0,0,isolated,14,17,0,0.37,35.26,20,47
+6008000022,0,male,1930,90,Korea,Gyeongsangbuk-do,Bonghwa-gun,0,etc,0,0,0,0,2020-03-05,0,0,isolated,14,17,0,0.37,35.26,20,47
+6008000025,0,male,1932,88,Korea,Gyeongsangbuk-do,Bonghwa-gun,0,etc,0,0,0,0,2020-03-05,0,0,isolated,14,17,0,0.37,35.26,20,47
+6008000027,0,male,1930,90,Korea,Gyeongsangbuk-do,Bonghwa-gun,0,etc,0,0,0,0,2020-03-05,0,0,isolated,14,17,0,0.37,35.26,20,47
+6008000031,0,male,1936,84,Korea,Gyeongsangbuk-do,Bonghwa-gun,0,etc,0,0,0,0,2020-03-05,0,0,isolated,14,17,0,0.37,35.26,20,47
+6008000038,0,male,1937,83,Korea,Gyeongsangbuk-do,Bonghwa-gun,0,etc,0,0,0,0,2020-03-05,0,0,isolated,14,17,0,0.37,35.26,20,47
+6008000040,0,male,1929,91,Korea,Gyeongsangbuk-do,Bonghwa-gun,0,etc,0,0,0,0,2020-03-05,0,0,isolated,14,17,0,0.37,35.26,20,47
+6008000044,0,male,1926,94,Korea,Gyeongsangbuk-do,Bonghwa-gun,0,etc,0,0,0,0,2020-03-05,0,0,isolated,14,17,0,0.37,35.26,20,47
+6008000045,0,male,1931,89,Korea,Gyeongsangbuk-do,Bonghwa-gun,0,etc,0,0,0,0,2020-03-05,0,0,isolated,14,17,0,0.37,35.26,20,47
+6008000049,0,male,1950,70,Korea,Gyeongsangbuk-do,Bonghwa-gun,0,etc,0,0,0,0,2020-03-05,0,0,isolated,14,17,0,0.37,35.26,20,47
+6008000052,0,male,1940,80,Korea,Gyeongsangbuk-do,Bonghwa-gun,0,etc,0,0,0,0,2020-03-05,0,0,isolated,14,17,0,0.37,35.26,20,47
+6008000053,0,male,1975,45,Korea,Gyeongsangbuk-do,Bonghwa-gun,0,etc,0,0,0,0,2020-03-07,0,0,isolated,14,17,0,0.37,35.26,20,47
+6008000061,0,male,1935,85,Korea,Gyeongsangbuk-do,Bonghwa-gun,0,Bonghwa Pureun Nursing Home,0,0,0,0,2020-03-15,0,0,isolated,14,17,0,0.37,35.26,20,47
+6008000066,0,male,1935,85,Korea,Gyeongsangbuk-do,Bonghwa-gun,0,Bonghwa Pureun Nursing Home,0,0,0,0,2020-03-19,0,0,isolated,14,17,0,0.37,35.26,20,47
+6008000069,0,male,1936,84,Korea,Gyeongsangbuk-do,Bonghwa-gun,0,Bonghwa Pureun Nursing Home,0,0,0,0,2020-03-20,0,0,isolated,14,17,0,0.37,35.26,20,47
+6009000003,0,male,1960,60,Korea,Gyeongsangbuk-do,Sangju-si,0,Pilgrimage to Israel,0,0,0,0,2020-02-24,2020-03-29,0,released,28,35,0,1.03,30.09,17.3,186
+6009000007,0,male,1948,72,Korea,Gyeongsangbuk-do,Sangju-si,0,contact with patient,0,6009000008,0,0,2020-02-26,2020-03-17,0,released,28,35,0,1.03,30.09,17.3,186
+6009000009,0,male,1985,35,Korea,Gyeongsangbuk-do,Sangju-si,0,contact with patient,0,6019000015,0,0,2020-02-26,2020-03-22,0,released,28,35,0,1.03,30.09,17.3,186
+6009000010,0,male,1983,37,Korea,Gyeongsangbuk-do,Sangju-si,0,contact with patient,0,6009000004,0,0,2020-04-30,2020-05-04,0,released,28,35,0,1.03,30.09,17.3,186
+6009000011,0,male,2015,5,Korea,Gyeongsangbuk-do,Sangju-si,0,contact with patient,0,6009000004,0,0,2020-04-16,2020-04-29,0,released,28,35,0,1.03,30.09,17.3,186
+6009000012,0,male,2017,3,Korea,Gyeongsangbuk-do,Sangju-si,0,contact with patient,0,6009000004,0,0,2020-04-16,2020-05-19,0,released,28,35,0,1.03,30.09,17.3,186
+6009000013,0,male,1938,82,Korea,Gyeongsangbuk-do,Sangju-si,0,contact with patient,0,6009000003,0,0,2020-02-26,2020-03-19,0,released,28,35,0,1.03,30.09,17.3,186
+6009000015,0,male,1965,55,Korea,Gyeongsangbuk-do,Sangju-si,0,contact with patient,0,6009000014,0,0,2020-03-03,2020-04-03,0,released,28,35,0,1.03,30.09,17.3,186
+6011000002,386,male,1956,64,Korea,Gyeongsangbuk-do,Andong-si,0,etc,0,0,0,0,2020-02-21,0,0,released,30,42,3,1.57,23.95,12.4,290
+6011000003,384,male,1995,25,Korea,Gyeongsangbuk-do,Andong-si,0,etc,0,0,0,0,2020-02-20,0,0,released,30,42,3,1.57,23.95,12.4,290
+6011000004,385,male,1956,64,Korea,Gyeongsangbuk-do,Andong-si,0,etc,0,0,0,0,2020-02-21,0,0,released,30,42,3,1.57,23.95,12.4,290
+6011000007,0,male,1995,25,Korea,Gyeongsangbuk-do,Andong-si,0,etc,0,0,0,0,2020-02-23,0,0,released,30,42,3,1.57,23.95,12.4,290
+6011000013,0,male,1992,28,Korea,Gyeongsangbuk-do,Andong-si,0,etc,0,0,0,0,2020-02-26,0,0,released,30,42,3,1.57,23.95,12.4,290
+6011000014,0,male,1996,24,Korea,Gyeongsangbuk-do,Andong-si,0,etc,0,0,0,0,2020-02-27,0,0,released,30,42,3,1.57,23.95,12.4,290
+6011000015,0,male,1986,34,Korea,Gyeongsangbuk-do,Andong-si,0,etc,0,0,0,0,2020-02-27,0,0,released,30,42,3,1.57,23.95,12.4,290
+6011000017,0,male,1988,32,Korea,Gyeongsangbuk-do,Andong-si,0,etc,0,0,0,0,2020-02-28,0,0,released,30,42,3,1.57,23.95,12.4,290
+6011000019,0,male,1993,27,Korea,Gyeongsangbuk-do,Andong-si,0,etc,0,0,0,0,2020-02-28,0,0,released,30,42,3,1.57,23.95,12.4,290
+6011000020,0,male,1975,45,Korea,Gyeongsangbuk-do,Andong-si,0,etc,0,0,0,0,2020-02-27,0,0,released,30,42,3,1.57,23.95,12.4,290
+6011000023,0,male,1997,23,Korea,Gyeongsangbuk-do,Andong-si,0,etc,0,0,0,2020-02-21,2020-02-27,0,0,released,30,42,3,1.57,23.95,12.4,290
+6011000025,0,male,1986,34,Korea,Gyeongsangbuk-do,Andong-si,0,etc,0,0,0,2020-02-25,2020-02-28,0,0,released,30,42,3,1.57,23.95,12.4,290
+6011000030,0,male,1991,29,Korea,Gyeongsangbuk-do,Andong-si,0,etc,0,0,0,2020-02-19,2020-02-28,0,0,released,30,42,3,1.57,23.95,12.4,290
+6011000032,0,male,1961,59,Korea,Gyeongsangbuk-do,Andong-si,0,Shincheonji Church,0,0,0,0,2020-02-28,0,0,released,30,42,3,1.57,23.95,12.4,290
+6011000033,0,male,1995,25,Korea,Gyeongsangbuk-do,Andong-si,0,etc,0,0,0,2020-02-20,2020-02-28,0,0,released,30,42,3,1.57,23.95,12.4,290
+6011000037,0,male,1995,25,Korea,Gyeongsangbuk-do,Andong-si,0,etc,0,0,0,0,2020-02-28,0,0,released,30,42,3,1.57,23.95,12.4,290
+6011000038,0,male,1994,26,Korea,Gyeongsangbuk-do,Andong-si,0,Shincheonji Church,0,0,0,0,2020-03-03,0,0,released,30,42,3,1.57,23.95,12.4,290
+6011000042,0,male,2009,11,Korea,Gyeongsangbuk-do,Andong-si,0,contact with patient,0,0,0,0,2020-03-06,0,0,released,30,42,3,1.57,23.95,12.4,290
+6011000043,0,male,2011,9,Korea,Gyeongsangbuk-do,Andong-si,0,contact with patient,0,0,0,0,2020-03-06,0,0,released,30,42,3,1.57,23.95,12.4,290
+6011000044,0,male,1996,24,Korea,Gyeongsangbuk-do,Andong-si,0,contact with patient,0,0,0,0,2020-03-06,0,0,released,30,42,3,1.57,23.95,12.4,290
+6011000045,0,male,1959,61,Korea,Gyeongsangbuk-do,Andong-si,0,contact with patient,0,6011000040,0,0,2020-03-07,0,0,released,30,42,3,1.57,23.95,12.4,290
+6011000046,0,male,1967,53,Korea,Gyeongsangbuk-do,Andong-si,0,contact with patient,0,0,0,0,2020-03-07,0,0,released,30,42,3,1.57,23.95,12.4,290
+6011000047,0,male,1975,45,Korea,Gyeongsangbuk-do,Andong-si,0,contact with patient,0,0,0,0,2020-03-08,0,0,released,30,42,3,1.57,23.95,12.4,290
+6011000050,0,male,1950,70,Korea,Gyeongsangbuk-do,Andong-si,0,etc,0,0,0,2020-04-01,2020-04-04,0,0,released,30,42,3,1.57,23.95,12.4,290
+6013000001,0,male,2000,20,Korea,Gyeongsangbuk-do,Yeongyang-gun,0,etc,0,0,0,0,2020-02-26,0,0,isolated,6,8,0,0.35,36.36,21.1,24
+6014000002,0,male,1998,22,Korea,Gyeongsangbuk-do,Yeongju-si,0,etc,0,0,3,0,2020-02-24,2020-04-06,0,released,19,26,2,1.61,26.22,13.2,191
+6014000004,0,male,1977,43,Korea,Gyeongsangbuk-do,Yeongju-si,0,etc,0,0,0,0,2020-02-29,2020-04-04,0,released,19,26,2,1.61,26.22,13.2,191
+6014000005,0,male,1955,65,Korea,Gyeongsangbuk-do,Yeongju-si,0,etc,0,0,0,0,2020-03-10,0,0,released,19,26,2,1.61,26.22,13.2,191
+6016000002,0,male,1972,48,Korea,Gyeongsangbuk-do,Yecheon-gun,0,etc,0,0,0,0,2020-02-24,2020-04-02,0,released,12,15,1,1.09,29.79,18.4,97
+6016000003,0,male,1996,24,Korea,Gyeongsangbuk-do,Yecheon-gun,0,etc,0,0,0,0,2020-03-01,2020-03-10,0,released,12,15,1,1.09,29.79,18.4,97
+6016000005,0,male,1966,54,Korea,Gyeongsangbuk-do,Yecheon-gun,0,etc,0,0,0,0,2020-03-04,2020-03-24,0,released,12,15,1,1.09,29.79,18.4,97
+6016000006,0,male,1959,61,Korea,Gyeongsangbuk-do,Yecheon-gun,0,etc,0,0,0,0,2020-03-06,2020-03-22,0,released,12,15,1,1.09,29.79,18.4,97
+6016000008,0,male,1972,48,Korea,Gyeongsangbuk-do,Yecheon-gun,0,contact with patient,0,6016000007,0,0,2020-04-09,0,0,isolated,12,15,1,1.09,29.79,18.4,97
+6016000009,0,male,2001,19,Korea,Gyeongsangbuk-do,Yecheon-gun,0,contact with patient,0,6016000007,0,0,2020-04-09,0,0,isolated,12,15,1,1.09,29.79,18.4,97
+6016000012,0,male,2000,20,Korea,Gyeongsangbuk-do,Yecheon-gun,0,contact with patient,0,6016000009,0,0,2020-04-10,0,0,isolated,12,15,1,1.09,29.79,18.4,97
+6016000013,0,male,2001,19,Korea,Gyeongsangbuk-do,Yecheon-gun,0,contact with patient,0,6016000009,0,0,2020-04-10,0,0,isolated,12,15,1,1.09,29.79,18.4,97
+6016000014,0,male,2001,19,Korea,Gyeongsangbuk-do,Yecheon-gun,0,contact with patient,0,6016000009,0,0,2020-04-10,0,0,isolated,12,15,1,1.09,29.79,18.4,97
+6016000018,0,male,1954,66,Korea,Gyeongsangbuk-do,Yecheon-gun,0,contact with patient,0,6016000015,0,0,2020-04-12,0,0,isolated,12,15,1,1.09,29.79,18.4,97
+6016000019,0,male,2001,19,Korea,Gyeongsangbuk-do,Yecheon-gun,0,contact with patient,0,6016000012,0,0,2020-04-12,0,0,isolated,12,15,1,1.09,29.79,18.4,97
+6016000022,0,male,1969,51,Korea,Gyeongsangbuk-do,Yecheon-gun,0,contact with patient,0,6016000011,0,0,2020-04-13,0,0,isolated,12,15,1,1.09,29.79,18.4,97
+6016000023,0,male,2001,19,Korea,Gyeongsangbuk-do,Yecheon-gun,0,contact with patient,0,6016000009,0,0,2020-04-13,0,0,isolated,12,15,1,1.09,29.79,18.4,97
+6016000024,0,male,1939,81,Korea,Gyeongsangbuk-do,Yecheon-gun,0,contact with patient,0,6016000015,0,0,2020-04-13,0,0,isolated,12,15,1,1.09,29.79,18.4,97
+6016000025,0,male,1977,43,Korea,Gyeongsangbuk-do,Yecheon-gun,0,contact with patient,0,6016000009,0,0,2020-04-14,0,0,isolated,12,15,1,1.09,29.79,18.4,97
+6016000026,0,male,2001,19,Korea,Gyeongsangbuk-do,Yecheon-gun,0,contact with patient,0,6016000009,0,0,2020-04-13,0,0,isolated,12,15,1,1.09,29.79,18.4,97
+6016000027,0,male,2010,10,Korea,Gyeongsangbuk-do,Yecheon-gun,0,contact with patient,0,6016000019,0,0,2020-04-14,0,0,isolated,12,15,1,1.09,29.79,18.4,97
+6016000034,0,male,2001,19,Korea,Gyeongsangbuk-do,Yecheon-gun,0,contact with patient,0,6016000009,0,0,2020-04-15,0,0,isolated,12,15,1,1.09,29.79,18.4,97
+6016000036,0,male,2003,17,Korea,Gyeongsangbuk-do,Yecheon-gun,0,contact with patient,0,6016000009,0,0,2020-04-16,0,0,isolated,12,15,1,1.09,29.79,18.4,97
+6016000037,0,male,2001,19,Korea,Gyeongsangbuk-do,Yecheon-gun,0,contact with patient,0,6016000034,0,0,2020-04-16,0,0,isolated,12,15,1,1.09,29.79,18.4,97
+6016000039,0,male,2005,15,Korea,Gyeongsangbuk-do,Yecheon-gun,0,contact with patient,0,6016000036,0,0,2020-04-18,0,0,isolated,12,15,1,1.09,29.79,18.4,97
+6016000040,0,male,2002,18,Korea,Gyeongsangbuk-do,Yecheon-gun,0,contact with patient,0,6016000026,0,0,2020-04-19,0,0,isolated,12,15,1,1.09,29.79,18.4,97
+6016000041,0,male,2001,19,Korea,Gyeongsangbuk-do,Yecheon-gun,0,contact with patient,0,6016000040,0,0,2020-04-21,0,0,isolated,12,15,1,1.09,29.79,18.4,97
+6016000042,0,male,2016,4,Korea,Gyeongsangbuk-do,Yecheon-gun,0,etc,0,0,0,0,2020-04-24,0,0,isolated,12,15,1,1.09,29.79,18.4,97
+6016000044,0,male,1973,47,Korea,Gyeongsangbuk-do,Yecheon-gun,0,contact with patient,0,6016000038,0,0,2020-05-01,0,0,isolated,12,15,1,1.09,29.79,18.4,97
+6019000005,0,male,1947,73,Korea,Gyeongsangbuk-do,Uiseong-gun,0,etc,0,0,0,0,2020-02-22,0,0,isolated,4,6,0,0.21,24.81,10.7,11
+6019000006,0,male,1961,59,Korea,Gyeongsangbuk-do,Uiseong-gun,0,etc,0,0,0,0,2020-02-22,0,0,isolated,4,6,0,0.21,24.81,10.7,11
+6019000007,0,male,1952,68,Korea,Gyeongsangbuk-do,Uiseong-gun,0,etc,0,0,0,0,2020-02-22,0,0,isolated,4,6,0,0.21,24.81,10.7,11
+6019000010,0,male,1953,67,Korea,Gyeongsangbuk-do,Uiseong-gun,0,etc,0,0,0,0,2020-02-23,0,0,isolated,4,6,0,0.21,24.81,10.7,11
+6019000020,0,male,1991,29,Korea,Gyeongsangbuk-do,Uiseong-gun,0,etc,0,0,0,0,2020-02-24,0,0,isolated,4,6,0,0.21,24.81,10.7,11
+6019000021,0,male,1993,27,Korea,Gyeongsangbuk-do,Uiseong-gun,0,etc,0,0,0,0,2020-02-25,0,0,isolated,4,6,0,0.21,24.81,10.7,11
+6019000024,0,male,1935,85,Korea,Gyeongsangbuk-do,Uiseong-gun,0,etc,0,0,0,0,2020-02-25,0,0,isolated,4,6,0,0.21,24.81,10.7,11
+6019000026,0,male,1944,76,Korea,Gyeongsangbuk-do,Uiseong-gun,0,etc,0,0,0,0,2020-02-25,0,0,isolated,4,6,0,0.21,24.81,10.7,11
+6019000028,0,male,1957,63,Korea,Gyeongsangbuk-do,Uiseong-gun,0,etc,0,0,0,0,2020-02-26,0,0,isolated,4,6,0,0.21,24.81,10.7,11
+6019000034,0,male,1933,87,Korea,Gyeongsangbuk-do,Uiseong-gun,0,etc,0,0,0,0,2020-02-27,0,0,isolated,4,6,0,0.21,24.81,10.7,11
+6019000036,0,male,1990,30,Korea,Gyeongsangbuk-do,Uiseong-gun,0,etc,0,0,0,0,2020-02-29,0,0,isolated,4,6,0,0.21,24.81,10.7,11
+6019000037,0,male,1943,77,Korea,Gyeongsangbuk-do,Uiseong-gun,0,etc,0,0,0,0,2020-02-29,0,0,isolated,4,6,0,0.21,24.81,10.7,11
+6019000039,0,male,1948,72,Korea,Gyeongsangbuk-do,Uiseong-gun,0,etc,0,0,0,0,2020-03-05,0,0,isolated,4,6,0,0.21,24.81,10.7,11
+6019000040,0,male,1953,67,Korea,Gyeongsangbuk-do,Uiseong-gun,0,etc,0,0,0,0,2020-03-14,0,0,isolated,4,6,0,0.21,24.81,10.7,11
+6020100054,54,male,1963,57,Korea,Gyeongsangbuk-do,Cheongdo-gun,TRUE,Cheongdo Daenam Hospital,0,0,0,0,2020-02-19,0,2020-02-23,deceased,11,14,0,0.63,36.55,21,85
+6020100055,55,male,1961,59,Korea,Gyeongsangbuk-do,Cheongdo-gun,TRUE,Cheongdo Daenam Hospital,0,0,0,0,2020-02-19,0,2020-02-23,deceased,11,14,0,0.63,36.55,21,85
+6020100104,104,male,1957,63,Korea,Gyeongsangbuk-do,Cheongdo-gun,TRUE,Cheongdo Daenam Hospital,0,0,0,0,2020-02-20,0,2020-02-19,deceased,11,14,0,0.63,36.55,21,85
+6020100107,107,male,1953,67,Korea,Gyeongsangbuk-do,Cheongdo-gun,TRUE,Cheongdo Daenam Hospital,0,0,0,0,2020-02-21,0,2020-02-24,deceased,11,14,0,0.63,36.55,21,85
+6020100286,286,male,1958,62,Korea,Gyeongsangbuk-do,Cheongdo-gun,TRUE,Cheongdo Daenam Hospital,0,0,0,0,2020-02-22,0,2020-02-23,deceased,11,14,0,0.63,36.55,21,85
+6020100298,298,male,1962,58,Korea,Gyeongsangbuk-do,Cheongdo-gun,TRUE,Cheongdo Daenam Hospital,0,0,0,0,2020-02-22,0,2020-02-25,deceased,11,14,0,0.63,36.55,21,85
+6021000001,864,male,1993,27,Korea,Gyeongsangbuk-do,Cheongsong-gun,0,etc,0,0,0,0,2020-02-24,0,0,isolated,8,8,0,0.51,36.08,19.4,55
+6021000002,1518,male,1999,21,Korea,Gyeongsangbuk-do,Cheongsong-gun,0,etc,0,0,0,0,2020-02-26,0,0,isolated,8,8,0,0.51,36.08,19.4,55
+6022000001,0,male,1964,56,Korea,Gyeongsangbuk-do,Chilgok-gun,0,etc,0,0,0,0,2020-02-23,2020-03-06,0,released,21,32,2,1.48,15.17,6.7,151
+6022000002,0,male,1985,35,Korea,Gyeongsangbuk-do,Chilgok-gun,0,etc,0,0,0,0,2020-02-24,2020-03-20,0,released,21,32,2,1.48,15.17,6.7,151
+6022000003,0,male,1995,25,Korea,Gyeongsangbuk-do,Chilgok-gun,0,etc,0,0,0,0,2020-02-24,2020-03-16,0,released,21,32,2,1.48,15.17,6.7,151
+6022000004,0,male,1965,55,Korea,Gyeongsangbuk-do,Chilgok-gun,0,Milal Shelter,0,0,0,0,2020-02-24,2020-03-06,0,released,21,32,2,1.48,15.17,6.7,151
+6022000005,0,male,1964,56,Korea,Gyeongsangbuk-do,Chilgok-gun,0,etc,0,0,0,0,2020-02-24,2020-03-23,0,released,21,32,2,1.48,15.17,6.7,151
+6022000006,0,male,1980,40,Korea,Gyeongsangbuk-do,Chilgok-gun,0,etc,0,0,0,0,2020-02-25,0,0,isolated,21,32,2,1.48,15.17,6.7,151
+6022000007,0,male,1983,37,Korea,Gyeongsangbuk-do,Chilgok-gun,0,Milal Shelter,0,0,0,0,2020-02-25,2020-03-16,0,released,21,32,2,1.48,15.17,6.7,151
+6022000008,0,male,1962,58,Korea,Gyeongsangbuk-do,Chilgok-gun,0,Milal Shelter,0,0,0,0,2020-02-25,2020-03-25,0,released,21,32,2,1.48,15.17,6.7,151
+6022000011,0,male,1973,47,Korea,Gyeongsangbuk-do,Chilgok-gun,0,etc,0,0,0,0,2020-02-25,0,0,isolated,21,32,2,1.48,15.17,6.7,151
+6022000012,0,male,1983,37,Korea,Gyeongsangbuk-do,Chilgok-gun,0,etc,0,0,0,0,2020-02-25,2020-03-11,0,released,21,32,2,1.48,15.17,6.7,151
+6022000013,0,male,1954,66,Korea,Gyeongsangbuk-do,Chilgok-gun,0,etc,0,0,0,0,2020-02-25,2020-03-31,0,released,21,32,2,1.48,15.17,6.7,151
+6022000014,0,male,1955,65,Korea,Gyeongsangbuk-do,Chilgok-gun,0,etc,0,0,0,0,2020-02-25,2020-03-24,0,released,21,32,2,1.48,15.17,6.7,151
+6022000015,0,male,1983,37,Korea,Gyeongsangbuk-do,Chilgok-gun,0,etc,0,0,0,0,2020-02-25,2020-03-23,0,released,21,32,2,1.48,15.17,6.7,151
+6022000018,0,male,1983,37,Korea,Gyeongsangbuk-do,Chilgok-gun,0,etc,0,0,0,0,2020-02-25,2020-03-16,0,released,21,32,2,1.48,15.17,6.7,151
+6022000020,0,male,1990,30,Korea,Gyeongsangbuk-do,Chilgok-gun,0,Milal Shelter,0,0,0,0,2020-02-25,0,0,isolated,21,32,2,1.48,15.17,6.7,151
+6022000022,0,male,1984,36,Korea,Gyeongsangbuk-do,Chilgok-gun,0,Milal Shelter,0,0,0,0,2020-02-25,2020-03-21,0,released,21,32,2,1.48,15.17,6.7,151
+6022000023,0,male,1998,22,Korea,Gyeongsangbuk-do,Chilgok-gun,0,Milal Shelter,0,0,0,0,2020-02-25,2020-04-06,0,released,21,32,2,1.48,15.17,6.7,151
+6022000024,0,male,1978,42,Korea,Gyeongsangbuk-do,Chilgok-gun,0,etc,0,0,0,0,2020-02-26,0,0,isolated,21,32,2,1.48,15.17,6.7,151
+6022000027,0,male,1951,69,Korea,Gyeongsangbuk-do,Chilgok-gun,0,etc,0,0,0,0,2020-02-28,2020-03-16,0,released,21,32,2,1.48,15.17,6.7,151
+6022000028,0,male,1974,46,Korea,Gyeongsangbuk-do,Chilgok-gun,0,etc,0,0,0,0,2020-02-28,2020-03-20,0,released,21,32,2,1.48,15.17,6.7,151
+6022000030,0,male,1995,25,Korea,Gyeongsangbuk-do,Chilgok-gun,0,etc,0,0,0,0,2020-02-29,2020-03-12,0,released,21,32,2,1.48,15.17,6.7,151
+6022000031,0,male,2001,19,Korea,Gyeongsangbuk-do,Chilgok-gun,0,etc,0,0,0,0,2020-02-29,2020-03-20,0,released,21,32,2,1.48,15.17,6.7,151
+6022000032,0,male,1995,25,Korea,Gyeongsangbuk-do,Chilgok-gun,0,etc,0,0,0,0,2020-02-29,0,0,isolated,21,32,2,1.48,15.17,6.7,151
+6022000035,0,male,2001,19,Korea,Gyeongsangbuk-do,Chilgok-gun,0,etc,0,0,0,0,2020-03-01,2020-03-31,0,released,21,32,2,1.48,15.17,6.7,151
+6022000039,0,male,1999,21,Korea,Gyeongsangbuk-do,Chilgok-gun,0,etc,0,0,0,0,2020-03-03,2020-03-14,0,released,21,32,2,1.48,15.17,6.7,151
+6022000040,0,male,1966,54,Korea,Gyeongsangbuk-do,Chilgok-gun,0,etc,0,0,0,0,2020-03-03,2020-03-26,0,released,21,32,2,1.48,15.17,6.7,151
+6022000041,0,male,1996,24,Korea,Gyeongsangbuk-do,Chilgok-gun,0,etc,0,0,0,0,2020-03-03,2020-03-25,0,released,21,32,2,1.48,15.17,6.7,151
+6022000042,0,male,1969,51,Korea,Gyeongsangbuk-do,Chilgok-gun,0,etc,0,0,0,0,2020-03-03,2020-03-28,0,released,21,32,2,1.48,15.17,6.7,151
+6022000043,0,male,1951,69,Korea,Gyeongsangbuk-do,Chilgok-gun,0,etc,0,0,0,0,2020-03-03,2020-04-06,0,released,21,32,2,1.48,15.17,6.7,151
+6022000044,0,male,1991,29,Korea,Gyeongsangbuk-do,Chilgok-gun,0,Milal Shelter,0,0,0,0,2020-03-03,2020-03-20,0,released,21,32,2,1.48,15.17,6.7,151
+6022000045,0,male,1962,58,Korea,Gyeongsangbuk-do,Chilgok-gun,0,etc,0,0,0,0,2020-03-05,2020-04-02,0,released,21,32,2,1.48,15.17,6.7,151
+6022000047,0,male,1955,65,Korea,Gyeongsangbuk-do,Chilgok-gun,0,etc,0,0,0,0,2020-03-05,2020-03-29,0,released,21,32,2,1.48,15.17,6.7,151
+6022000048,0,male,1956,64,Korea,Gyeongsangbuk-do,Chilgok-gun,0,etc,0,0,0,0,2020-03-06,2020-03-24,0,released,21,32,2,1.48,15.17,6.7,151
+6100000001,0,male,1996,24,Korea,Gyeongsangnam-do,Hapcheon-gun,0,Shincheonji Church,0,0,0,0,2020-02-20,0,0,released,17,15,0,0.71,38.44,24.7,96
+6100000002,0,male,1948,72,Korea,Gyeongsangnam-do,Hapcheon-gun,0,Shincheonji Church,0,0,0,0,2020-02-20,0,0,released,17,15,0,0.71,38.44,24.7,96
+6100000004,0,male,2006,14,Korea,Gyeongsangnam-do,Jinju-si,0,Shincheonji Church,0,0,0,0,2020-02-21,0,0,released,45,53,6,2.49,16.27,8.6,597
+6100000005,0,male,1973,47,Korea,Gyeongsangnam-do,Changwon-si,0,contact with patient,0,6100000007,0,0,2020-02-22,2020-03-26,0,released,110,195,5,1.84,13.64,6.5,1701
+6100000007,0,male,1999,21,Korea,Gyeongsangnam-do,Changwon-si,0,etc,0,0,0,0,2020-02-22,2020-03-24,0,isolated,110,195,5,1.84,13.64,6.5,1701
+6100000008,0,male,1950,70,Korea,Gyeongsangnam-do,Yangsan-si,0,contact with patient,0,1200000031,0,0,2020-02-22,0,0,released,37,68,2,1.59,12.92,6.2,507
+6100000011,0,male,1994,26,Korea,Gyeongsangnam-do,Hamyang-gun,0,contact with patient,0,0,0,0,2020-02-23,0,0,released,13,12,0,1.01,32.65,20.9,83
+6100000012,0,male,1971,49,Korea,Gyeongsangnam-do,Changwon-si,0,contact with patient,0,6100000005,0,0,2020-02-23,2020-04-04,0,released,110,195,5,1.84,13.64,6.5,1701
+6100000014,0,male,1986,34,Korea,Gyeongsangnam-do,Changwon-si,0,Shincheonji Church,0,0,0,0,2020-02-23,0,0,released,110,195,5,1.84,13.64,6.5,1701
+6100000016,0,male,1986,34,Korea,Gyeongsangnam-do,Hapcheon-gun,0,Shincheonji Church,0,0,0,0,2020-02-23,0,0,released,17,15,0,0.71,38.44,24.7,96
+6100000021,0,male,1948,72,Korea,Gyeongsangnam-do,Hapcheon-gun,0,contact with patient,0,6100000015,0,0,2020-02-24,0,0,released,17,15,0,0.71,38.44,24.7,96
+6100000023,0,male,1953,67,Korea,Gyeongsangnam-do,Changwon-si,0,Shincheonji Church,0,0,0,2020-02-18,2020-02-24,2020-04-18,0,released,110,195,5,1.84,13.64,6.5,1701
+6100000024,0,male,1989,31,Korea,Gyeongsangnam-do,Namhae-gun,0,contact with patient,0,0,0,0,2020-02-25,0,0,released,13,10,1,1.03,36.92,23.3,88
+6100000025,0,male,1972,48,Korea,Gyeongsangnam-do,Changwon-si,0,etc,0,0,0,0,2020-02-25,2020-03-03,0,released,110,195,5,1.84,13.64,6.5,1701
+6100000026,0,male,1986,34,Korea,Gyeongsangnam-do,Changwon-si,0,etc,0,0,0,2020-02-22,2020-02-25,2020-03-18,0,released,110,195,5,1.84,13.64,6.5,1701
+6100000029,0,male,2004,16,Korea,Gyeongsangnam-do,Changwon-si,0,contact with patient,0,0,0,0,2020-02-26,2020-03-25,0,released,110,195,5,1.84,13.64,6.5,1701
+6100000030,0,male,1999,21,Korea,Gyeongsangnam-do,Changwon-si,0,Shincheonji Church,0,0,0,0,2020-02-26,2020-03-12,0,released,110,195,5,1.84,13.64,6.5,1701
+6100000040,0,male,1964,56,Korea,Gyeongsangnam-do,Changwon-si,0,contact with patient,0,6100000028,0,0,2020-02-26,2020-03-26,0,released,110,195,5,1.84,13.64,6.5,1701
+6100000041,0,male,1985,35,Korea,Gyeongsangnam-do,Miryang-si,0,contact with patient,0,6100000049,0,0,2020-02-26,0,0,released,21,25,0,1.39,27.31,16.3,178
+6100000042,0,male,1979,41,Korea,Gyeongsangnam-do,Changwon-si,0,contact with patient,0,6100000012,0,2020-02-25,2020-02-26,2020-04-01,0,released,110,195,5,1.84,13.64,6.5,1701
+6100000043,0,male,1996,24,Korea,Gyeongsangnam-do,Gimhae-si,0,Shincheonji Church,0,0,0,0,2020-02-26,0,0,released,58,91,4,2.1,10.74,5.3,711
+6100000047,0,male,1971,49,Korea,Gyeongsangnam-do,Geochang-gun,0,Geochang Church,0,0,0,0,2020-02-27,2020-03-23,0,released,17,16,2,1.25,27.01,17.4,127
+6100000050,0,male,2015,5,Korea,Gyeongsangnam-do,Miryang-si,0,contact with patient,0,0,0,0,2020-02-28,0,0,released,21,25,0,1.39,27.31,16.3,178
+6100000053,0,male,1963,57,Korea,Gyeongsangnam-do,Geoje-si,0,contact with patient,0,0,0,0,2020-02-28,2020-04-01,0,released,38,58,1,1.76,10.22,4.7,317
+6100000054,0,male,1951,69,Korea,Gyeongsangnam-do,Geochang-gun,0,Geochang Church,0,0,0,0,2020-02-28,2020-03-22,0,released,17,16,2,1.25,27.01,17.4,127
+6100000056,0,male,1990,30,Korea,Gyeongsangnam-do,Changnyeong-gun,0,contact with patient,0,6100000061,0,2020-02-27,2020-02-28,0,0,released,17,20,0,0.8,29.8,18.4,129
+6100000057,0,male,1955,65,Korea,Gyeongsangnam-do,Geochang-gun,0,Geochang Church,0,6100000003,0,2020-02-26,2020-02-28,2020-04-05,0,released,17,16,2,1.25,27.01,17.4,127
+6100000058,0,male,1965,55,Korea,Gyeongsangnam-do,Geochang-gun,0,Geochang Church,0,6100000030,0,0,2020-02-28,2020-03-21,0,released,17,16,2,1.25,27.01,17.4,127
+6100000060,0,male,1966,54,Korea,Gyeongsangnam-do,Gimhae-si,0,etc,0,0,0,0,2020-02-28,0,0,released,58,91,4,2.1,10.74,5.3,711
+6100000061,0,male,1990,30,Korea,Gyeongsangnam-do,Changnyeong-gun,0,etc,0,0,0,0,2020-02-29,0,0,released,17,20,0,0.8,29.8,18.4,129
+6100000067,0,male,1960,60,Korea,Gyeongsangnam-do,Geochang-gun,0,contact with patient,0,6100000069,0,2020-03-02,2020-03-04,2020-04-02,0,released,17,16,2,1.25,27.01,17.4,127
+6100000070,0,male,1996,24,Korea,Gyeongsangnam-do,Changnyeong-gun,0,Changnyeong Coin Karaoke,0,0,0,0,2020-03-04,0,0,released,17,20,0,0.8,29.8,18.4,129
+6100000073,0,male,1957,63,Korea,Gyeongsangnam-do,Miryang-si,0,contact with patient,0,0,0,0,2020-03-04,0,0,isolated,21,25,0,1.39,27.31,16.3,178
+6100000075,0,male,2014,6,Korea,Gyeongsangnam-do,Changwon-si,0,contact with patient,0,6100000074,0,0,2020-03-05,2020-03-19,0,released,110,195,5,1.84,13.64,6.5,1701
+6100000076,0,male,1996,24,Korea,Gyeongsangnam-do,Changnyeong-gun,0,Changnyeong Coin Karaoke,0,0,0,0,2020-03-05,0,0,released,17,20,0,0.8,29.8,18.4,129
+6100000079,0,male,1994,26,Korea,Gyeongsangnam-do,Changnyeong-gun,0,contact with patient,0,6100000076,0,0,2020-03-06,0,0,released,17,20,0,0.8,29.8,18.4,129
+6100000082,0,male,1963,57,Korea,Gyeongsangnam-do,Geochang-gun,0,contact with patient,0,6100000068,0,0,2020-03-07,2020-03-19,0,released,17,16,2,1.25,27.01,17.4,127
+6100000083,0,male,1992,28,Korea,Gyeongsangnam-do,Geoje-si,0,etc,0,0,0,0,2020-03-10,2020-03-30,0,released,38,58,1,1.76,10.22,4.7,317
+6100000084,0,male,1971,49,Korea,Gyeongsangnam-do,Geoje-si,0,etc,0,0,0,0,2020-03-11,2020-03-14,0,released,38,58,1,1.76,10.22,4.7,317
+6100000085,0,male,1990,30,Korea,Gyeongsangnam-do,Changwon-si,0,overseas inflow,0,0,0,2020-03-15,2020-03-16,2020-04-08,0,released,110,195,5,1.84,13.64,6.5,1701
+6100000086,0,male,1966,54,Korea,Gyeongsangnam-do,Changwon-si,0,etc,0,0,0,2020-03-15,2020-03-19,0,0,isolated,110,195,5,1.84,13.64,6.5,1701
+6100000088,0,male,1994,26,Korea,Gyeongsangnam-do,Changwon-si,0,etc,0,0,0,2020-03-06,2020-03-22,2020-04-19,0,released,110,195,5,1.84,13.64,6.5,1701
+6100000089,0,male,1960,60,Korea,Gyeongsangnam-do,Haman-gun,0,etc,0,6002000035,0,2020-03-22,2020-03-23,0,0,released,16,20,0,1.19,23.74,14.7,94
+6100000090,0,male,1980,40,Korea,Gyeongsangnam-do,Yangsan-si,0,overseas inflow,0,0,0,2020-03-25,2020-03-26,0,0,released,37,68,2,1.59,12.92,6.2,507
+6100000092,0,male,1979,41,Korea,Gyeongsangnam-do,Changwon-si,0,overseas inflow,0,0,0,2020-03-28,2020-03-28,2020-04-15,0,released,110,195,5,1.84,13.64,6.5,1701
+6100000094,0,male,1991,29,Korea,Gyeongsangnam-do,Gimhae-si,0,overseas inflow,0,0,0,2020-03-28,2020-03-29,0,0,released,58,91,4,2.1,10.74,5.3,711
+6100000095,0,male,1962,58,Korea,Gyeongsangnam-do,Changwon-si,0,overseas inflow,0,0,0,2020-03-28,2020-03-20,0,0,isolated,110,195,5,1.84,13.64,6.5,1701
+6100000096,0,male,1957,63,Korea,Gyeongsangnam-do,Changwon-si,0,overseas inflow,0,0,0,2020-03-24,2020-03-31,2020-04-25,0,released,110,195,5,1.84,13.64,6.5,1701
+6100000098,0,male,1959,61,Korea,Gyeongsangnam-do,Jinju-si,0,etc,0,0,0,2020-03-28,2020-03-31,0,0,isolated,45,53,6,2.49,16.27,8.6,597
+6100000099,0,male,1980,40,Korea,Gyeongsangnam-do,Jinju-si,0,etc,0,0,0,2020-03-31,2020-03-31,0,0,isolated,45,53,6,2.49,16.27,8.6,597
+6100000101,0,male,1980,40,Korea,Gyeongsangnam-do,Yangsan-si,0,overseas inflow,0,0,0,2020-03-28,2020-03-31,0,0,isolated,37,68,2,1.59,12.92,6.2,507
+6100000105,0,male,1996,24,Korea,Gyeongsangnam-do,Gimhae-si,0,overseas inflow,0,0,0,2020-03-31,2020-04-01,0,0,released,58,91,4,2.1,10.74,5.3,711
+6100000106,0,male,1993,27,Korea,Gyeongsangnam-do,Sacheon-si,0,overseas inflow,0,0,0,2020-04-02,2020-04-02,0,0,released,18,20,0,1.84,21.17,11.7,191
+6100000108,0,male,2004,16,Korea,Gyeongsangnam-do,Sacheon-si,0,overseas inflow,0,0,0,2020-03-31,2020-04-04,0,0,released,18,20,0,1.84,21.17,11.7,191
+6100000109,0,male,1981,39,Korea,Gyeongsangnam-do,Changwon-si,0,etc,0,0,0,2020-04-01,2020-04-05,0,0,isolated,110,195,5,1.84,13.64,6.5,1701
+6100000110,0,male,2011,9,Korea,Gyeongsangnam-do,Changwon-si,0,etc,0,0,0,2020-04-03,2020-04-05,0,0,isolated,110,195,5,1.84,13.64,6.5,1701
+6100000111,0,male,1999,21,Korea,Gyeongsangnam-do,Sacheon-si,0,contact with patient,0,6100000100,0,2020-04-04,2020-04-06,0,0,isolated,18,20,0,1.84,21.17,11.7,191
+6100000112,0,male,1954,66,Korea,Gyeongsangnam-do,Hapcheon-gun,0,contact with patient,0,6100000108,0,2020-04-03,2020-04-07,0,0,released,17,15,0,0.71,38.44,24.7,96
+6100000113,0,male,1990,30,Korea,Gyeongsangnam-do,Geoje-si,0,overseas inflow,0,0,0,2020-03-29,2020-04-08,0,0,isolated,38,58,1,1.76,10.22,4.7,317
+6100000115,0,male,1998,22,Korea,Gyeongsangnam-do,Changwon-si,0,etc,0,0,0,2020-04-14,2020-04-16,2020-04-25,0,released,110,195,5,1.84,13.64,6.5,1701
+6100000116,0,male,1955,65,Korea,Gyeongsangnam-do,Changwon-si,0,etc,0,0,0,2020-04-20,2020-04-21,0,0,isolated,110,195,5,1.84,13.64,6.5,1701
+6100000117,0,male,1966,54,Korea,Gyeongsangnam-do,Geoje-si,0,overseas inflow,0,0,0,0,2020-05-11,0,0,released,38,58,1,1.76,10.22,4.7,317
+6100000118,0,male,1992,28,Korea,Gyeongsangnam-do,Geoje-si,0,Itaewon Clubs,0,0,0,0,2020-05-12,0,0,isolated,38,58,1,1.76,10.22,4.7,317
+6100000121,0,male,1998,22,Korea,Gyeongsangnam-do,Jinju-si,0,Itaewon Clubs,0,0,0,2020-05-17,2020-05-21,0,0,isolated,45,53,6,2.49,16.27,8.6,597
+6100000122,0,male,1960,60,Korea,Gyeongsangnam-do,Jinju-si,0,etc,0,0,0,2020-05-21,2020-05-22,0,0,released,45,53,6,2.49,16.27,8.6,597
+7000000001,139,male,1998,22,Korea,Jeju-do,Jeju-do,0,etc,0,0,87,0,2020-02-20,2020-03-23,0,released,113,123,4,1.53,15.1,6.4,1245
+7000000004,5534,male,1974,46,Korea,Jeju-do,Jeju-do,0,etc,0,0,74,0,2020-03-04,2020-03-21,0,released,113,123,4,1.53,15.1,6.4,1245
